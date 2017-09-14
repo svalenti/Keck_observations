@@ -6,7 +6,12 @@ from pyraf import iraf
 import os,string,re,sys
 import math
 import argparse
-import pyfits
+
+try:
+    import pyfits
+except:
+    from astropy.io import fits as pyfits
+    
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 import numpy as np
