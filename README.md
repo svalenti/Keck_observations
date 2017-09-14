@@ -22,7 +22,7 @@ first password    wombat1
 (the first password may be already in because of the previous connection)
 
 _______________________________________________________
-Instruction for file list:
+- Instruction for file list:
 https://www2.keck.hawaii.edu/observing/starlist.html
 
 - Afternoon checklist 
