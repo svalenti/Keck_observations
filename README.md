@@ -1,29 +1,40 @@
 # Keck_observations
+
 this repository is for Keck observations
 
 
 Mainland connection
 
-- enter as remote 
-user       remote
-password   Keck_2016!
+- enter as remote  
+
+<b> user       remote </b>
+
+<b> password   Keck_2016! </b>
 
 
-- open terminal and go to remote/bin/
+- <b> open terminal and go to remote/bin/ </b>
 
-- open 6 terminals 
-kvncinst    lris lris9
-first password    OpenUp
-second password   wombat1
+- <b> open 6 terminals </b>
 
-- open 2 terminals
-kvnctel    lris lris9
-first password    wombat1
-(the first password may be already in because of the previous connection)
+<b>kvncinst    lris lris9 </b>
+
+<b> first password    OpenUp </b> 
+
+<b> second password   wombat1</b>
+
+
+- <b> open 2 terminals</b>
+
+<b> kvnctel    lris lris9 </b>
+
+<b> first password    wombat1 </b>
+
+<b> (the first password may be already in because of the previous connection) </b>
 
 _______________________________________________________
 - Instruction for file list:
 https://www2.keck.hawaii.edu/observing/starlist.html
+
 
 - Afternoon checklist 
 https://www2.keck.hawaii.edu/inst/lris/checklist_pre_obs.html
