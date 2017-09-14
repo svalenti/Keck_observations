@@ -1,0 +1,85 @@
+===============================================================
+Targets for the night of 2017-09-14 observred at keck
+
+===============================================================
+
+Assume SN is 100 days old at fall from plateau. End of plateau and end of fall from 
+plateau are approximated visually from LCO SNEX data. If no fall from plateau 
+can be measured, assume explosion is max-10 days, a drop of 2 mag over 100 
+days in the plateau, and a drop of 2.5 mag over 20 days in the fall from 
+plateau. Remaining magnitude change is calculated from the nickel decay. 
+Assume a nickel decay slope of 0.1 mag/day.
+
+Visibility Rating Scale:
+------------------------------
+	1: airmass =1 
+	2: 1<airmass<1.5 
+	3: 1.5<airmass<2
+	4: 2<airmass<3
+	5: airmass>3
+
+#########################
+SN 2017eaw; VISIBILITY=2
+#########################
+	 mag on 2017-09-14 = 14.16
+	 age on 2017-09-14 = 134.00
+#########################
+SN 2017czd; VISIBILITY=3
+#########################
+	 mag on 2017-09-14 = 19.82
+	 age on 2017-09-14 = 246.00
+#########################
+SN 2017cfo; VISIBILITY=5
+#########################
+	 mag on 2017-09-14 = 21.07
+	 age on 2017-09-14 = 221.00
+#########################
+SN 2017ckg; VISIBILITY=5
+#########################
+	 mag on 2017-09-14 = 20.56
+	 age on 2017-09-14 = 243.00
+#########################
+SN 2017cjb; VISIBILITY=5
+#########################
+	 mag on 2017-09-14 = 19.33
+	 age on 2017-09-14 = 209.00
+#########################
+SN 2017cff; VISIBILITY=4
+#########################
+	 mag on 2017-09-14 = 20.86
+	 age on 2017-09-14 = 213.00
+#########################
+SN 2016jft; VISIBILITY=5
+#########################
+	 mag on 2017-09-14 = 21.86
+	 age on 2017-09-14 = 256.00
+#########################
+SN 2016iyz; VISIBILITY=2
+#########################
+	 mag on 2017-09-14 = 20.33
+	 age on 2017-09-14 = 272.00
+#########################
+SN 2016iyd; VISIBILITY=5
+#########################
+	 mag on 2017-09-14 = 21.34
+	 age on 2017-09-14 = 263.00
+#########################
+SN 2016iog; VISIBILITY=5
+#########################
+	 mag on 2017-09-14 = 21.88
+	 age on 2017-09-14 = 351.00
+#########################
+SN 2016grk; VISIBILITY=2
+#########################
+	 mag on 2017-09-14 = 21.77
+	 age on 2017-09-14 = 381.00
+#########################
+SN 2016ija; VISIBILITY=3
+#########################
+	 mag on 2017-09-14 = 22.47
+	 age on 2017-09-14 = 321.00
+#########################
+SN 2016gil; VISIBILITY=3
+#########################
+	 mag on 2017-09-14 = 21.86
+	 age on 2017-09-14 = 381.00

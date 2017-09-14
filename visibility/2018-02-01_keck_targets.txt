@@ -1,0 +1,105 @@
+===============================================================
+Targets for the night of 2018-02-01 observred at keck
+
+===============================================================
+
+Assume SN is 100 days old at fall from plateau. End of plateau and end of fall from 
+plateau are approximated visually from LCO SNEX data. If no fall from plateau 
+can be measured, assume explosion is max-10 days, a drop of 2 mag over 100 
+days in the plateau, and a drop of 2.5 mag over 20 days in the fall from 
+plateau. Remaining magnitude change is calculated from the nickel decay. 
+Assume a nickel decay slope of 0.1 mag/day.
+
+Visibility Rating Scale:
+------------------------------
+	1: airmass =1 
+	2: 1<airmass<1.5 
+	3: 1.5<airmass<2
+	4: 2<airmass<3
+	5: airmass>3
+
+#########################
+SN 2017gaw; VISIBILITY=2
+#########################
+	 mag on 2018-02-01 = 21.46
+	 age on 2018-02-01 = 174.00
+#########################
+AT 2017fbu; VISIBILITY=2
+#########################
+	 mag on 2018-02-01 = 21.30
+	 age on 2018-02-01 = 174.00
+#########################
+SN 2017eaw; VISIBILITY=5
+#########################
+	 mag on 2018-02-01 = 15.56
+	 age on 2018-02-01 = 274.00
+#########################
+SN 2017czd; VISIBILITY=2
+#########################
+	 mag on 2018-02-01 = 21.22
+	 age on 2018-02-01 = 386.00
+#########################
+SN 2017cfo; VISIBILITY=2
+#########################
+	 mag on 2018-02-01 = 22.47
+	 age on 2018-02-01 = 361.00
+#########################
+SN 2017ckg; VISIBILITY=2
+#########################
+	 mag on 2018-02-01 = 21.96
+	 age on 2018-02-01 = 383.00
+#########################
+SN 2017cjb; VISIBILITY=2
+#########################
+	 mag on 2018-02-01 = 20.73
+	 age on 2018-02-01 = 349.00
+#########################
+SN 2017cff; VISIBILITY=2
+#########################
+	 mag on 2018-02-01 = 22.26
+	 age on 2018-02-01 = 353.00
+#########################
+SN 2017ahn; VISIBILITY=4
+#########################
+	 mag on 2018-02-01 = 21.69
+	 age on 2018-02-01 = 406.00
+#########################
+SN 2016jft; VISIBILITY=2
+#########################
+	 mag on 2018-02-01 = 23.26
+	 age on 2018-02-01 = 396.00
+#########################
+SN 2016jbu; VISIBILITY=5
+#########################
+	 mag on 2018-02-01 = 21.51
+	 age on 2018-02-01 = 397.00
+#########################
+SN 2016iyz; VISIBILITY=2
+#########################
+	 mag on 2018-02-01 = 21.73
+	 age on 2018-02-01 = 412.00
+#########################
+SN 2016iyd; VISIBILITY=5
+#########################
+	 mag on 2018-02-01 = 22.74
+	 age on 2018-02-01 = 403.00
+#########################
+SN 2016iog; VISIBILITY=2
+#########################
+	 mag on 2018-02-01 = 23.28
+	 age on 2018-02-01 = 491.00
+#########################
+SN 2016grk; VISIBILITY=5
+#########################
+	 mag on 2018-02-01 = 23.17
+	 age on 2018-02-01 = 521.00
+#########################
+SN 2016ija; VISIBILITY=3
+#########################
+	 mag on 2018-02-01 = 23.87
+	 age on 2018-02-01 = 461.00
+#########################
+SN 2016gil; VISIBILITY=2
+#########################
+	 mag on 2018-02-01 = 23.26
+	 age on 2018-02-01 = 521.00
