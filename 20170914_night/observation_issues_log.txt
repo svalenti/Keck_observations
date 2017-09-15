@@ -1,0 +1,29 @@
+Starting Red image number: 1
+Starting Blue image number: 1
+
+Red side hangs: SA can fix it
+
+Observation Log:
+Test exposures b/c Red side crashed
+Focus - 7 each side
+
+We saw a vertical line of points on the red side. This is because the focus mechanism didn't move
+This happens sometimes when you restart the software. SA fixed it and we re-ran the focus
+
+Repeat red focus
+
+0.95 FWHM after on sky focus
+
+Don't put in any rotator information to use PA
+
+Grating: 400/8500
+GRANGLE: 23.8386
+WAVELEN: 7773.25
+MSWAVE: 8244.92
+
+
+Observing Log:
+First exposure of 2017cff taken during bright twilight
+Second exposure of 2017czd lost guiding at some point, unclear when
+Missing blue exposures for 2016cuv - blue CCD froze
+Had to recenter in middle of first exposure for 2017gaw
