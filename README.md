@@ -9,7 +9,7 @@ Mainland connection
 
 <b> user       remote </b>
 
-<b> password   Keck_2016! </b>
+<b> password   Keck-2016! </b>
 
 
 - <b> open terminal and go to remote/bin/ </b>
