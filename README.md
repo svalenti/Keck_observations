@@ -14,22 +14,18 @@ Mainland connection
 
 - <b> open terminal and go to remote/bin/ </b>
 
-- <b> open 6 terminals </b>
+- <b> type: kvncinst    lris lris9 </b> (this will open 6 terminale, the number 9 may change, look the schedule page)
 
-<b>kvncinst    lris lris9 </b>
+first password    OpenUp
 
-<b> first password    OpenUp </b> 
-
-<b> second password   wombat1</b>
+second password   wombat1
 
 
-- <b> open 2 terminals</b>
+- <b> type in new remoto terminal: kvnctel    lris lris9 </b> (this will open 2 terminals, the number 9 may change, look the schedule page)
 
-<b> kvnctel    lris lris9 </b>
+first password    wombat1
 
-<b> first password    wombat1 </b>
-
-<b> (the first password may be already in because of the previous connection) </b>
+(the first password may be already in because of the previous connection)
 
 _______________________________________________________
 - Instruction for file list:

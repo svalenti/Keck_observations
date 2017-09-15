@@ -1,4 +1,4 @@
-Useful Links:
+# Useful Links:
 Afternoon Checkout:
 * https://www2.keck.hawaii.edu/inst/lris/checklist_pre_obs.html
 
