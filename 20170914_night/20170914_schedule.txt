@@ -1,0 +1,11 @@
+Schedule:
+Name    Mag EXPTIME         Obj#    ObsTime (UT)         
+2017ccf 21  2x1200 (40min)     1     5-5:49(5:50-6 vingetted)
+2017czd 20  2x900  (30min)     2     6-6:40
+2016cuv 20? 2x900  (30min)    13      6:40 - 7:20 #Observed for Foley
+2017drh 19  2x600  (20min)     3     7:20 - 7:40
+2017eaw 16  2x300  (10min)     4     7:40 - 8
+2016grk 22  2x1200 (60min)     5    8 - 9:10
+2017gaw 19  2x600  (20min)     6     9:10 - 9:40
+2017fbu 17  2x300  (10min)     7     9:40 - 10
+2016gkg 20 #Foley group is observing for us/to share - they were going to do 1 hour - we're trading 30 minutes
