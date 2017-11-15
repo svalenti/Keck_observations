@@ -1,0 +1,90 @@
+===============================================================
+Targets for the night of 2017-11-17 observred at keck
+
+===============================================================
+
+Assume SN is 100 days old at fall from plateau. End of plateau and end of fall from 
+plateau are approximated visually from LCO SNEX data. If no fall from plateau 
+can be measured, assume explosion is max-10 days, a drop of 2 mag over 100 
+days in the plateau, and a drop of 2.5 mag over 20 days in the fall from 
+plateau. Remaining magnitude change is calculated from the nickel decay. 
+Assume a nickel decay slope of 0.1 mag/day.
+
+Visibility Rating Scale:
+------------------------------
+	1: airmass =1 
+	2: 1<airmass<1.5 
+	3: 1.5<airmass<2
+	4: 2<airmass<3
+	5: airmass>3
+
+#########################
+SN 2017gaw; VISIBILITY=2
+#########################
+	 mag on 2017-11-17 = 20.70
+	 age on 2017-11-17 = 98.00
+#########################
+AT 2017fbu; VISIBILITY=2
+#########################
+	 mag on 2017-11-17 = 20.54
+	 age on 2017-11-17 = 98.00
+#########################
+SN 2017eaw; VISIBILITY=2
+#########################
+	 mag on 2017-11-17 = 17.91
+	 age on 2017-11-17 = 191.00
+#########################
+SN 2017czd; VISIBILITY=4
+#########################
+	 mag on 2017-11-17 = 21.47
+	 age on 2017-11-17 = 225.00
+#########################
+SN 2017cfo; VISIBILITY=2
+#########################
+	 mag on 2017-11-17 = 23.03
+	 age on 2017-11-17 = 241.00
+#########################
+SN 2017ckg; VISIBILITY=4
+#########################
+	 mag on 2017-11-17 = 22.85
+	 age on 2017-11-17 = 246.00
+#########################
+SN 2017cjb; VISIBILITY=3
+#########################
+	 mag on 2017-11-17 = 21.99
+	 age on 2017-11-17 = 242.00
+#########################
+SN 2017cff; VISIBILITY=3
+#########################
+	 mag on 2017-11-17 = 23.04
+	 age on 2017-11-17 = 252.00
+#########################
+SN 2017ahn; VISIBILITY=4
+#########################
+	 mag on 2017-11-17 = 21.40
+	 age on 2017-11-17 = 284.00
+#########################
+SN 2016jft; VISIBILITY=2
+#########################
+	 mag on 2017-11-17 = 23.06
+	 age on 2017-11-17 = 320.00
+#########################
+SN 2016jbu; VISIBILITY=5
+#########################
+	 mag on 2017-11-17 = 20.51
+	 age on 2017-11-17 = 304.00
+#########################
+SN 2016iyd; VISIBILITY=5
+#########################
+	 mag on 2017-11-17 = 23.22
+	 age on 2017-11-17 = 342.00
+#########################
+SN 2016iog; VISIBILITY=2
+#########################
+	 mag on 2017-11-17 = 22.93
+	 age on 2017-11-17 = 351.00
+#########################
+SN 2016gkg; VISIBILITY=3
+#########################
+	 mag on 2017-11-17 = 22.48
+	 age on 2017-11-17 = 410.00
