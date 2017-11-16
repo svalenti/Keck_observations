@@ -2,6 +2,8 @@
 description='Make a finding chart.'
 usage= "%prog  image [--z1 zmin --z2 zmax ]\n"
 
+import matplotlib.pyplot as plt
+import matplotlib.ticker as ticker
 from pyraf import iraf
 import os,string,re,sys
 import math
@@ -12,17 +14,10 @@ try:
 except:
     from astropy.io import fits as pyfits
     
-import matplotlib.pyplot as plt
-import matplotlib.ticker as ticker
 import numpy as np
 from astropy.coordinates import SkyCoord
 from astropy import units as u
-
 iraf.set(stdimage='imt2048')
-plt.ion()
-plt.rcParams['figure.figsize'] =12, 7
-plt.rcParams['figure.facecolor']='white'
-ax = plt.axes([.09,.103,.5,.85])
 #############################
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(usage=usage, description=description, version="%prog 1.0")
@@ -71,12 +66,8 @@ if __name__ == "__main__":
         _z2 = float(z2str.split('=')[1])
     else: 
         iraf.display(img, frame=1, fill='yes', Stdout=1, zscale='no', zrange='no', z1=_z1, z2=_z2)
-    ax.imshow(X, cmap='gray_r', aspect='equal', interpolation='nearest', vmin=_z1, vmax=_z2, origin='lower', extent=(left, right, bottom, top))
-    plt.xlabel('R.A. (degrees)')
-    plt.ylabel('Dec. (degrees)')
-    ax.get_xaxis().get_major_formatter().set_useOffset(False)
-    ax.get_yaxis().get_major_formatter().set_useOffset(False)
 
+    raw_input('stop')
     print '>> Identify target  (mark with "<a> then press <q>")' 
     os.system('rm tmp.coo')
     try:
@@ -97,6 +88,18 @@ if __name__ == "__main__":
         print 'use a'
     xd = col2RA(float(x))
     yd = row2dec(float(y))
+
+    raw_input('stop')
+    plt.ion()
+    plt.rcParams['figure.figsize'] =12, 7
+    plt.rcParams['figure.facecolor']='white'
+    ax = plt.axes([.09,.103,.5,.85])
+    ax.imshow(X, cmap='gray_r', aspect='equal', interpolation='nearest', vmin=_z1, vmax=_z2, origin='lower', extent=(left, right, bottom, top))
+    plt.xlabel('R.A. (degrees)')
+    plt.ylabel('Dec. (degrees)')
+    ax.get_xaxis().get_major_formatter().set_useOffset(False)
+    ax.get_yaxis().get_major_formatter().set_useOffset(False)
+
     plt.plot(xd, yd, marker='o', mfc='none', ms=25, mew=2, mec='r', label='SN '+r+' '+d, linestyle='none')
     plt.xlim(xd + fov/2, xd - fov/2)
     plt.ylim(yd - fov/2, yd + fov/2)
