@@ -27,6 +27,10 @@ first password    wombat1
 
 (the first password may be already in because of the previous connection)
 
+# Calibration and Settings
+
+All setup information and standard calibrations are saved to the github wiki
+
 _______________________________________________________
 - Instruction for file list:
 https://www2.keck.hawaii.edu/observing/starlist.html
