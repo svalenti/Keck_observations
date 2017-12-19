@@ -1,4 +1,52 @@
-Schedule:
+Observation Log:
+Conditions: Cloudy, high humidity
+Seeing 1.6"
+SA: Percy
+OA: Tony
+Data Directory: sdata243/lris9/2017dec19
+Setup saved to: valenti12182017_xlris_setup
+
+Setup:
+Blue Side:
+   - Grism: 600/4000
+   - Filter: Clear
+   - Focus: -3612.86
+Red Side:
+    - Grating: 400/8500
+    - Filter: Clear
+    - Focus: -.059
+
+
+| Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments |
+|------|-----------|-----------|-------------|-----------------|---------|
+|  B   | 100-106   | Focus     | 1           |  1:39           | N/A     |          |
+|  R   | 100-106   | Focus     | 1           |  1:39           | N/A     |          |
+|  B   | 0001      | Arcs      | 3           |  2:33           | N/A     | Wrong CCD parameters |
+|  R   | 0001      | Arcs      | 3           |  2:33           | N/A     | Wrong CCD parameters |
+|  B   | 0002      | Arcs      | 3           |  2:41           | N/A     | object name: arc 3s  |
+|  R   | 0002      | Arcs      | 3           |  2:37           | N/A     | object name: arc 3s  |
+|  B   | 0003      | Arcs      | 3           |  2:33           | N/A     | object name: arc 3s  |
+|  R   | 0003      | Arcs      | 3           |  2:33           | N/A     | object name: arc 3s  |
+|  B   | 0004      | Arcs      | 3           |  2:43           | N/A     | object name: arc 3s  |
+|  R   | 0004      | Arcs      | 1           |  2:42           | N/A     | object name: arc 3s  |
+|  B   | 0005      | Arcs      | 3           |  2:45           | N/A     | object name: arc 3s  |
+|  R   | 0005      | Arcs      | 1           |  2:44           | N/A     | object name: arc 3s  |
+|  B   | 0006-0015 | Dome Flat | 150         |  2:52           | N/A     | object name: dome flat  |
+|  R   | 0006-1500 | Dome Flat | 35          |  2:52           | N/A     | object name: dome flat  |
+|  B   | 0016      | Arcs      | 1           |  3:39           | N/A     |          |
+|  B   | 0017      | Arcs      | 1           |  3:40           | N/A     |          |
+|  B   | 0018      | BD174708  | 60          |  5:16           | 1.24    |          |
+|  R   | 0016      | BD174708  | 60          |  5:16           | 1.24    |          |
+|  B   | 0019      | SN2017eaw | 600         |  5:27           | 2.04    | Switched guide stars at 170s |
+|  R   | 0017      | SN2017eaw | 600         |  5:27           | 2.04    | Switched guide stars at 170s |
+|  B   | 0020      | SN2017eaw | 517         |  5:43           | 2.17    | Paused in the middle and stopped early due to heavy clouds |
+|  R   | 0018      | SN2017eaw | 515         |  5:43           | 2.17    | Paused in the middle and stopped early due to heavy clouds |
+
+
+
+
+
+Plan:
 
 | Object |     RA       |      DEC    | Mag | Type |        Time      | Exptime   | Finding Chart |
 |--------|--------------|-------------|-----|------|------------------|-----------|---------------|
