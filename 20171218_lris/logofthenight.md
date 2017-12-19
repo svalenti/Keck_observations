@@ -3,7 +3,7 @@
 * Seeing 1.6"
 * SA: Percy
 * OA: Tony
-* Data Directory: sdata243/lris9/2017dec19
+* Data Directory: /sdata243/lris9/2017dec19
 * Setup saved to: valenti12182017_xlris_setup
 
 ## Setup:
