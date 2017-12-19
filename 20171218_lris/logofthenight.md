@@ -39,9 +39,13 @@ Red Side:
 |  R   | 0016      | BD174708  | 60          |  5:16           | 1.24    |                        |
 |  B   | 0019      | SN2017eaw | 600         |  5:27           | 2.04    | Switched guide stars at 170s |
 |  R   | 0017      | SN2017eaw | 600         |  5:27           | 2.04    | Switched guide stars at 170s |
-|  B   | 0020      | SN2017eaw | 517         |  5:43           | 2.17    | Paused in the middle and stopped early due to heavy clouds |
+|  B   | 0020      | SN2017eaw | 517         |  5:43           | 2.17    | Somehow we have an extra exposure on the blue side - check to see which exposure was good; Paused in the middle and stopped early due to heavy clouds |
+|  B   | 0021      | SN2017eaw | 517         |  5:43           | 2.17    | Somehow we have an extra exposure on the blue side - check to see which exposure was good; Paused in the middle and stopped early due to heavy clouds |
 |  R   | 0018      | SN2017eaw | 515         |  5:43           | 2.17    | Paused in the middle and stopped early due to heavy clouds |
-
+|  B   | 0022      | SN2017gmr | 150         |  7:46           | 1.17    | Paused in the middle and stopped early due to heavy clouds |
+|  R   | 0018      | SN2017gmr | 140         |  7:46           | 1.17    | Paused in the middle and stopped early due to heavy clouds |
+|  B   | 0023      | SN2017gmr | 100         |  7:51           | 1.17    | Paused in the middle and stopped early due to heavy clouds |
+|  R   | 0019      | SN2017gmr | 94         |  7:51           | 1.17    | Paused in the middle and stopped early due to heavy clouds |
 
 
 
