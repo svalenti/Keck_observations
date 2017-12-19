@@ -17,9 +17,9 @@ Red Side:
     - Focus: -.059
 
 
-| Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments |
-|------|-----------|-----------|-------------|-----------------|---------|
-|  B   | 100-106   | Focus     | 1           |  1:39           | N/A     |          |
+| Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                 |
+|------|-----------|-----------|-------------|-----------------|---------|                          |
+|  B   | 100-106   | Focus     | 1           |  1:39           | N/A     |                          |
 |  R   | 100-106   | Focus     | 1           |  1:39           | N/A     |          |
 |  B   | 0001      | Arcs      | 3           |  2:33           | N/A     | Wrong CCD parameters |
 |  R   | 0001      | Arcs      | 3           |  2:33           | N/A     | Wrong CCD parameters |
