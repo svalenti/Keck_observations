@@ -7,11 +7,11 @@
 * Setup saved to: valenti12182017_xlris_setup
 
 ## Setup:
-Blue Side:
+### Blue Side:
    - Grism: 600/4000
    - Filter: Clear
    - Focus: -3612.86
-Red Side:
+### Red Side:
     - Grating: 400/8500
     - Filter: Clear
     - Focus: -.059
