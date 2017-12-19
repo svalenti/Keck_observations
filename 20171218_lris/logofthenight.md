@@ -1,12 +1,12 @@
-Observation Log:
-Conditions: Cloudy, high humidity
-Seeing 1.6"
-SA: Percy
-OA: Tony
-Data Directory: sdata243/lris9/2017dec19
-Setup saved to: valenti12182017_xlris_setup
+# Observation Log:
+* Conditions: Cloudy, high humidity
+* Seeing 1.6"
+* SA: Percy
+* OA: Tony
+* Data Directory: sdata243/lris9/2017dec19
+* Setup saved to: valenti12182017_xlris_setup
 
-Setup:
+## Setup:
 Blue Side:
    - Grism: 600/4000
    - Filter: Clear
@@ -50,7 +50,7 @@ Red Side:
 
 
 
-Plan:
+# Plan:
 
 | Object |     RA       |      DEC    | Mag | Type |        Time      | Exptime   | Finding Chart |
 |--------|--------------|-------------|-----|------|------------------|-----------|---------------|
@@ -70,7 +70,7 @@ Plan:
 14hls    09:20:34.30  +50:41:46.8   21  pec         --    -   -- UT   30 x 2     FC + off  
 
 
-Same list  (Staralt format)  
+## Same list  (Staralt format)  
 BD17    22:11:31.37  +18:05:34.2         
 BD28    21:51:11.02  +28:51:50.4  
 17eaw   20:34:44.24  +60:11:35.9   
@@ -85,7 +85,7 @@ BD28    21:51:11.02  +28:51:50.4
 
 
 ___________________________________________________________  
-backup targets  
+# backup targets  
 17gah  22:02:42.43 -32:47:33.4    Ia    19.  
 17gww  00:03:49.21  +07:28:00.1   II    18        
 17fgc  01:20:14.45  +03:24:10.1   Ia    18      Dave  4:50 - 5:05   UT  300  x 2     FC  
