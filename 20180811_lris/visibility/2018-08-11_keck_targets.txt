@@ -1,0 +1,105 @@
+===============================================================
+Targets for the night of 2018-08-11 observred at keck
+
+===============================================================
+
+Assume SN is 100 days old at fall from plateau. End of plateau and end of fall from 
+plateau are approximated visually from LCO SNEX data. If no fall from plateau 
+can be measured, assume explosion is max-10 days, a drop of 2 mag over 100 
+days in the plateau, and a drop of 2.5 mag over 20 days in the fall from 
+plateau. Remaining magnitude change is calculated from the nickel decay. 
+Assume a nickel decay slope of 0.1 mag/day.
+
+Visibility Rating Scale:
+------------------------------
+	1: airmass =1 
+	2: 1<airmass<1.5 
+	3: 1.5<airmass<2
+	4: 2<airmass<3
+	5: airmass>3
+
+#########################
+SN 2018bti; VISIBILITY=2
+#########################
+	 mag on 2018-08-11 = 21.53
+	 age on 2018-08-11 = 88.00
+#########################
+SN 2018bek; VISIBILITY=3
+#########################
+	 mag on 2018-08-11 = 20.49
+	 age on 2018-08-11 = 97.00
+#########################
+SN 2018aql; VISIBILITY=2
+#########################
+	 mag on 2018-08-11 = 23.11
+	 age on 2018-08-11 = 130.00
+#########################
+SN 2018aoq; VISIBILITY=3
+#########################
+	 mag on 2018-08-11 = 19.97
+	 age on 2018-08-11 = 120.00
+#########################
+SN 2018acj; VISIBILITY=2
+#########################
+	 mag on 2018-08-11 = 22.56
+	 age on 2018-08-11 = 161.00
+#########################
+SN 2018zd; VISIBILITY=4
+#########################
+	 mag on 2018-08-11 = 18.33
+	 age on 2018-08-11 = 162.00
+#########################
+SN 2018pq; VISIBILITY=5
+#########################
+	 mag on 2018-08-11 = 20.96
+	 age on 2018-08-11 = 193.00
+#########################
+SN 2018is; VISIBILITY=3
+#########################
+	 mag on 2018-08-11 = 22.82
+	 age on 2018-08-11 = 193.00
+#########################
+SN 2018gk; VISIBILITY=2
+#########################
+	 mag on 2018-08-11 = 21.40
+	 age on 2018-08-11 = 211.00
+#########################
+SN 2018gj; VISIBILITY=3
+#########################
+	 mag on 2018-08-11 = 19.91
+	 age on 2018-08-11 = 211.00
+#########################
+SN 2017iit; VISIBILITY=2
+#########################
+	 mag on 2018-08-11 = 23.41
+	 age on 2018-08-11 = 266.00
+#########################
+SN 2017hky; VISIBILITY=4
+#########################
+	 mag on 2018-08-11 = 22.68
+	 age on 2018-08-11 = 291.00
+#########################
+SN 2017gww; VISIBILITY=2
+#########################
+	 mag on 2018-08-11 = 23.88
+	 age on 2018-08-11 = 322.00
+#########################
+SN 2017gmr; VISIBILITY=2
+#########################
+	 mag on 2018-08-11 = 20.83
+	 age on 2018-08-11 = 341.00
+#########################
+SN 2017gaw; VISIBILITY=2
+#########################
+	 mag on 2018-08-11 = 23.37
+	 age on 2018-08-11 = 365.00
+#########################
+AT 2017fbu; VISIBILITY=2
+#########################
+	 mag on 2018-08-11 = 23.21
+	 age on 2018-08-11 = 365.00
+#########################
+SN 2017eaw; VISIBILITY=2
+#########################
+	 mag on 2018-08-11 = 20.58
+	 age on 2018-08-11 = 458.00
