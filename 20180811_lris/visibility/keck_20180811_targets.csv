@@ -1,20 +1,22 @@
 ,Gemini Sample,Age on 2018-08-11,V Mag,In my sample,,EXPTIME,Start,Stop,FC
 ,,,,,,,Night starts at 10:27 UTC,,
 2013fs,n,,,,Try to detect interaction; good candidate; If we see something get another spectrum and skip 2018dfy,20m,10:30,10:50,Y
-2017eaw,y,~450,18.8,yes,Beautiful LC - caught all features; In the middle of Gemini sequence - low priority,10m,10:55,11:05,Y
-2017ivv,n,,19.4,,nebular spectrum requested on SNEX from J. Anderson; possibly single SN paper,15m,11:10,11:25,Y
-2018dfy,n,,18-18.5?,,young - 30d old; not well followed in SNEX,10m,11:30,11:40,Y
-2016iks,n,,20.85,,Ia-CSM,20m,11:45,12:05,Y
-2013ej,n,,,,,20m,12:10,12:30,Y
-2017gmr,y,~340,19,yes,Beautiful LC - caught all features,10m,12:35,12:45,Y
-2017gaw,y,~365,23,yes,If this is actually faint - maybe observe at high priority,4x20,12:50,14:10,Y
-2017fbu,y,~405,22.2,yes,5d non-detection; excellent photometry; possibly only missing the rise/peak; We just triggered LCO photometry,3x20,14:15,15:15,Y
+2017ivv,n,,19.4,,nebular spectrum requested on SNEX from J. Anderson; possibly single SN paper,15m,10:55,11:10,Y
+2016iks,n,,20.85,,Ia-CSM,20m,11:15,11:35,Y
+2013ej,n,,,,,20m,11:40,12:00,Y
+2018bwo,n,,20,,Unknown what this object is,15m,12:05,12:20,N
+2017gmr,y,~340,19,yes,Beautiful LC - caught all features,10m,12:25,12:35,Y
+2017gaw,y,~365,23,yes,If this is actually faint - maybe observe at high priority,4x20,12:40,14:00,Y
+2017fbu,y,~405,22.2,yes,5d non-detection; excellent photometry; possibly only missing the rise/peak; We just triggered LCO photometry,3x20,14:05,15:05,Y
+HZ44 (blue),,,11.7,,,1m,15:07,15:08,
+BD262606 (red),,,9.7,,,20s,15:10,15:11,
 ,,,,,,,,12deg Twilight @15.11 UTC,
 Backup Targets,,,,,,,,,
+2018dfy,n,,18-18.5?,,young - 30d old; not well followed in SNEX,10m,11:30,11:40,Y
 2018coq,,?,18.75,,No good non-detection date,,,,n
 2017iit,,~250,??,?,2d non-detection; really funky LC - hard to tell what phases we caught; hard to tell what mag it would be today,,,,n
 2017hcc,,315,17,,2d non-detectionIIn followed by ePESSTO; PESSTO and LCO LC,,,,n
-,,,,,,,,,
+2017eaw,y,~450,18.8,yes,Beautiful LC - caught all features; In the middle of Gemini sequence - low priority,10m,10:55,11:05,Y
 ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
