@@ -14,7 +14,6 @@ BD262606 (red),,,9.7,,,20s,15:10,15:11,
 Backup Targets,,,,,,,,,
 2018dfy,n,,18-18.5?,,young - 30d old; not well followed in SNEX,10m,11:30,11:40,Y
 2018coq,,?,18.75,,No good non-detection date,,,,n
-2017iit,,~250,??,?,2d non-detection; really funky LC - hard to tell what phases we caught; hard to tell what mag it would be today,,,,n
 2017hcc,,315,17,,2d non-detectionIIn followed by ePESSTO; PESSTO and LCO LC,,,,n
 2017eaw,y,~450,18.8,yes,Beautiful LC - caught all features; In the middle of Gemini sequence - low priority,10m,10:55,11:05,Y
 ,,,,,,,,,
@@ -22,6 +21,7 @@ Backup Targets,,,,,,,,,
 ,,,,,,,,,
 Rejected Targets,,,,,,,,,
 2018cow,,,19.5,,at airmass > 3,15-30m?,10:30,11:00,
+2017iit,,~250,??,?,2d non-detection; really funky LC - hard to tell what phases we caught; hard to tell what mag it would be today; too faint to be a back up target,,,,n
 2018gj,,~215d,19.85,yes,"6d non-detection; spectroscopy, nice LC although may have missed the fall - but it is constrained; Never gets above airmass=3; If 2017gaw needs whole time, remove this target",15-30m?,11:05,11:35,
 2017hbj,,~320,21?,?,"10d non-detection; weird LC - starts like IIL, transitions to IIP, no fall from plateau - smooth transition to Ni tail - only 1 spectrum; too far south",,,,
 2017hpi,y,~300,20,yes,4d non-detection; late LCO monitoring but really nice LC - incl. fall and Ni tail; not up,15m,,,
