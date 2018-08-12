@@ -1,26 +1,26 @@
 # Observation Log:
-* Conditions: 
-* Seeing 
-* SA: 
-* OA: 
-* Data Directory: 
-* Setup saved to: 
+* Conditions: Clear
+* Seeing 0.8"
+* SA: Alessandro Rettura
+* OA: Heather
+* Data Directory: /sd243/lris2/2018aug12_B
+* Setup saved to: Bostroem20180811.sav
 
 ## Setup:
 ### Blue Side:
    - Grism: 600/4000
    - Filter: Clear
-   - Focus: -3612.86
+   - Focus: -3679.9
 ### Red Side:
     - Grating: 400/8500
     - Filter: Clear
-    - Focus: -.059
+    - Focus: -0.61
 
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
-Blue   | 01        | Arc       |      3      | 04:11:57        |         |
-Red    | 01        | Arc       |      3      | 04:12:07        |         |
+Blue   | 01        | Arc       |      3      | 04:11:57        |         | Note these were our test arcs to check the wavelength range; the object name says internal flat - it isn't
+Red    | 01        | Arc       |      3      | 04:12:07        |         | Note these were our test arcs to check the wavelength range; the object name says internal flat - it isn't
 Blue   | 02        | Arc       |      1      | 04:29:51        |         |
 Red    | 02        | Arc       |      1      | 04:30:46        |         |
 Blue   | 03        | Arc       |      1      | 04:30:03        |         |
@@ -39,13 +39,13 @@ Blue   | 09        | Dome Flat |    150      | 04:53:52        |         |
 Red    | 09        | Dome Flat |     35      | 04:55:05        |         |
 Blue   | 10        | Dome Flat |    150      | 04:56:34        |         |
 Red    | 10        | Dome Flat |     35      | 04:58:27        |         |
-Blue   | 11        |Twilig Flat|      5      | 05:23:45        |         |
+Blue   | 11        |Twilig Flat|      5      | 05:23:45        |         | These are primarily for Jeff, but we can experiment if we want
 Blue   | 12        |Twilig Flat|      5      | 05:25:03        |         |
 Blue   | 13        |Twilig Flat|     30      | 05:26:05        |         |
 Blue   | 14        |Twilig Flat|     90      | 05:27:50        |         |
 Blue   | 15        |Twilig Flat|    300      | 05:30:43        |         |
-Blue   | 16        | BD+33-2642|      1      | 06:26:41        |   1.1   |
-Blue   | 17        | BD+33-2642|     90      | 06:27:38        |   1.1   |
+Blue   | 16        | BD+33-2642|      1      | 06:26:41        |   1.1   | Jeff's standard - he kindly observed it with our setup
+Blue   | 17        | BD+33-2642|     90      | 06:27:38        |   1.1   | Use these 90s exposures
 Red    | 11        | BD+33-2642|     90      | 06:27:21        |   1.1   |
 Blue   |  18       |  13fs     | 1200        | 10:38:31        |   1.11  |
 Red    |  12       |  13fs     | 1200        | 10:38:40        |   1.11  |
@@ -67,12 +67,35 @@ Blue   |  26       |  17gaw    | 1200        | 13:39:11        |   1.08  |
 Red    |  20       |  17gaw    | 1200        | 13:42:51        |   1.08  |
 Blue   |  27       |  17fbu    | 1200        | 14:08:22        |   1.08  |
 Red    |  21       |  17fbu    | 1200        | 14:08:17        |   1.08  |
-Blue   |  28       |  17fbu    | 1200        | 
-Red    |  22       |  17fbu    | 1200        | 
-Blue   |  29       |  17fbu    | 1200        | 
-Red    |  23       |  17fbu    | 1200        | 
-Blue   |  30       |  HZ44     |   60        | 
-Red    |  24       |  BD262606 |   20        | 
+Blue   |  28       |  17fbu    | 1200        | 14:29:16        |   1.06  |
+Red    |  22       |  17fbu    | 1200        | 14:30:23        |   1.06  |
+Blue   |  29       |  17fbu    | 1200        | 14:50:10        |   1.04  |
+Red    |  23       |  17fbu    | 1200        | 14:52:30        |   1.04  | Getting bright at end of exposure
+Blue   |  30       |  G191B2B  |   60        | 15:19:97        |   1.43  |
+Red    |  24       |  HD19445  |   10        | 15:23:21        |   1.02  | Very saturated
+Red    |  25       |  HD19445  |   2         | 15:30:36        |   1.02  | Line cut looks blocky
+Red    |  26       |  HD19445  |   5         | 15:32:58        |   1.02  |
+Blue   | 31        | Arc       |      1      | 15:46:43        |         |
+Red    | 27        | Arc       |      1      | 15:46:54        |         |
+Blue   | 32        | Arc       |      1      | 15:47:38        |         |
+Red    | 28        | Arc       |      1      | 15:49:03        |         |
+Blue   | 33        | Dome Flat |    150      | 15:51:08        |         |
+Red    | 29        | Dome Flat |     35      | 15:51:20        |         |
+Blue   | 34        | Arc       |      3      | 15:58:20        |         |
+Red    | 30        | Arc       |      3      | 15:58:31        |         |
+Blue   | 35        | Arc       |      3      | 15:59:16        |         |
+Red    | 31        | Arc       |      3      | 16:00:43        |         |
+Blue   | 36        | Dome Flat |    150      | 16:02:50        |         |
+Red    | 32        | Dome Flat |     35      | 16:03:01        |         |
+Blue   | 37        | Dome Flat |    150      | 16:06:13        |         |
+Red    | 33        | Dome Flat |     35      | 16:05:43        |         |
+Blue   | 38        | Dome Flat |    150      | 16:09:37        |         |
+Red    | 34        | Dome Flat |     35      | 16:08:25        |         |
+Blue   | 39        | Dome Flat |    150      | 16:13:01        |         |
+Red    | 35        | Dome Flat |     35      | 16:11:07        |         |
+
+
+
 
 
 
@@ -88,7 +111,7 @@ Red    |  24       |  BD262606 |   20        |
 |17gmr    |02 35 30.15   |  -09 21 15.0| 19  | II   | 12:25            |  600      |    Y          |
 |17gaw    |01 15 35.23   |  -00 50 40.3| 23  | II   | 12:40            | 4x1200    |    Y          |
 |17fbu    |02 11 06.98   |  +03 50 36.4| 22.2| II   | 14:05            | 3x1200    |    Y          |
-|HZ44     |05 05 30.60   |  +52 49 54.0| 11.7|blue std | 15:07         |   60      |    Y          |
+|G191B2B  |05 05 30.60   |  +52 49 54.0| 11.7|blue std | 15:07         |   60      |    Y          |
 |HD19445  |03 08 25.86   |  +26 20 05.7| 9.7 | red std | 15:10         |   20      |    Y          |
 
 
@@ -101,7 +124,7 @@ Red    |  24       |  BD262606 |   20        |
 17gmr    02 35 30.15     -09 21 15.0   
 17gaw    01 15 35.23     -00 50 40.3   
 17fbu    02 11 06.98     +03 50 36.4   
-HZ44     05 05 30.60     +52 49 54.0   
+G191B2B  05 05 30.60     +52 49 54.0   
 HD19445  03 08 25.86     +26 20 05.7  
 
 
