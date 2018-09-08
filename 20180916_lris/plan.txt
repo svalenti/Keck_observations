@@ -16,3 +16,10 @@ back-up targets
 17gmr           02 35 30.15  -09 21 15.0   2000.0
 17fbu           02 11 06.98  +03 50 36.4   2000.0     
 17ivv           20 28 49.84  -04 22 57.3   2000.0 
+
+
+ps1:  if there is extra time take also a standard at low airmass (eg BD32 later in the night)
+ps2:  18gk is a challenging target, we will see if we get something. I would try to use S4 that is very close to the SN, but it is the nucleus of the galaxy. From PS1 image seems that the nucleus of the galaxy is well defined.
+ps3: maybe the schedule is a bit relaxed (with extra time between targets, if you realize that you have extra time during the night you can add one of the backup targets.
+ps4: the schedule is full the first 2 hours, if you are late some objects will be too low in airmass.
+ps5: 18gj should be bright, if after the first exposure the spectrum looks good, you can also abort the second exposure and move on 
