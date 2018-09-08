@@ -17,7 +17,7 @@ except:
 import numpy as np
 from astropy.coordinates import SkyCoord
 from astropy import units as u
-iraf.set(stdimage='imt2048')
+iraf.set(stdimage='imt4096')
 #############################
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(usage=usage, description=description, version="%prog 1.0")
