@@ -14,7 +14,7 @@ Mainland connection
 
 - <b> open terminal and go to remote/bin/ </b>
 
-- <b> type: kvncinst    lris lris9 </b> (this will open 6 terminale, the number 9 may change, look the schedule page)
+- <b> type: kvncinst    lris lris# </b> (this will open 6 terminal, where number is in the InstrAcc column on the schedule page: https://www2.keck.hawaii.edu/observing/schedule/index.php)
 
 first password    OpenUp
 
