@@ -20,11 +20,6 @@ first password    OpenUp
 
 second password   wombat1
 
-
-- <b> type in new remoto terminal: kvnctel    lris lris9 </b> (this will open 2 terminals, the number 9 may change, look the schedule page)
-
-first password    wombat1
-
 (the first password may be already in because of the previous connection)
 
 # Calibration and Settings
