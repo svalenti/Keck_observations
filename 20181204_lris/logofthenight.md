@@ -15,17 +15,19 @@ today there was an instrument issue
 
 ## Setup:
 # Blue imaging focus: -3523
+
 ### Blue Side:
    - Grism: 600/4000
    - Filter: Clear
    - Focus: -3731.81 (we were on the edge of the focus, but Alessandro said it was ok)
+
 ### Red Side:
     - Grating: 400/8500
     - Filter: Clear
     - Focus: -0.59
     
-** Central wavelength=7740 **
-** 18is and 17ivh were too close to the telescope limits to observer before 12deg twilight **
+### Central wavelength=7740
+### 18is and 17ivh were too close to the telescope limits to observer before 12deg twilight
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
@@ -72,3 +74,51 @@ today there was an instrument issue
 | blue   | 19        | Feige34   | 60        | 15:35           | 1.09    | 1.5" slit |
 | red    | 20        | Feige34   | 60        | 15:38           | 1.09    | 1.0" slit | Note the object names says 1.5" but this is really 1.0"
 | blue   | 20        | Feige34   | 60        | 15:38           | 1.09    | 1.0" slit | Note the object names says 1.5" but this is really 1.0"
+| red    | 21        | arc       | 1         | -               | -       | 1.0" slit |
+| blue   | 21        | arc       | 1         | -               | -       | 1.0" slit |
+| red    | 22        | arc       | 1         | -               | -       | 1.5" slit |
+| blue   | 22        | arc       | 1         | -               | -       | 1.5" slit |
+| red    | 23        | arc       | 3         | -               | -       | 1.0" slit |
+| blue   | 23        | arc       | 3         | -               | -       | 1.0" slit |
+| red    | 24        | arc       | 3         | -               | -       | 1.5" slit |
+| blue   | 24        | arc       | 3         | -               | -       | 1.5" slit |
+| red    | 25        | Flat      | 35        | -               | -       | 1.0" slit |
+| blue   | 25        | Flat      | 150       | -               | -       | 1.0" slit |
+| red    | 26        | Flat      | 35        | -               | -       | 1.0" slit |
+| blue   | 26        | Flat      | 150       | -               | -       | 1.0" slit |
+| red    | 27        | Flat      | 35        | -               | -       | 1.0" slit |
+| blue   | 27        | Flat      | 150       | -               | -       | 1.0" slit |
+| red    | 28        | Flat      | 35        | -               | -       | 1.0" slit |
+| blue   | 28        | Flat      | 150       | -               | -       | 1.0" slit |
+| red    | 29        | Flat      | 35        | -               | -       | 1.0" slit |
+| blue   | 29        | Flat      | 150       | -               | -       | 1.0" slit |
+| red    | 30        | Flat      | 35        | -               | -       | 1.0" slit |
+| blue   | 30        | Flat      | 150       | -               | -       | 1.0" slit |
+| red    | 31        | Flat      | 35        | -               | -       | 1.0" slit |
+| blue   | 31        | Flat      | 150       | -               | -       | 1.0" slit |
+| red    | 32        | Flat      | 35        | -               | -       | 1.0" slit |
+| blue   | 32        | Flat      | 150       | -               | -       | 1.0" slit |
+| red    | 33        | Flat      | 35        | -               | -       | 1.0" slit |
+| blue   | 33        | Flat      | 150       | -               | -       | 1.0" slit |
+| red    | 34        | Flat      | 35        | -               | -       | 1.0" slit |
+| blue   | 34        | Flat      | 150       | -               | -       | 1.0" slit |
+| red    | 35        | Flat      | 35        | -               | -       | 1.5" slit |
+| blue   | 35        | Flat      | 150       | -               | -       | 1.5" slit |
+| red    | 36        | Flat      | 35        | -               | -       | 1.5" slit |
+| blue   | 36        | Flat      | 150       | -               | -       | 1.5" slit |
+| red    | 37        | Flat      | 35        | -               | -       | 1.5" slit |
+| blue   | 37        | Flat      | 150       | -               | -       | 1.5" slit |
+| red    | 38        | Flat      | 35        | -               | -       | 1.5" slit |
+| blue   | 38        | Flat      | 150       | -               | -       | 1.5" slit |
+| red    | 39        | Flat      | 35        | -               | -       | 1.5" slit |
+| blue   | 39        | Flat      | 150       | -               | -       | 1.5" slit |
+| red    | 40        | Flat      | 35        | -               | -       | 1.5" slit |
+| blue   | 40        | Flat      | 150       | -               | -       | 1.5" slit |
+| red    | 41        | Flat      | 35        | -               | -       | 1.5" slit |
+| blue   | 41        | Flat      | 150       | -               | -       | 1.5" slit |
+| red    | 42        | Flat      | 35        | -               | -       | 1.5" slit |
+| blue   | 42        | Flat      | 150       | -               | -       | 1.5" slit |
+| red    | 43        | Flat      | 35        | -               | -       | 1.5" slit |
+| blue   | 43        | Flat      | 150       | -               | -       | 1.5" slit |
+| red    | 44        | Flat      | 35        | -               | -       | 1.5" slit |
+| blue   | 44        | Flat      | 150       | -               | -       | 1.5" slit |
