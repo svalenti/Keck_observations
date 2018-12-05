@@ -5,7 +5,8 @@ this repository is for Keck observations
 
 Mainland connection
 
-- enter as remote  
+- ctl+alt+esc to get login screen
+enter as remote  
 
 <b> user       remote </b>
 
