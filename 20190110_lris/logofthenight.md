@@ -3,8 +3,8 @@
 
 * Conditions: 
 * Seeing: 
-* SA: Josh 
-* OA: XXX
+* SA: Josh
+* OA: Tony & Arina
 * Data Directory: XXXX
 * Data Directory on Dark: /dark/hal/data/20190110_Keck
 * Starlist: XXXX
