@@ -104,5 +104,7 @@
 | red  |  45       | SN19np             | 120  |   9:59        | 1.5     |bright object but no finding chart
 | blue |  48       | SN19np             | 120  |   10:03       | 1.47    |bright object but no finding chart
 | red  |  46       | SN19np             | 120  |   10:04       | 1.47    |bright object but no finding chart
-| blue |  49       | gd71               | 60   |   
-| red  |  47       | gd71               | 60   |
+| blue |  49       | gd71               | 60   |   10:14       | 1.06    |
+| red  |  47       | gd71               | 60   |   10:14       | 1.06    |
+| blue |  50       | ZTF19aabyget       | 300  |   
+| red  |  48       | ZTF19aabyget       | 300  |
