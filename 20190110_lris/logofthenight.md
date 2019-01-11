@@ -98,3 +98,11 @@
 | red  |  42       | SN18kzr            | 1200 |   9:17        | 1.26    | offset 1
 | blue |  45       | SN18hmx            | 300  |   9:42        | 1.33    |
 | red  |  43       | SN18hmx            | 300  |   9:42        | 1.33    |
+| blue |  46       | SN18hmx            | 300  |   9:49        | 1.32    | 
+| red  |  44       | SN18hmx            | 300  |   9:50        | 1.32    |
+| blue |  47       | SN19np             | 120  |   9:59        | 1.5     |bright object but no finding chart
+| red  |  45       | SN19np             | 120  |   9:59        | 1.5     |bright object but no finding chart
+| blue |  48       | SN19np             | 120  |   10:03       | 1.47    |bright object but no finding chart
+| red  |  46       | SN19np             | 120  |   10:04       | 1.47    |bright object but no finding chart
+| blue |  49       | gd71               | 60   |   
+| red  |  47       | gd71               | 60   |
