@@ -11,7 +11,7 @@
 * Setup saved to: XXXX
 
 ## Setup:
-# Blue imaging focus: XXXX
+# Blue imaging focus: -3595.25
 
 ### Blue Side:
    - Grism: 600/4000
@@ -21,7 +21,7 @@
 ### Red Side:
     - Grating: 400/8500
     - Filter: Clear
-    - Focus: XXXX
+    - Focus: -0.64
     
 ### Central wavelength= XXX
 ### 
