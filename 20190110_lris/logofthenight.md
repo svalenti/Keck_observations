@@ -84,3 +84,11 @@
 | red  |  35       | SN18ivc            | 420  |   7:18        | 1.16    | offset 1
 | blue |  38       | SN18gjx            | 900  |   7:32        | 1.18    | offset 1, cannot see obvious spectra
 | red  |  36       | SN18gjx            | 900  |   7:32        | 1.18    | offset 1, cannot see obvious spectra
+| blue |  39       | SN18gjx            | 900  |   7:49        | 1.23    | offset 1, cannot see obvious spectra
+| red  |  37       | SN18gjx            | 900  |   7:49        | 1.23    | offset 1, cannot see obvious spectra
+| blue |  40       | SN18lab            | 300  |   8:11        | 1.39    | 
+| red  |  38       | SN18lab            | 300  |   8:11        | 1.39    |
+| blue |  41       | SN18lab            | 300  |   8:17        | 1.38    |
+| red  |  39       | SN18lab            | 300  |   8:18        | 1.38    |
+| blue |  42       | SN18kzr            | 1200 |   8:33        | 1.47    | offset 1
+| red  |  40       | SN18kzr            | 1200 |   8:33        | 1.46    | offset 1
