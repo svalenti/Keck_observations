@@ -32,7 +32,6 @@
 |  red |  9        | arc long_1.5       | 1   |   02:47       |   1.41  |   
 |  red |  10       | arc long_1.0       | 1   |   02:50       |   1.41  |   
 |  red |  11       | arc long_1.0       | 1   |   02:52       |   1.41  |   
-
 | blue | 12        | arc, long_1.5      | 1   | 2:45           | 1.41    | checking cenwave set to 7719.29
 | blue | 13        | arc, long_1.5      | 1   | 2:46           | 1.41    | good
 | blue | 14        | arc, long_1.0      | 1   | 2:50           | 1.41    | good
