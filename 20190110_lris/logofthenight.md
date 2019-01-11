@@ -92,3 +92,9 @@
 | red  |  39       | SN18lab            | 300  |   8:18        | 1.38    |
 | blue |  42       | SN18kzr            | 1200 |   8:33        | 1.47    | offset 1
 | red  |  40       | SN18kzr            | 1200 |   8:33        | 1.46    | offset 1
+| blue |  43       | SN18kzr            | 1200 |   8:54        | 1.35    | offset 1
+| red  |  41       | SN18kzr            | 1200 |   8:55        | 1.35    | offset 1
+| blue |  44       | SN18kzr            | 1200 |   9:15        | 1.27    | offset 1
+| red  |  42       | SN18kzr            | 1200 |   9:17        | 1.26    | offset 1
+| blue |  45       | SN18hmx            | 300  |   9:42        | 1.33    |
+| red  |  43       | SN18hmx            | 300  |   9:42        | 1.33    |
