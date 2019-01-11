@@ -106,5 +106,5 @@
 | red  |  46       | SN19np             | 120  |   10:04       | 1.47    |bright object but no finding chart
 | blue |  49       | gd71               | 60   |   10:14       | 1.06    |
 | red  |  47       | gd71               | 60   |   10:14       | 1.06    |
-| blue |  50       | ZTF19aabyget       | 300  |   
-| red  |  48       | ZTF19aabyget       | 300  |
+| blue |  50       | ZTF19aabyget       | 120  |   10:23       | 1.38    | attempted to high priority pessto classification, aborted after 1 min to get standard
+| red  |  48       | ZTF19aabyget       | 120  |   10:23       |1.38     | attempted to high priority pessto classification, aborted after 1 min to get standard
