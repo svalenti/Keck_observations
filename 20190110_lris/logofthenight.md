@@ -71,8 +71,40 @@
 |  red |  29       | 2019jc             | 600  |   05:19       |   2.01  |   
 | blue |  31       | 2019jc             | 600  |   5:18        | 2.0     |
 | blue |  32       | 2018cmj            | 1200 |   5:36        | 2.25    |
-| red  |  30       | 2018cmj            | 1200 |   5:36        | 2.25    |
+| red  |  30       | 2018cmj            | 1200 |   5:36        | 2.25    | 
 | blue |  33       | 2018cmj            | 1200 |   5:57        | 2.34    |
 | red  |  31       | 2018cmj            | 1200 |   5:58        | 2.35    |
-| blue |  34       | 2018cmj            | 1200 | 
-| red  |  32       | 2018cmj            | 1200 | 
+| blue |  34       | 2018cmj            | 1200 |   6:18        | 2.48    |
+| red  |  32       | 2018cmj            | 1200 |   6:21        | 2.5     |
+| blue |  35       | 2018cmj            | 1200 |   6:40        | 2.68    |
+| red  |  33       | 2018cmj            | 1200 |   6:43        | 2.71    |
+| blue |  36       | SN18ivc            | 420  |   7:09        | 1.14    | directly pointing
+| red  |  34       | SN18ivc            | 420  |   7:09        | 1.14    | directly pointing
+| blue |  37       | SN18ivc            | 420  |   7:18        | 1.16    | offset 1
+| red  |  35       | SN18ivc            | 420  |   7:18        | 1.16    | offset 1
+| blue |  38       | SN18gjx            | 900  |   7:32        | 1.18    | offset 1, cannot see obvious spectra
+| red  |  36       | SN18gjx            | 900  |   7:32        | 1.18    | offset 1, cannot see obvious spectra
+| blue |  39       | SN18gjx            | 900  |   7:49        | 1.23    | offset 1, cannot see obvious spectra
+| red  |  37       | SN18gjx            | 900  |   7:49        | 1.23    | offset 1, cannot see obvious spectra
+| blue |  40       | SN18lab            | 300  |   8:11        | 1.39    | 
+| red  |  38       | SN18lab            | 300  |   8:11        | 1.39    |
+| blue |  41       | SN18lab            | 300  |   8:17        | 1.38    |
+| red  |  39       | SN18lab            | 300  |   8:18        | 1.38    |
+| blue |  42       | SN18kzr            | 1200 |   8:33        | 1.47    | offset 1
+| red  |  40       | SN18kzr            | 1200 |   8:33        | 1.46    | offset 1
+| blue |  43       | SN18kzr            | 1200 |   8:54        | 1.35    | offset 1
+| red  |  41       | SN18kzr            | 1200 |   8:55        | 1.35    | offset 1
+| blue |  44       | SN18kzr            | 1200 |   9:15        | 1.27    | offset 1
+| red  |  42       | SN18kzr            | 1200 |   9:17        | 1.26    | offset 1
+| blue |  45       | SN18hmx            | 300  |   9:42        | 1.33    |
+| red  |  43       | SN18hmx            | 300  |   9:42        | 1.33    |
+| blue |  46       | SN18hmx            | 300  |   9:49        | 1.32    | 
+| red  |  44       | SN18hmx            | 300  |   9:50        | 1.32    |
+| blue |  47       | SN19np             | 120  |   9:59        | 1.5     |bright object but no finding chart
+| red  |  45       | SN19np             | 120  |   9:59        | 1.5     |bright object but no finding chart
+| blue |  48       | SN19np             | 120  |   10:03       | 1.47    |bright object but no finding chart
+| red  |  46       | SN19np             | 120  |   10:04       | 1.47    |bright object but no finding chart
+| blue |  49       | gd71               | 60   |   10:14       | 1.06    |
+| red  |  47       | gd71               | 60   |   10:14       | 1.06    |
+| blue |  50       | ZTF19aabyget       | 120  |   10:23       | 1.38    | attempted to high priority pessto classification, aborted after 1 min to get standard
+| red  |  48       | ZTF19aabyget       | 120  |   10:23       |1.38     | attempted to high priority pessto classification, aborted after 1 min to get standard
