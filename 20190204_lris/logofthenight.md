@@ -3,8 +3,8 @@
 
 * Conditions: 
 * Seeing: 
-* SA:
-* OA:
+* SA: Alessandro
+* OA: Tony
 * Data Directory: 
 * Data Directory on Dark:
 * Starlist:
