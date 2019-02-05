@@ -22,7 +22,7 @@ Yesterday and today’s observers are in fact operating with a single grism all 
 ### Blue Side:
    - Grism: 600/4000
    - Filter: Clear
-   - Focus: 
+   - Focus: -3623.23
 
 ### Red Side:
     - Grating: 400/8500
