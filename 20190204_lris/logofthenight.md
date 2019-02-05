@@ -30,7 +30,7 @@ Yesterday and today’s observers are in fact operating with a single grism all 
     - Focus: -0.60
     
 ### Central wavelength= 7769.92
-
+### Used longslit_1.0 for the whole night
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
@@ -43,4 +43,13 @@ Yesterday and today’s observers are in fact operating with a single grism all 
 | blue | 4 | 2018gjx_s1 | 900 | 06:20 | 1.26 |
 | red  | 4 | 2018gjx_s1 | 900 | 06:20 | 1.26 |
 | blue | 5 | 2018gjx_s1 | 300 | 06:36 | 1.33 |don't have enough time for 15 mins exposure| 
-| red  | 5 | 2018hjx_s1 | 300 | 06:37 | 1.33 |don't have enough time for 15 mins exposure|
+| red  | 5 | 2018gjx_s1 | 300 | 06:37 | 1.33 |don't have enough time for 15 mins exposure|
+| blue | 6 | 2018zd_s1  | 600 | 10:41 | 2.13 |
+| red  | 6 | 2018zd_s1  | 600 | 10:42 | 2.14 |
+| blue | 7 | HD84937    | 1   | 11:59 | 1.03 |put wrong exposure time, don't use|
+| blue | 8 | HD84937    | 10  | 12:00 | 1.03 |
+| red  | 7 | HD84937    | 10  | 11:59 | 1.03 |
+| blue | 9 | 2018gv_s1  | 1200| 12:13 | 1.61 |
+| red  | 8 | 2018gv_s1  | 1200| 12:13 | 1.61 |
+| blue | 10| 2018aoz_s1 | 900 | 
+| red  | 9 | 2018aoz_s1 | 900 | 
