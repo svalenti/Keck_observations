@@ -1,5 +1,11 @@
 # Observation Log:
 
+# Notes:
+* Having hydrolic issues - released late.
+* LRIS suffered yesterday a failure of the blue side grism transport mechanism. 
+While we can still operate the carousel to select any Grism, we cannot then transport it into the beam during the night.
+It has to be done manually by the summit crew, at the beginning of the night.
+Yesterday and today’s observers are in fact operating with a single grism all night.
 
 * Conditions: 
 * Seeing: 
