@@ -1,14 +1,14 @@
 # Observation Log:
 
 # Notes:
-* Having hydrolic issues - released late.
+* Having hydraulic issues - finally released at 5:30 UTC. We just checked the central wavelength and calibrated the focus before getting on sky.
 * LRIS suffered yesterday a failure of the blue side grism transport mechanism. 
 While we can still operate the carousel to select any Grism, we cannot then transport it into the beam during the night.
 It has to be done manually by the summit crew, at the beginning of the night.
 Yesterday and today’s observers are in fact operating with a single grism all night.
 
 * Conditions: Great
-* Seeing: 
+* Seeing: 0.67"
 * SA: Alessandro
 * OA: Tony
 * Data Directory: /sdata243/lris6/2019feb05_B
@@ -17,7 +17,7 @@ Yesterday and today’s observers are in fact operating with a single grism all 
 * Setup saved to:
 
 ## Setup:
-# Blue imaging focus: XXX
+# Blue imaging focus: N/A - already focused on a previous night
 
 ### Blue Side:
    - Grism: 600/4000
@@ -42,5 +42,5 @@ Yesterday and today’s observers are in fact operating with a single grism all 
 | red  | 3 | 2018ivc_s1 | 600 | 06:07 | 1.23 |
 | blue | 4 | 2018gjx_s1 | 900 | 06:20 | 1.26 |
 | red  | 4 | 2018gjx_s1 | 900 | 06:20 | 1.26 |
-| blue | 5 | 2018gjx_s1 | 300 |||don't have enough time for 15 mins exposure| 
-| red  | 5 | 2018hjx_s1 | 300 |||don't have enough time for 15 mins exposure|
+| blue | 5 | 2018gjx_s1 | 300 | 06:36 | 1.33 |don't have enough time for 15 mins exposure| 
+| red  | 5 | 2018hjx_s1 | 300 | 06:37 | 1.33 |don't have enough time for 15 mins exposure|
