@@ -11,7 +11,7 @@ Yesterday and today’s observers are in fact operating with a single grism all 
 * Seeing: 
 * SA: Alessandro
 * OA: Tony
-* Data Directory: 
+* Data Directory: /sdata243/lris6/2019feb05_B
 * Data Directory on Dark:
 * Starlist:
 * Setup saved to:
@@ -29,7 +29,7 @@ Yesterday and today’s observers are in fact operating with a single grism all 
     - Filter: Clear
     - Focus: -0.60
     
-### Central wavelength= 
+### Central wavelength= 7769.92
 
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
