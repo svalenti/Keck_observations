@@ -27,10 +27,12 @@ Yesterday and today’s observers are in fact operating with a single grism all 
 ### Red Side:
     - Grating: 400/8500
     - Filter: Clear
-    - Focus:
+    - Focus: -0.60
     
 ### Central wavelength= 
 
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
+| blue | 1 | G191B2B | 60 | 05:38 | 1.21 | 
+| red  | 2 | G191B2B | 60 | 05:38 | 1.21 |
