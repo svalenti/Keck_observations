@@ -63,3 +63,11 @@ Yesterday and today’s observers are in fact operating with a single grism all 
 | red  | 13| 2018is_s1  | 1200| 14:06 | 1.26 |
 | blue | 15| 2018is_s1  | 1200| 14:25 | 1.25 |
 | red  | 14| 2018is_s1  | 1200| 14:28 | 1.25 |
+| blue | 16| 2018is_s1  | 1200| 14:46 | 1.25 |
+| red  | 15| 2018is_s1  | 1200| 14:50 | 1.25 |
+| blue | 17| 2018gep_s1 | 900 | 15:16 | 1.33 |
+| red  | 16| 2018gep_s1 | 900 | 15:16 | 1.33 |
+| blue | 18| BD33d2642  | 30  | 15:35 | 1.11 |
+| red  | 17| BD33d2642  | 30  | 15:35 | 1.11 |
+| blue | 19| Feige34    | 60  | 15:40 | 1.6  |
+| red  | 18| Feige34    | 60  | 15:40 | 1.6  |
