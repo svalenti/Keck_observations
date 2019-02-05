@@ -35,4 +35,8 @@ Yesterday and today’s observers are in fact operating with a single grism all 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
 | blue | 1 | G191B2B | 60 | 05:38 | 1.21 | 
-| red  | 2 | G191B2B | 60 | 05:38 | 1.21 |
+| red  | 1 | G191B2B | 60 | 05:38 | 1.21 |
+| blue | 2 | 2018ivc | 600| 05:54 | 1.2  |
+| red  | 2 | 2018ivc | 600| 05:54 | 1.2  |
+| blue | 3 | 2018ivc | 600| 06:05 | 1.23 |
+| red  | 3 | 2018ivc | 600| 06:07 | 1.23 |
