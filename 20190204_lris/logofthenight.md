@@ -7,17 +7,17 @@ While we can still operate the carousel to select any Grism, we cannot then tran
 It has to be done manually by the summit crew, at the beginning of the night.
 Yesterday and today’s observers are in fact operating with a single grism all night.
 
-* Conditions: 
+* Conditions: Great
 * Seeing: 
 * SA: Alessandro
 * OA: Tony
 * Data Directory: /sdata243/lris6/2019feb05_B
 * Data Directory on Dark:
-* Starlist:
+* Starlist: starlist_20190204.txt
 * Setup saved to:
 
 ## Setup:
-# Blue imaging focus:
+# Blue imaging focus: XXX
 
 ### Blue Side:
    - Grism: 600/4000
