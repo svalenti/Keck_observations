@@ -12,7 +12,7 @@ Yesterday and today’s observers are in fact operating with a single grism all 
 * SA: Alessandro
 * OA: Tony
 * Data Directory: /sdata243/lris6/2019feb05_B
-* Data Directory on Dark:
+* Data Directory on Dark: /dark/hal/data/20190204_Keck
 * Starlist: starlist_20190204.txt
 * Setup saved to:
 
