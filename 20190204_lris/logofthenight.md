@@ -40,3 +40,7 @@ Yesterday and today’s observers are in fact operating with a single grism all 
 | red  | 2 | 2018ivc_s1 | 600 | 05:54 | 1.2  |
 | blue | 3 | 2018ivc_s1 | 600 | 06:05 | 1.23 |
 | red  | 3 | 2018ivc_s1 | 600 | 06:07 | 1.23 |
+| blue | 4 | 2018gjx_s1 | 900 | 06:20 | 1.26 |
+| red  | 4 | 2018gjx_s1 | 900 | 06:20 | 1.26 |
+| blue | 5 | 2018gjx_s1 | 300 |||don't have enough time for 15 mins exposure| 
+| red  | 5 | 2018hjx_s1 | 300 |||don't have enough time for 15 mins exposure|
