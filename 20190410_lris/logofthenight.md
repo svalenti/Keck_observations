@@ -23,8 +23,8 @@
     - Filter: Clear
     - Focus: -0.60
     
-### Central wavelength= 7769.92
-### Used longslit_1.0 for the whole night
+### Central wavelength= 
+### slit?
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
