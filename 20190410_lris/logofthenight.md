@@ -5,7 +5,7 @@
 * Seeing: 
 * SA: Josh
 * OA: Tony
-* Data Directory: /sdata243/lris5/2019apr10_B
+* Data Directory: /sdata243/lris5/2019apr11 (TBD)
 * Data Directory on Dark: /dark/hal/data/20190410_Keck
 * Starlist: starlist_20190410.txt
 * Setup saved to:
@@ -16,12 +16,12 @@
 ### Blue Side:
    - Grism: 600/4000
    - Filter: Clear
-   - Focus: -3623.23
+   - Focus: ?
 
 ### Red Side:
     - Grating: 400/8500
     - Filter: Clear
-    - Focus: -0.60
+    - Focus: ?
     
 ### Central wavelength= 
 ### slit?
