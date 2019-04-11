@@ -3,10 +3,10 @@
 # Notes:
 * have lamp control issues when do arcs. 
 * did arcs manually after the issues were solved.
+* experienced very bad weather and didn't observe for the whole night
 
-
-* Conditions: good
-* Seeing: 0.85
+* Conditions: bad
+* Seeing: infinity
 * SA: Josh
 * OA: Tony
 * Data Directory: /sdata243/lris5/2019apr11
