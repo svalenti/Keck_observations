@@ -53,11 +53,11 @@
 | red   | 28 |  flat 1.5  |  35 | 03:10  |  13.37 |
 | blue  | 22 |  flat 1.5  | 150 | 03:09  |  13.37 | 
 | blue  | 23 |  flat 1.5  | 150 | 03:13  |  13.37 |
-| blue  | 41 |  arc  | 3 | 07:22  |  1.1 |
-| red   | 42 |  arc  | 3 | 07:22  |  1.1 |
-| red   | 43 |  arc  | 3 | 07:29  |  1.11 |
-| blue  | 42 |  arc  | 3 | 07:29  |  1.12 |
-| blue  | 43 |  arc  | 1 | 07:32  |  1.12 |
-| red   | 44 |  arc  | 1 | 07:33  |  1.12 |
-| blue  | 44 |  arc  | 1 | 07:37  |  1.13 |
-| red   | 45 |  arc  | 1 | 07:37  |  1.13 |
+| blue  | 41 |  arc  | 3 | 07:22  |  1.1 | manually did the arc
+| red   | 42 |  arc  | 3 | 07:22  |  1.1 | manually did the arc
+| red   | 43 |  arc  | 3 | 07:29  |  1.11 |manually did the arc
+| blue  | 42 |  arc  | 3 | 07:29  |  1.12 |manually did the arc
+| blue  | 43 |  arc  | 1 | 07:32  |  1.12 |manually did the arc
+| red   | 44 |  arc  | 1 | 07:33  |  1.12 |manually did the arc
+| blue  | 44 |  arc  | 1 | 07:37  |  1.13 |manually did the arc
+| red   | 45 |  arc  | 1 | 07:37  |  1.13 |manually did the arc
