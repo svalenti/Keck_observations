@@ -12,10 +12,12 @@
 * Setup saved to:
 
 Notes:
-When we tried to switch back to spectroscopic observations after imaging 19osy and the direct slit image of 19krl we were unable to 
+* When we tried to switch back to spectroscopic observations after imaging 19osy and the direct slit image of 19krl we were unable to 
 get the FCS to track. We restarted the FCS, ran the troubleshooting tool, and ultimately took new calibration images. 
 At this same time we realized that the grating was no longer tilting to put the zeroth order on the detector.
-To avoid further issues we stopped taking direct images of the slit and trusted that we were aligning the slit
+To avoid further issues we stopped taking direct images of the slit and trusted that we were aligning the slit.
+* Finder images were saved to the data directory/finder_imgs. I tried to save the image when we were on the offset star and when we were on target, 
+but I'm honestly not sure what files correspond to what targets. We may have to match timestamps.
 
 ## Setup:
 Focus: -7309
