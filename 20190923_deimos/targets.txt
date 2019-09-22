@@ -1,5 +1,6 @@
 #firts half night
-
+# limit at 36.8W (ok rising objects)
+#
 2018evy (low airmass or trade w/ 1st half)
 2017gmr  02:35:30.15 -09:21:15.0   II    21 
 2019cvz  16:30:54.00 +46:35:18.2   II    19.5-20
