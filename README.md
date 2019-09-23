@@ -15,7 +15,10 @@ enter as remote
 
 - <b> open terminal and go to remote/bin/ </b>
 
-- <b> type: kvncinst    lris lris# </b> (this will open 6 terminal, where number is in the InstrAcc column on the schedule page: https://www2.keck.hawaii.edu/observing/keckSchedule/keckSchedule.php)
+- <b> type:   
+      * LRIS: kvncinst    lris lris#  
+      * DEIMOS: kvncinst  deimos deimos#  
+</b> (this will open 6 terminal, where number is in the Account column on the schedule page: https://www2.keck.hawaii.edu/observing/keckSchedule/keckSchedule.php)
 
 first password    StayCool
 
