@@ -36,7 +36,8 @@ https://www2.keck.hawaii.edu/observing/starlist.html
 
 
 - Afternoon checklist 
-https://www2.keck.hawaii.edu/inst/lris/checklist_pre_obs.html
+    * LRIS: https://www2.keck.hawaii.edu/inst/lris/checklist_pre_obs.html
+    * DEIMOS: https://www2.keck.hawaii.edu/inst/deimos/checklist-pm.html
 
 - compute offset
 https://www2.keck.hawaii.edu/inst/common/offset.php
