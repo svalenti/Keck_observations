@@ -1,12 +1,10 @@
 2018zd (lets get high S/N for Daichi's paper, Xiaofeng also requested)
 2018hmx (requested by Iair, he has a students working on a paper)
 2019muj (Saurabh requested, Ia SN)
-2019hnl (Type II)
 2019jyw (Type II)
-2019cvz (Type II)
-2019cbc (Type II)
-2019cbc (Type II)
 2018hle (Type II)
+2019nyk (Type II)
+2019ofc (Type II)
 
 Backup:
 2019jyw
