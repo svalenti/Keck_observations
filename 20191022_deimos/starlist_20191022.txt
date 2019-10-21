@@ -1,8 +1,8 @@
 #name           RA            DEC         epoch    RA_OFFSET DEC_OFFSET
 HD19445         03 08 25.86   +26 20 05.7   2000.0
 2019rwd         00 10 45.89   +21 08 20.8   2000.0
-2019rwd_S1      00 10 50.205  +21 07 58.21  2000.0  raoffset=-60.26  decoffset=22.46
-2019rwd_S1      00 10 49.324  +21 08 34.83  2000.0  raoffset=-47.93  decoffset=-14.16
+2019rwd_S1      00 10 50.21   +21 07 58.2   2000.0  raoffset=-60.26  decoffset=22.46
+2019rwd_S2      00 10 49.32   +21 08 34.8   2000.0  raoffset=-47.93  decoffset=-14.16
 2019jyw         01 06 30.21   -02 11 56.3   2000.0
 2019jyw_S1      01 06 27.47   -02 12 04.4   2000.0  raoffset=40.11  decoffset=8.71
 2019jyw_S2      01 06 29.37   -02 11 03.4   2000.0  raoffset=11.74  decoffset=-52.30
