@@ -18,7 +18,7 @@ Notes:
 Focus: -7321.8
 Grating: 600ZD  
 Filter: GG455  
-Central Wavelength: 7000 #Move it a little further from Ha
+Central Wavelength: 7000 
 SlitMask: LVMslitC 
 Width: 1.0" except 
 
