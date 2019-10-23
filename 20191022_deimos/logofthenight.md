@@ -44,5 +44,5 @@ Width: 1.0" except
 |22         |    2018hmx  |1200         |GG455   |  14:41:26       |   1.37  |
 |23         |    2018hmx  |1200         |GG455   |  15:02:36       |   1.32  |
 |24         |    G191B2B  |80           |GG455   |  15:25:42       |   1.32  |the exposure didn't stop for some reason, stop it manually. The exposure time is a little bit longer than what we plan
-|25         |    2018hmx  |100          |GG455   |  15:30:54       |   1.25  |
+|25         |    2019osl  |100          |GG455   |  15:30:54       |   1.25  |
 
