@@ -12,3 +12,5 @@ Jacob:
 AT2019qyl(2019md)  00:54:57.660 -37:38:40.00    # r~19
 Lifang Wang & Lingzhi Wang:
 2018evt 17mag
+Dave:
+AT 2019udc
