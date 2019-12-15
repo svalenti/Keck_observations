@@ -1,0 +1,14 @@
+Daichi:
+SN2019edo: Nice LCO and Swift sampling. Still bright (mr ~ 19 mag), so should be an easy target.
+SN2019eez: Nice LCO, Swift, and Gaia (caught the plateau drop) sampling. Still bright (mr ~ 19.5 mag), so should be an easy target.
+SN2019jyw: Nice LCO and Swift sampling. Maybe a short-plateau (~60 days) which I'm personally really interested in. Still bright (mr ~ 19 mag), so should be an easy target.
+SN2019nyk: Nice LCO sampling. Still bright (mr ~ 19.5 mag), so should be an easy target.
+Rachael:
+SN 2019muj       02:26:19            -9:50:09            ~20.4
+SN 2019pxo        03:15:18.37     +42:41:44.0     ~19.5
+SN 2018jky        03:26:01.93      -17:33:48.0     ~22.1
+SN 2019hvv       01:14:24.37     -07:28:31.7      ~20.8
+Jacob:
+AT2019qyl(2019md)  00:54:57.660 -37:38:40.00    # r~19
+Lifang Wang & Lingzhi Wang:
+2018evt 17mag
