@@ -3,7 +3,7 @@
 # Notes:
 
 * Conditions: cloudy
-* Seeing: 
+* Seeing: ~1.3
 * SA: Carlos
 * OA: Tony
 * Data Directory: /sdata1222/deimos4/2019dec23
