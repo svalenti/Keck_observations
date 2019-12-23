@@ -6,7 +6,7 @@
 * Seeing: ~1.3
 * SA: Carlos
 * OA: Tony
-* Data Directory: /sdata1222/deimos4/2019dec23
+* Data Directory: /sdata1003/deimos4/2019dec23
 * Data Directory on Dark: /dark/hal/data/20191222_Keck
 * Starlist: starlist_20191222.txt
 * Setup saved to: Deimos can't save the setup like Lris
