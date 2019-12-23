@@ -40,6 +40,7 @@ Width: 1.0" except
 |20         |    dome flat|7            |I       |                 |    -    | I band
 |21         |    arcs     |3            |GG455   |                 |    -    | 
 |22         |    arcs     |3            |GG455   |                 |    -    | 
-
+|23         |    G191B2B  |60           |GG455   | 10:01:17        |  1.2    | 
+|24         |    2019pxo  |960          |GG455   | 10:05:53        |  1.3    | there are some clouds while we are exposing, not sure about the quality of the spectrum
 
 
