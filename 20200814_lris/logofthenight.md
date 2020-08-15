@@ -71,10 +71,68 @@
 |b200815_0029.fits|22|MIRA              |10|10:38:29.35||direct|
 |b200815_0030.fits|23|MIRA              |10|10:47:36.58||direct|
 |b200815_0031.fits|24|MIRA              |10|10:48:50.53||direct|
-|b200815_0032.fits|25|2017gas           |1250|10:58:45.70|1.39|long_1.5|
-|r200815_0028.fits|21|2017gas           |1250|10:58:53.35|1.39|long_1.5|
+|b200815_0032.fits|25|2017gas           |1250|10:58:45.70|1.39|long_1.5, 2017gas_S2|
+|r200815_0028.fits|21|2017gas           |1250|10:58:53.35|1.39|long_1.5, 2017gas_S2|
 |b200815_0033.fits|26|Feige110          |60  |11:26:39.01|1.12|long_1.5|
 |b200815_0034.fits|27|Feige110          |60  |11:29:10.99|1.12|long_1.0|
 |r200815_0029.fits|22|Feige110          |60  |11:26:51.76|1.12|long_1.5|
 |r200815_0030.fits|23|Feige110          |60  |11:31:50.11|1.11|long_1.0|
-
+|b200815_0035.fits|28|2019nyk|1200|11:36:29.08|1.22|long_1.5, 2019nyk_S2|
+|r200815_0031.fits|24|2019nyk|1200|11:36:42.85|1.22|long_1.5, 2019nyk_S2|
+|b200815_0036.fits|29|2019nyk|1200|11:57:22.66|1.18|long_1.5, 2019nyk_S2|
+|r200815_0032.fits|25|2019nyk|1200|12:00:21.16|1.17|long_1.5, 2019nyk_S2|
+|b200815_0037.fits|30|2019nyk|1200|12:18:15.73|1.15|long_1.5, 2019nyk_S2|
+|r200815_0033.fits|26|2019nyk|1200|12:23:59.47|1.15|long_1.5, 2019nyk_S2|
+|b200815_0038.fits|31|2019hnl|1200|12:48:23.17|1.09|long_1.5, 2019hnl_S1|
+|r200815_0034.fits|27|2019hnl|1200|12:48:28.27|1.09|long_1.5, 2019hnl_S1|
+|b200815_0039.fits|32|2019hnl|1200|13:09:16.75|1.1 |long_1.5, 2019hnl_S1|
+|b200815_0040.fits|33|2019hnl|5   |13:30:10.34|1.13|long_1.5, 2019hnl_S1, don't use it, interupted|
+|r200815_0035.fits|28|2019hnl|1200|13:12:06.07|1.1 |long_1.5, 2019hnl_S1|
+|b200815_0041.fits|34|2019hnl|1200|13:35:59.18|1.13|long_1.5, 2019hnl_S2, use another offset star to see if these's any improvement|
+|r200815_0036.fits|29|2019hnl|1200|13:35:59.69|1.13|long_1.5, 2019hnl_S2, use another offset star to see if these's any improvement|
+|b200815_0042.fits|35|2019hnl|1200|13:56:52.25|1.17|long_1.5, 2019hnl_S2, use another offset star to see if these's any improvement|
+|r200815_0037.fits|30|2019hnl|1200|13:59:38.00|1.18|long_1.5, 2019hnl_S2, use another offset star to see if these's any improvement|
+|b200815_0043.fits|36|2019jyw|1100|14:23:14.27|1.09|long_1.5, 2019jyw_S1|
+|r200815_0038.fits|31|2019jyw|1100|14:23:23.96|1.09|long_1.5, 2019jyw_S1|
+|b200815_0044.fits|37|2019jyw|1100|14:42:27.89|1.11|long_1.5, 2019jyw_S1|
+|r200815_0039.fits|32|2019jyw|1100|14:45:22.31|1.11|long_1.5, 2019jyw_S1|
+|r200815_0040.fits|33|G191B2B|60|15:10:43.66|1.42|long_1.5, the blue side crashed, but this red side is good|
+|b200815_0045.fits|38|G191B2B|60|15:22:18.29|1.38|long_1.5, SA was doing tests on the blue side, didn't change the windowing of the CCD|
+|b200815_0046.fits|39|G191B2B|1 |15:24:21.20|1.38|long_1.5, SA was doing tests on the blue side, didn't change the windowing of the CCD|
+|b200815_0047.fits|40|G191B2B|60|15:25:26.48|1.37|long_1.5, another exposure after the issue was solved, but the sky is bright|
+|r200815_0041.fits|34|G191B2B|60|15:25:40.76|1.37|long_1.5, another exposure after the issue was solved, but the sky is bright|
+|b200815_0048.fits||||||Do not use these, the red side crashes and the SA did some tests|
+|b200815_0049.fits||||||Do not use these, the red side crashes and the SA did some tests|
+|b200815_0050.fits||||||Do not use these, the red side crashes and the SA did some tests|
+|b200815_0051.fits||||||Do not use these, the red side crashes and the SA did some tests|
+|b200815_0052.fits||||||Do not use these, the red side crashes and the SA did some tests|
+|b200815_0053.fits||||||Do not use these, the red side crashes and the SA did some tests|
+|b200815_0054.fits||||||Do not use these, the red side crashes and the SA did some tests|
+|b200815_0055.fits||||||Do not use these, the red side crashes and the SA did some tests|
+|b200815_0056.fits||||||Do not use these, the red side crashes and the SA did some tests|
+|r200815_0042.fits||||||Do not use these, the red side crashes and the SA did some tests|
+|r200815_0043.fits||||||Do not use these, the red side crashes and the SA did some tests|
+|b200815_0057.fits|41|HgNeArCdZnKrXe arc|1    |16:18:54.89|||
+|b200815_0058.fits|42|HgNeArCdZnKrXe arc|1    |16:19:49.46|||
+|r200815_0044.fits|35|HgNeArCdZnKrXe arc|1    |16:19:06.11|||
+|r200815_0045.fits|36|HgNeArCdZnKrXe arc|1    |16:22:44.90|||
+|b200815_0059.fits|43|dome flat long_1.5|150  |16:26:21.14|||
+|r200815_0046.fits|37|dome flat long_1.5|35   |16:26:32.36|||
+|b200815_0060.fits|44|dome flat long_1.5|150  |16:29:44.63|||
+|r200815_0047.fits|38|dome flat long_1.5|35   |16:30:45.32|||
+|b200815_0061.fits|45|dome flat long_1.5|150  |16:33:08.63|||
+|r200815_0048.fits|39|dome flat long_1.5|35   |16:34:58.79|||
+|b200815_0062.fits|46|dome flat long_1.5|150  |16:36:32.12|||
+|r200815_0049.fits|40|dome flat long_1.5|35   |16:39:12.26|||
+|b200815_0063.fits|47|dome flat long_1.5|150  |16:39:55.61|||
+|b200815_0064.fits|48|dome flat long_1.5|150  |16:43:19.61|||
+|r200815_0050.fits|41|dome flat long_1.5|35   |16:43:25.22|||
+|b200815_0065.fits|49|dome flat long_1.5|150  |16:46:43.10|||
+|r200815_0051.fits|42|dome flat long_1.5|35   |16:47:38.69|||
+|b200815_0066.fits|50|dome flat long_1.5|150  |16:50:06.59|||
+|r200815_0052.fits|43|dome flat long_1.5|35   |16:51:52.16|||
+|b200815_0067.fits|51|dome flat long_1.5|150  |16:53:30.08|||
+|r200815_0053.fits|44|dome flat long_1.5|35   |16:56:05.63|||
+|b200815_0068.fits|52|dome flat long_1.5|150  |16:56:53.57|||
+|r200815_0054.fits|45|dome flat long_1.5|35   |17:00:19.10|||
+|r200815_0055.fits|46|dome flat long_1.5|35   |17:04:32.06|||
