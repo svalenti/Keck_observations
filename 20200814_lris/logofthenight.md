@@ -57,8 +57,8 @@
 |b200815_0022.fits|15|dome flat long_1.0|150|03:30:35.72||long_1.0|
 |r200815_0021.fits|14|dome flat long_1.0|35 |03:34:01.76||long_1.0|
 |r200815_0022.fits|15|dome flat long_1.0|35 |03:38:14.72||long_1.0|
-|b200815_0023.fits|16|dome flat long_1.5|150|03:42:55.22||long_1.5 (will do flats for long_1.5 in the morning, don't use this one)|
-|r200815_0023.fits|16|dome flat long_1.5|35 |03:43:06.44||long_1.5 (will do flats for long_1.5 in the morning, don't use this one)|
+|b200815_0023.fits|16|dome flat long_1.5|150|03:42:55.22||long_1.5 (interupted manually, will do flats for long_1.5 in the morning, don't use this one)|
+|r200815_0023.fits|16|dome flat long_1.5|35 |03:43:06.44||long_1.5 (interupted manually, will do flats for long_1.5 in the morning, don't use this one)|
 |b200815_0024.fits|17|arc               |1|03:51:31.34||long_1.0|
 |b200815_0025.fits|18|arc               |1|03:52:25.40||long_1.0|
 |r200815_0024.fits|17|arc               |1|03:51:43.07||long_1.0|
@@ -86,7 +86,7 @@
 |b200815_0038.fits|31|2019hnl|1200|12:48:23.17|1.09|long_1.5, 2019hnl_S1|
 |r200815_0034.fits|27|2019hnl|1200|12:48:28.27|1.09|long_1.5, 2019hnl_S1|
 |b200815_0039.fits|32|2019hnl|1200|13:09:16.75|1.1 |long_1.5, 2019hnl_S1|
-|b200815_0040.fits|33|2019hnl|5   |13:30:10.34|1.13|long_1.5, 2019hnl_S1, don't use it, interupted|
+|b200815_0040.fits|33|2019hnl|5   |13:30:10.34|1.13|long_1.5, 2019hnl_S1, don't use it, interupted manually|
 |r200815_0035.fits|28|2019hnl|1200|13:12:06.07|1.1 |long_1.5, 2019hnl_S1|
 |b200815_0041.fits|34|2019hnl|1200|13:35:59.18|1.13|long_1.5, 2019hnl_S2, use another offset star to see if these's any improvement|
 |r200815_0036.fits|29|2019hnl|1200|13:35:59.69|1.13|long_1.5, 2019hnl_S2, use another offset star to see if these's any improvement|
@@ -97,8 +97,8 @@
 |b200815_0044.fits|37|2019jyw|1100|14:42:27.89|1.11|long_1.5, 2019jyw_S1|
 |r200815_0039.fits|32|2019jyw|1100|14:45:22.31|1.11|long_1.5, 2019jyw_S1|
 |r200815_0040.fits|33|G191B2B|60|15:10:43.66|1.42|long_1.5, the blue side crashed, but this red side is good|
-|b200815_0045.fits|38|G191B2B|60|15:22:18.29|1.38|long_1.5, SA was doing tests on the blue side, didn't change the windowing of the CCD|
-|b200815_0046.fits|39|G191B2B|1 |15:24:21.20|1.38|long_1.5, SA was doing tests on the blue side, didn't change the windowing of the CCD|
+|b200815_0045.fits|38|G191B2B|60|15:22:18.29|1.38|long_1.5, SA was doing tests on the blue side, didn't change the windowing of the CCD, don't use it|
+|b200815_0046.fits|39|G191B2B|1 |15:24:21.20|1.38|long_1.5, SA was doing tests on the blue side, didn't change the windowing of the CCD, don't use it|
 |b200815_0047.fits|40|G191B2B|60|15:25:26.48|1.37|long_1.5, another exposure after the issue was solved, but the sky is bright|
 |r200815_0041.fits|34|G191B2B|60|15:25:40.76|1.37|long_1.5, another exposure after the issue was solved, but the sky is bright|
 |b200815_0048.fits||||||Do not use these, the red side crashes and the SA did some tests|
