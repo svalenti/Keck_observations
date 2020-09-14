@@ -20,7 +20,7 @@ enter as remote
       * DEIMOS: kvncinst  deimos deimos#  
 </b> (this will open 6 terminal, where number is in the Account column on the schedule page: https://www2.keck.hawaii.edu/observing/keckSchedule/keckSchedule.php)
 
-first password    StayCool
+first password    Nu12fst
 
 second password   wombat1
 
