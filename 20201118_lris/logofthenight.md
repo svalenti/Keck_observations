@@ -11,16 +11,6 @@
 
 ## Setup: 
 
-
-### Blue Side:
-    - Grism: 600/4000
-    - Filter: Clear
-    - Focus: -3586.89
-
-### Red Side:
-    - Grating: 400/8500
-    - Filter: Clear
-    - Focus: -0.62
     
 ### Central wavelength= 7770
 
