@@ -41,7 +41,7 @@
 |hires0013.fits|12|2020hvf  |1200||||
 |hires0014.fits|13|2020hvf  |1200||||
 |hires0015.fits|13|2016blu  |1200||||
-|hires0016.fits|13|G191B2B  |1200||||
+|hires0016.fits|13|G191B2B  |200||||
 |hires0017-21.fits| |bias  |0|||didn't close the hatch|
 |hires0022-26.fits| |bias  |0||||
 |hires0027-31.fits| |flats  |5||||
