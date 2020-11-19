@@ -16,11 +16,11 @@ enter as remote
 - <b> open terminal and go to remote/bin/ </b>
 
 - <b> type:   
-      * LRIS: kvncinst    lris lris#  
+      * LRIS: kvncinst(kvnctel)    lris lris#  
       * DEIMOS: kvncinst  deimos deimos#  
 </b> (this will open 6 terminal, where number is in the Account column on the schedule page: https://www2.keck.hawaii.edu/observing/keckSchedule/keckSchedule.php)
 
-first password    Nu12fst
+first password    $ecureME
 
 second password   wombat1
 
