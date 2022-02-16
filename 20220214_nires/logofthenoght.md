@@ -5,7 +5,7 @@
 * Conditions: good
 * Seeing: ~0.9
 * SA: Josh
-* OA: Tony
+* OA: John
 * Data Directory: /sdata1500/nires9/2022feb15_C
 * Data Directory on Dark: /dark/hal/data/20220214_Keck
 * Starlist: 
