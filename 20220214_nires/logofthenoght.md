@@ -19,7 +19,7 @@ Notes:
 
 | Obs #     | Target      | Exptime (s) | Airmass | Comments                                                   |
 |-----------|-------------|-------------|---------|------------------------------------------------------------|
-|0102       |   2022yok   |280          |    -    | 
+|0102       |   2022yok   |280          |    -    | Trace of the target visible.
 |0103       |   2022yok   |280          |    -    | 
 |0104       |   2022yok   |280          |    -    | 
 |0105       |   2022yok   |280          |    -    | 
@@ -34,7 +34,7 @@ Notes:
 |0115       |   HIP43018  |10           |    -    | 
 |0116       |   HIP43018  |10           |    -    | 
 |0117       |   HIP43018  |10           |    -    | 
-|0118       |   2021gmj   |300          |    -    | Just got the host galaxy
+|0118       |   2021gmj   |300          |    -    | No SN visible in the aqc. Just got the host galaxy
 |0119       |   2021gmj   |300          |    -    |
 |0120       |   2021gmj   |300          |    -    |
 |0121       |   2021gmj   |300          |    -    |
@@ -54,11 +54,11 @@ Notes:
 |0138       |   HIP62194  |10           |    -    | 
 |0139       |   HIP62194  |10           |    -    | 
 |0140       |   HIP62194  |10           |    -    | 
-|0142       |   2021ywx   |300          |    -    | probably just got the host galaxy
+|0142       |   2021ywx   |300          |    -    | Hard acq. Probably just got the host galaxy
 |0143       |   2021ywx   |300          |    -    |
 |0144       |   2021ywx   |300          |    -    |
 |0145       |   2021ywx   |300          |    -    |
-|0146       |   2022abq   |300          |    -    |
+|0146       |   2022abq   |300          |    -    | Bright target. Single ABBA exposure
 |0147       |   2022abq   |300          |    -    |
 |0148       |   2022abq   |300          |    -    |
 |0149       |   2022abq   |300          |    -    |
