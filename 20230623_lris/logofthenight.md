@@ -4,7 +4,7 @@
 * Seeing: 1.46
 * SA: Sherry
 * OA: Tony
-* Data Directory: /s/sdata125/lris8/2023jun24
+* Data Directory: /s/sdata245/lris8/2023jun24
 * Data Directory on Dark: /dark/hal/data/20230623_Keck
 * Starlist: 
 * Setup saved to: 
