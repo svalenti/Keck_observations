@@ -15,7 +15,7 @@
 ### Central wavelength= 7770
 
 
-| Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
+|   Side   | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
 |b8-9|2|     arc  |3| ||Change first obj name in header from ZTF23aamsarj to arcs|
 |r8-9|2|     arc  |3| |||
