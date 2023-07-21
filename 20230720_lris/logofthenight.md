@@ -17,7 +17,7 @@
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
-|b8-9||     arc  |3| |||
+|b8-9||     arc  |3| ||Change first obj name in header from ZTF23aamsarj to arcs|
 |r8-9||     arc  |3| |||
 |b10-11||     arc  |1| |||
 |r10-11||     arc  |1| |||
