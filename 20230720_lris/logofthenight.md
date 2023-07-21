@@ -1,10 +1,10 @@
 # Observation Log: 
 
-* Conditions: 
+* Conditions: Slightly bad weather first couple of hours
 * Seeing: 
 * SA: Sherry
 * OA: Tony
-* Data Directory: 
+* Data Directory: /s/sdata245/lris4/2023jul21
 * Data Directory on Dark: /dark/hal/data/20230720_Keck
 * Starlist: 
 * Setup saved to: 
@@ -31,8 +31,8 @@
 |r17-18|2|   2022erq  |900| |1.5||
 |b19-21|2|   2021aatd |900| |1.35| Bad finding chart (image on galaxy not SN), 21 file has 2023ehl as obj name|
 |r19-20|2|   2021aatd |900| |1.3| Bad finding chart (image on galaxy not SN)|
-|b22|1|   2023ehl |600| |1.3| Nice trace :)|
-|r21|1|   2023ehl |600| |1.3| Nice trace :)|
+|b22|1|   2023ehl |600| |1.3| Nice trace |
+|r21|1|   2023ehl |600| |1.3| Nice trace |
 |b23-25|3|   2018ivc |1200| |1.4| |
 |r22-24|3|   2018ivc |1200| |1.4| |
 |b26|1|   2018ivc |1200| |1.1| |
