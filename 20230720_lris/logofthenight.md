@@ -1,6 +1,6 @@
 # Observation Log: 
 
-* Conditions: Slightly bad weather first couple of hours
+* Conditions: Slightly bad weather first couple of hours, had issues with magiq first 30min
 * Seeing: 
 * SA: Sherry
 * OA: Tony
