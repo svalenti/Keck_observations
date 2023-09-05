@@ -1,30 +1,5 @@
 # Keck_observations
 
-this repository is for Keck observations
-
-
-Mainland connection
-
-- ctl+alt+esc to get login screen
-enter as remote  
-
-<b> user       remote </b>
-
-<b> password   Keck-2016! </b>
-
-
-- <b> open terminal and go to remote/bin/ </b>
-
-- <b> type:   
-      * LRIS: kvncinst(kvnctel)    lris lris#  
-      * DEIMOS: kvncinst  deimos deimos#  
-</b> (this will open 6 terminal, where number is in the Account column on the schedule page: https://www2.keck.hawaii.edu/observing/keckSchedule/keckSchedule.php)
-
-first password    $ecureME
-
-second password   wombat1
-
-(the first password may be already in because of the previous connection)
 
 # Calibration and Settings
 
