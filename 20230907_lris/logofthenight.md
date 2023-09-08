@@ -1,6 +1,6 @@
 # Observation Log: 
 
-* Conditions: starting at ~12am HST humidity inside the dome pretty high (~85%). Had to skip 23gft to stay on schedule. ~12:40am had to close the dome because of high humidity, skipping 23pcw.
+* Conditions: starting at ~12am HST humidity inside the dome pretty high (~85%). Had to skip 23gft to stay on schedule. ~12:40am had to close the dome because of high humidity+fog, skipping all targets after 2023rau
 * Seeing: 
 * SA: Michael
 * OA: Arina
@@ -18,7 +18,7 @@
 |   Side   | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |----------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
 |1-2|2|     arc   |1| ||GG455+7000|
-|3-8|5|     flat  |3| ||GG455+7000|
+|3-7|5|     flat  |3| ||GG455+7000|
 |8-9|2|     arc   |1| ||GG400+6400|
 |10-14|5|     flat  |3| ||GG400+6400|
 |15|1|     2023aew  |1000| ||GG455+7000|
@@ -28,3 +28,5 @@
 |20-21|2|     2023qre  |900| ||GG455+7000|
 |22|1|     2023ehl  |900| ||GG455+7000|
 |23-24|2|     2023rau  |600| ||GG455+7000|
+|25-|2|     arc   |1| ||GG455+7000|
+||5|     flat  |3| ||GG455+7000|
