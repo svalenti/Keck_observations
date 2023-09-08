@@ -1,6 +1,6 @@
 # Observation Log: 
 
-* Conditions: 
+* Conditions: ~12am HST, humidity inside the dome pretty high (~85%), might have to close up (we'll see)
 * Seeing: 
 * SA: Michael
 * OA: Arina
