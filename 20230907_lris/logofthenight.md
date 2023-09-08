@@ -1,6 +1,6 @@
 # Observation Log: 
 
-* Conditions: ~12am HST humidity inside the dome pretty high (~85%) but went down by ~5%
+* Conditions: starting at ~12am HST humidity inside the dome pretty high (~85%)
 * Seeing: 
 * SA: Michael
 * OA: Arina
