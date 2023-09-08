@@ -4,7 +4,7 @@
 * Seeing: 
 * SA: Michael
 * OA: Arina
-* Data Directory: 
+* Data Directory: /s/sdata1005/deimos3/2023sep08_B/
 * Data Directory on Dark: 
 * Starlist: 
 * Setup saved to: 
@@ -24,4 +24,5 @@
 |15|1|     2023aew  |1000| ||GG455+7000|
 |16|1|     Feige110  |60| ||GG455+7000|
 |17|1|     2023qea  |900| ||GG455+7000|
-|18|1|     2023erq  |900| ||GG455+7000|
+|18-19|2|     2023erq  |900| ||GG455+7000|
+|20|1|     2023qre  |900| ||GG455+7000|
