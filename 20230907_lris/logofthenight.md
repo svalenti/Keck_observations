@@ -7,7 +7,8 @@
 * Data Directory: /s/sdata1005/deimos3/2023sep08_B/
 * Data Directory on Dark: 
 * Starlist: 
-* Setup saved to: 
+* Setup saved to:
+* Extra notes: Maybe change "dome flats" in wiki to "internal flats" (?)
 
 ## Setup: 
 
