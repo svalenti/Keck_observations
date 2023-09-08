@@ -1,6 +1,6 @@
 # Observation Log: 
 
-* Conditions: starting at ~12am HST humidity inside the dome pretty high (~85%)
+* Conditions: starting at ~12am HST humidity inside the dome pretty high (~85%). Had to skip 23gft to stay on schedule. ~12:40am had to close the dome, skipping 23pcw.
 * Seeing: 
 * SA: Michael
 * OA: Arina
