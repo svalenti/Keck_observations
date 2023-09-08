@@ -1,6 +1,6 @@
 # Observation Log: 
 
-* Conditions: ~12am HST, humidity inside the dome pretty high (~85%), might have to close up (we'll see)
+* Conditions: ~12am HST humidity inside the dome pretty high (~85%) but went down by ~5%
 * Seeing: 
 * SA: Michael
 * OA: Arina
@@ -26,3 +26,5 @@
 |17|1|     2023qea  |900| ||GG455+7000|
 |18-19|2|     2023erq  |900| ||GG455+7000|
 |20-21|2|     2023qre  |900| ||GG455+7000|
+|22|1|     2023ehl  |900| ||GG455+7000|
+|23-24|2|     2023rau  |600| ||GG455+7000|
