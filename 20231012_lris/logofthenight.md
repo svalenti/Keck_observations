@@ -1,7 +1,7 @@
 # Observation Log: 
 
 * Conditions: okay
-* Seeing: 1.46
+* Seeing: 
 * SA: Sherry
 * OA: Tony
 * Data Directory: /s/sdata245/lris9/2023oct13_B/
