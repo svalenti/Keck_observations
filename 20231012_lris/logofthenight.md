@@ -1,6 +1,6 @@
 # Observation Log: 
 
-* Conditions: okay
+* Conditions: good! :)
 * Seeing: 
 * SA: Percy Gomez
 * OA: Max Piper
