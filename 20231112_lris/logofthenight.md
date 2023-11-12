@@ -1,10 +1,10 @@
-# Observation Log: instrument switch (from HIRES) took about five minutes
+# Observation Log 20231112
 
 * Conditions: okay
-* Seeing: 1.46
-* SA: Sherry
-* OA: Tony
-* Data Directory: /s/sdata245/lris8/2023jun24
+* Seeing:
+* SA: 
+* OA:
+* Data Directory: /s/sdata245/lris8/2023jun
 * Data Directory on Dark: /dark/hal/data/20230623_Keck
 * Starlist: 
 * Setup saved to: 
