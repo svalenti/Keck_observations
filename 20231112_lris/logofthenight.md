@@ -5,7 +5,7 @@
 * SA: Percy
 * OA: Arina
 * Data Directory: /s/sdata245/lris4/2023nov13_B
-* Data Directory on Dark: /dark/hal/data/20230623_Keck
+* Data Directory on Dark: /dark/hal/data/20231112_Keck
 * Starlist: 
 * Setup saved to: 
 
