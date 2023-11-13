@@ -39,3 +39,5 @@
 |r0029-38|10|internal flats        |2| ||Saturation good|
 |b0038|1|2023ufx        |150| ||Power back|
 |r0039|1|2023ufx        |150| |||
+|b0039|1|Hiltner600        |30| |||
+|r0040|1|Hiltner600        |30| |||
