@@ -27,8 +27,8 @@
 |r0012|1|2023esp        |?| ||Had to stop midway, telescope shutting down|
 |b0013-0014|2|arc        |3| |||
 |r0013-0014|2|arc        |3| |||
-|b0015-00??|1|internal flats        |70| ||Oversaturated, don't use|
-|r0015-00??|1|internal flats        |15| ||Oversaturated, don't use|
+|b0015-00??|?|internal flats        |70| ||Oversaturated, don't use|
+|r0015-00??|?|internal flats        |15| ||Oversaturated, don't use|
 |b00??-00??|2|arc        |1| |||
 |r00??-00??|2|arc        |1| |||
 |b00??-00??|?|internal flats        |10| ||Still oversaturated, don't use|
