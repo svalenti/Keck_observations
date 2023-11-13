@@ -1,6 +1,6 @@
 # Observation Log 20231112
 
-* Conditions: okay
+* Conditions: power outage at HQ before handoff time
 * Seeing:
 * SA: Percy
 * OA: Arina
@@ -18,3 +18,4 @@
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
 |b0008-0009|2|2023rau        |900| |||
+|r00008-00009|2|2023rau        |900| |||
