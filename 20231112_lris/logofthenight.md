@@ -35,5 +35,5 @@
 |r00??-00??|?|internal flats        |5| ||Still oversaturated, don't use|
 |b00??-0027|?|internal flats        |5| ||Saturation okay, just restarting together with red flats|
 |r00??-0028|?|internal flats        |4| ||Still oversaturated, don't use|
-|b0028-37|10|internal flats        |5| |||
-|r0029-38|10|internal flats        |2| |||
+|b0028-37|10|internal flats        |5| ||Saturation good|
+|r0029-38|10|internal flats        |2| ||Saturation good|
