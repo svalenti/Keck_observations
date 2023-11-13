@@ -1,6 +1,6 @@
 # Observation Log 20231112
 
-* Conditions: power outage at HQ before handoff time, telescope had to shut down ~3:45am PT. Check the binning when reducing, might not be 1x1.
+* Conditions: power outage at HQ before handoff time, telescope had to shut down ~3:45am PT. Internal flats instead of dome flats. Check the binning when reducing, might not be 1x1. Got power back at ~7:15am PT.
 * Seeing:
 * SA: Percy
 * OA: Arina
@@ -27,16 +27,16 @@
 |r0012|1|2023esp        |?| ||Had to stop midway, telescope shutting down|
 |b0013-0014|2|arc        |3| |||
 |r0013-0014|2|arc        |3| |||
-|b0015-00??|?|internal flats        |70| ||Oversaturated, don't use|
-|r0015-00??|?|internal flats        |15| ||Oversaturated, don't use|
+|b0015-00??|?|flats        |70| ||Internal, oversaturated, don't use|
+|r0015-00??|?|flats        |15| ||Internal, oversaturated, don't use|
 |b00??-00??|2|arc        |1| |||
 |r00??-00??|2|arc        |1| |||
-|b00??-00??|?|internal flats        |10| ||Still oversaturated, don't use|
-|r00??-00??|?|internal flats        |5| ||Still oversaturated, don't use|
-|b00??-0027|?|internal flats        |5| ||Saturation okay, just restarting together with red flats|
-|r00??-0028|?|internal flats        |4| ||Still oversaturated, don't use|
-|b0028-37|10|internal flats        |5| ||Saturation good|
-|r0029-38|10|internal flats        |2| ||Saturation good|
+|b00??-00??|?|flats        |10| ||Still oversaturated, don't use|
+|r00??-00??|?|flats        |5| ||Still oversaturated, don't use|
+|b00??-0027|?|flats        |5| ||Saturation okay, just restarting together with red flats|
+|r00??-0028|?|flats        |4| ||Still oversaturated, don't use|
+|b0028-37|10|flats        |5| ||Saturation good|
+|r0029-38|10|flats        |2| ||Saturation good|
 |b0038|1|2023ufx        |150| ||Power back|
 |r0039|1|2023ufx        |150| |||
 |b0039|1|Hiltner600        |30| |||
