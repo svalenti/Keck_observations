@@ -27,13 +27,13 @@
 |r0012|1|2023esp        |?| ||Had to stop midway, telescope shutting down|
 |b0013-0014|2|arc        |3| |||
 |r0013-0014|2|arc        |3| |||
-|b0015|1|internal flats        |70| ||Oversaturated, don't use|
-|r0015|1|internal flats        |15| ||Oversaturated, don't use|
-|b0016-0017|2|arc        |1| |||
-|r0016-0017|2|arc        |1| |||
-|b0018-0022|1|internal flats        |10| ||Still oversaturated, don't use|
-|r0018-0022|1|internal flats        |5| ||Still oversaturated, don't use|
-|b0026|1|internal flats        |5| ||Saturation okay, just restarting|
-|r0026|1|internal flats        |4| ||Still oversaturated, don't use|
-|b0027-36|10|internal flats        |5| |||
-|r0027-36|10|internal flats        |2| |||
+|b0015-00??|1|internal flats        |70| ||Oversaturated, don't use|
+|r0015-00??|1|internal flats        |15| ||Oversaturated, don't use|
+|b00??-00??|2|arc        |1| |||
+|r00??-00??|2|arc        |1| |||
+|b00??-00??|?|internal flats        |10| ||Still oversaturated, don't use|
+|r00??-00??|?|internal flats        |5| ||Still oversaturated, don't use|
+|b00??|?|internal flats        |5| ||Saturation okay, just restarting|
+|r00??|?|internal flats        |4| ||Still oversaturated, don't use|
+|b0028-37|10|internal flats        |5| |||
+|r0029-38|10|internal flats        |2| |||
