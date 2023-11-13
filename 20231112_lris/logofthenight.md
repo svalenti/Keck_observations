@@ -1,6 +1,6 @@
 # Observation Log 20231112
 
-* Conditions: power outage at HQ before handoff time, telescope had to shut down ~3:45am PT. Internal flats instead of dome flats. Check the binning when reducing, might not be 1x1. Got power back at ~7:15am PT.
+* Conditions: power outage at HQ before handoff time, telescope had to shut down ~3:45am PT. Check the binning when reducing, might not be 1x1. Got power back at ~7:15am PT.
 * Seeing:
 * SA: Percy
 * OA: Arina
@@ -31,15 +31,17 @@
 |r0015-00??|?|flats        |15| ||Internal, oversaturated, don't use|
 |b00??-00??|2|arc        |1| |||
 |r00??-00??|2|arc        |1| |||
-|b00??-00??|?|flats        |10| ||Still oversaturated, don't use|
-|r00??-00??|?|flats        |5| ||Still oversaturated, don't use|
-|b00??-0027|?|flats        |5| ||Saturation okay, just restarting together with red flats|
-|r00??-0028|?|flats        |4| ||Still oversaturated, don't use|
+|b00??-00??|?|flats        |10| ||Internal, still oversaturated, don't use|
+|r00??-00??|?|flats        |5| ||Internal, still oversaturated, don't use|
+|b00??-0027|?|flats        |5| ||Internal, saturation okay, just restarting together with red flats|
+|r00??-0028|?|flats        |4| ||Internal, still oversaturated, don't use|
 |b0028-37|10|flats        |5| ||Saturation good|
 |r0029-38|10|flats        |2| ||Saturation good|
-|b0038|1|2023ufx        |150| ||Power back|
-|r0039|1|2023ufx        |150| |||
-|b0039|1|Hiltner600        |30| |||
-|r0040|1|Hiltner600        |30| |||
-|b0040|1|Hiltner600        |30| ||grating 1200/7500 4200|
-|r0041|1|Hiltner600        |30| ||grating 1200/7500 4200|
+|b0038-0039|2|2023ufx        |150| ||Power back|
+|r0039-0040|2|2023ufx        |150| |||
+|b0040|1|Hiltner600        |60| |||
+|r0041|1|Hiltner600        |60| |||
+|b0041|1|Hiltner600_test        |60| ||grating 1200/7500 4200|
+|r0042|1|Hiltner600_test        |60| ||grating 1200/7500 4200|
+|b0042-0051|10|flats        |150| ||Dome|
+|b0043-0052|10|flats        |35| ||Dome|
