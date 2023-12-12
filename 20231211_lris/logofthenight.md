@@ -24,4 +24,7 @@
 |b0018-0024|2|flats        |7| |||
 |r00014-00023|2|flats        |10| |||
 |b0025|1|Hiltner600        |30| |||
-|r0024-0025|1|Hiltner600        |30| ||Don't trust, actually 1s exposures, red side issue|
+|r00024-00025|2|Hiltner600        |30| ||Don't trust, actually shorter exposure, red side issue|
+|b0026|1|2023zcu        |100| |||
+|r00026|1|2023zcu        |30| ||Don't trust, actually shorter exposure, red side issue|
+|r00027|1|2023xgo        |30| ||Don't trust, actually shorter exposure, red side issue|
