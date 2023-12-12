@@ -3,9 +3,9 @@
 * Conditions: okay
 * Seeing: 
 * SA: Michael
-* OA: 
-* Data Directory: /s/sdata245/lris8/2023jun24
-* Data Directory on Dark: /dark/hal/data/20230623_Keck
+* OA: Matt
+* Data Directory: /s/sdata245/lris4/2023dec12_B
+* Data Directory on Dark: /dark/hal/data/
 * Starlist: 
 * Setup saved to: 
 
@@ -17,7 +17,5 @@
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
-|b0008-0009|2|arc        |1| |||
-|r00030-0031|2|arc        |1| |||
-|b0010-0011|2|arc        |3| |||
-|r0032-0033|2|arc        |3| |||
+|b0007-0008|2|arc        |3| |||
+|r00002-00003|2|arc        |3| |||
