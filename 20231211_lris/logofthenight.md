@@ -44,3 +44,5 @@
 |r00041-00044|4|2022jox        |1100| |||
 |b0044-0045|2|2023fyq        |600| ||Lots of contamination from galaxy, decided to keep parallactic angle|
 |r00045-00046|2|2023fyq        |600| |||
+|b0046-0047|2|2023ixf        |150| |||
+|r00047-00048|2|2023ixf        |150| |||
