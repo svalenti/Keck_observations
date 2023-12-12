@@ -4,8 +4,8 @@
 * Seeing: 
 * SA: Michael
 * OA: Matt
-* Data Directory: /s/sdata245/lris4/2023dec12_B
-* Data Directory on Dark: /dark/hal/data/
+* Data Directory: /s/sdata245/lris4/2023dec12_B (sftp wasn't working, had to scp)
+* Data Directory on Dark: /dark/hal/data/20231211_Keck
 * Starlist: 
 * Setup saved to: 
 
