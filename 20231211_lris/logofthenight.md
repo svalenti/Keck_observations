@@ -1,6 +1,6 @@
 # Observation Log 20231211
 
-* Conditions: okay
+* Conditions: exposure time for red side bugged out in the beginning, Michael had to powercycle it
 * Seeing: 
 * SA: Michael
 * OA: Matt
@@ -23,3 +23,5 @@
 |r00012-00013|2|arc        |3| |||
 |b0018-0024|2|flats        |7| |||
 |r00014-00023|2|flats        |10| |||
+|b0025|1|Hiltner600        |30| |||
+|r0024-0025|1|Hiltner600        |30| ||Don't trust, actually 1s exposures, red side issue|
