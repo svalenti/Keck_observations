@@ -1,8 +1,8 @@
 # Observation Log 20240205
 
-* Conditions: 
+* Conditions: Bad weather (high humidity, thunderstorms, snow)
 * Seeing: 
-* SA: 
+* SA: Jon Rees
 * OA: 
 * Data Directory: 
 * Data Directory on Dark: 
