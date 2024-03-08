@@ -1,6 +1,6 @@
 # Observation Log 20231211
 
-* Conditions: fog at the beginning of the night
+* Conditions: fog at the beginning of the night. Night was called near 1am PST. 
 * Seeing: 
 * SA: Percy
 * OA: Tony
