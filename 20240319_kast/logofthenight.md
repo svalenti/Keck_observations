@@ -23,9 +23,9 @@
 |r1004-1014|11|flat      |8.5| ||Blue lamp|
 |b10015-1025|11|bias      |0| |||
 |r10015-1025|11|bias      |0| ||End of calibs :)|
-|b1026|1|G191-B2B      |240| |||
-|r1026|1|G191-B2B      |120| |||
-|b1027-1028|2|HD84937      |60| |||
+|b1026|1|G191-B2B      |240| ||Blue standard|
+|r1026|1|G191-B2B      |120| ||Blue standard|
+|b1027-1028|2|HD84937      |60| ||Red standard|
 |r1029|1|HD84937      |20| ||Oversaturated, close to 30,000 counts|
 |r1028|1|HD84937      |12| |||
 |b1029-1030|2|2023aaby      |900| ||Check our finding chart to make sure the SN is picked and not the neighboring star|
@@ -52,3 +52,12 @@
 |r1050-1052|3|2024btj      |1200| |||
 |b1053-1055|3|2023ixf      |1200| |||
 |r1053-1055|3|2023ixf      |1200| |||
+|b1056-1057|2|2024cld      |900| |||
+|r1056-1057|2|2024cld      |900| |||
+|b1058|1|BD262606      |135| ||~20,000 counts, doubling exp time|
+|b1059|1|BD262606      |270| ||Maybe try 240s next time|
+|r1058-1059|2|BD262606      |40| |||
+|b1060|1|HZ44      |240| ||Too low ~10,000 counts, 20min after 18deg twilight|
+|r1060|1|HZ44      |150| ||Also too low|
+|b1061|1|HZ44      |500| |||
+|r1061|1|HZ44      |250| |||
