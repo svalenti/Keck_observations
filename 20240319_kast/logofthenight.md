@@ -59,5 +59,5 @@
 |r1058-1059|2|BD262606      |40| |||
 |b1060|1|HZ44      |240| ||Too low ~10,000 counts, 20min after 18deg twilight|
 |r1060|1|HZ44      |150| ||Also too low|
-|b1061|1|HZ44      |500| |||
-|r1061|1|HZ44      |250| |||
+|b1061|1|HZ44      |500| ||~17,000|
+|r1061|1|HZ44      |250| ||Same counts as before, probably because of twilight|
