@@ -21,3 +21,5 @@
 |r1001-1003|3|arc_HgCdArNe      |3| |||
 |b1004-1014|11|flat      |14| ||Superblue lamp|
 |r1004-1014|11|flat      |8.5| ||Blue lamp|
+|b10015-1025|11|bias      |0| |||
+|r10015-1025|11|bias      |0| ||End of calibs :)|
