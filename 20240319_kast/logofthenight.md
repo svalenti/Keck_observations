@@ -17,5 +17,7 @@
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
-|b000|2|arc        |3| |||
-|r000|2|arc        |3| |||
+|b1001-1003|3|arc_HgCdAr        |20| ||Also includes Ne|
+|r1001-1003|3|arc_HgCdArNe      |3| |||
+|b1004-1014|11|flat      |14| ||Superblue lamp|
+|r1004-1014|11|flat      |8.5| ||Blue lamp|
