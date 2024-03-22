@@ -5,7 +5,7 @@
 * SA: Paul Lynam
 * OA: Jeff? Geoff? and Matt
 * Data Directory: 
-* Data Directory on Dark: 
+* Data Directory on Dark: /dark/hal/data/20240319_Lick
 * Starlist: 
 * Setup saved to: 
 
