@@ -26,7 +26,7 @@
 |b1026|1|G191-B2B      |240| ||Blue standard|
 |r1026|1|G191-B2B      |120| ||Blue standard|
 |b1027-1028|2|HD84937      |60| ||Red standard|
-|r1029|1|HD84937      |20| ||Oversaturated, close to 30,000 counts|
+|r1027|1|HD84937      |20| ||Oversaturated, close to 30,000 counts, DON'T use|
 |r1028|1|HD84937      |12| |||
 |b1029-1030|2|2023aaby      |900| ||Check our finding chart to make sure the SN is picked and not the neighboring star|
 |r1029-1030|2|2023aaby      |900| ||Don't just trust the snex magnitudes! Check ZTF!|
