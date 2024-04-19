@@ -17,5 +17,5 @@
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
-|b1001-1003|3|arc_HgCdAr        |20| ||Also includes Ne|
-|r1001-1003|3|arc_HgCdArNe      |3| |||
+|b1001-1002|2|arc_HgCdArNe      |30| |||
+|r1001-1002|2|arc_HgCdArNe      |3| |||
