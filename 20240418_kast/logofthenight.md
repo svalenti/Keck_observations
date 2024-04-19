@@ -27,7 +27,7 @@
 |b1026|1|HD84937      |45| ||Red standard|
 |r1025|1|HD84937      |20| ||Too long, don't use|
 |r1026|1|HD84937      |15| ||Red standard|
-|b1027|1|HZ44      |240| ||Blue standard|
+|b1027|1|HZ44      |240| ||Too low counts|
 |b1028|1|HZ44      |600| ||Blue standard|
 |r1027|1|HZ44      |150| ||Too low counts|
 |r10028|1|HZ44      |240| ||Blue standard|
