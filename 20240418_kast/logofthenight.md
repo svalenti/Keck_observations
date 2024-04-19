@@ -41,3 +41,7 @@
 |r1033|1|2024ezl      |1200| ||Don't use, barely any S/N after one exposure|
 |b1034-1036|3|2024bch      |900| |||
 |r1034-1036|3|2024bch      |900| |||
+|b1037-1038|2|2024ehs      |900| |||
+|r1037-1038|2|2024ehs      |900| |||
+|b1039|1|BD262606      |300| ||Bad signal for blue side|
+|r1039|1|BD262606      |120| ||Good signal for red side|
