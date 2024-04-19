@@ -3,7 +3,7 @@
 * Conditions: 
 * Seeing: 
 * SA: Paul Lynam
-* OA: 
+* OA: Dan
 * Data Directory: 
 * Data Directory on Dark: /dark/hal/data/20240418_Lick
 * Starlist: 
@@ -24,8 +24,10 @@
 |b10014-1024|11|bias      |0| |||
 |r10014-1024|11|bias      |0| |||
 |b10025|1|HD84937      |60| ||Too long, don't use|
-|b10026|1|HD84937      |45| |||
+|b10026|1|HD84937      |45| ||Red standard|
 |r10025|1|HD84937      |20| ||Too long, don't use|
-|r10026|1|HD84937      |15| |||
-|b10027|1|HZ44      |240| |||
-|r10027|1|HZ44      |150| |||
+|r10026|1|HD84937      |15| ||Red standard|
+|b10027|1|HZ44      |240| ||Blue standard|
+|b10028|1|HZ44      |600| ||Blue standard|
+|r10027|1|HZ44      |150| ||Too low counts|
+|r10028|1|HZ44      |240| ||Blue standard|
