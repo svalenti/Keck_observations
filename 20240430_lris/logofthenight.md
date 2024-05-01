@@ -39,3 +39,5 @@
 |r00035-00037|3|2023ldh        |1200| ||Rename from 24ahr->23ldh for the first exposure r00035|
 |b0028|1|2024cld        |200| ||Skipped 24amf to save time|
 |r00038|1|2024cld        |200| |||
+|b0029|1|2024gqd        |300| |||
+|r00039|1|2024gqd        |300| |||
