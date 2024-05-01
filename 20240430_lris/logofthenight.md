@@ -47,5 +47,7 @@
 |r00041-00042|2|Arcs        |3| ||Target name "NEW DOME FLATS" incorrect, check object name for r00031|
 |b0033-0034|2|Arc        |3| ||DON'T use, forgot to run from the command line|
 |r00043-00044|2|Arc        |3| ||DON'T use, forgot to run from the command line|
-|b0035-0044|5|dome flat long_1.0        |150| |||
+|b0035-0044|10|dome flat long_1.0        |150| |||
 |r00045-00054|10|dome flat long_1.0        |35| |||
+|b0045-0046|2|Arc        |1| |||
+|r00055-00056|2|Arc        |1| |||
