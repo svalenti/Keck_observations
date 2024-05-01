@@ -35,5 +35,5 @@
 |r00033|1|2023ixf        |300| |||
 |b0024|1|2024ahr        |300| ||Redo finding chart|
 |r00034|1|2024ahr        |300| |||
-|b0025-0027|3|2023ldh        |1200| |||
-|r00035-00037|3|2023ldh        |1200| |||
+|b0025-0027|3|2023ldh        |1200| ||Rename from 24ahr->23ldh for the first exposure b0025|
+|r00035-00037|3|2023ldh        |1200| ||Rename from 24ahr->23ldh for the first exposure r00035|
