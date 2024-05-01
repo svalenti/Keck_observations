@@ -29,5 +29,5 @@
 |b0020|1|2023fyq        |1| ||Blue side crate crashed during 3rd exposure, this one's a test|
 |b0021|1|2023fyq        |1200| ||Ending with 3 blue exposures to stay on schedule|
 |r00028-00031|4|2023fyq        |1200| |||
-|b0022|1|2023gfo        |900| |||
+|b0022|1|2023gfo        |900| ||Skipped 2023ijd to save time and get a better airmass for 2023gfo|
 |r00032|1|2023gfo        |900| |||
