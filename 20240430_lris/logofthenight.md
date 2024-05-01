@@ -1,7 +1,7 @@
 # Observation Log:
 
 * Conditions: okay
-* Seeing: 1.46
+* Seeing: 0.7 arcsec
 * SA: Josh
 * OA: 
 * Data Directory: /s/sdata245/lris9/2024may01_B
