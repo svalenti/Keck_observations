@@ -31,3 +31,5 @@
 |r00028-00031|4|2023fyq        |1200| |||
 |b0022|1|2023gfo        |900| ||Skipped 2023ijd to save time and get a better airmass for 2023gfo|
 |r00032|1|2023gfo        |900| |||
+|b0023|1|2023ixf        |300| |||
+|r00033|1|2023ixf        |300| |||
