@@ -17,12 +17,12 @@
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
-|b008-009|2|Arc        |3| |||
-|r00013-00014|2|Arc        |3| |||
-|b0010-0011|2|Arc        |1| |||
-|r00015-00016|2|Arc        |1| |||
-|b0012-0016|5|dome flat long_1.0        |150| |||
-|r00017-00026|10|dome flat long_1.0        |35| |||
+|b008-009|2|Arc        |3| ||Target name listed as unknown|
+|r00013-00014|2|Arc        |3| ||Target name listed as unknown|
+|b0010-0011|2|Arc        |1| ||Target name listed as unknown|
+|r00015-00016|2|Arc        |1| ||Target name listed as unknown|
+|b0012-0016|5|dome flat long_1.0        |150| ||Target name listed as unknown|
+|r00017-00026|10|dome flat long_1.0        |35| ||Target name listed as unknown|
 |b0017|1|Feige66        |30| |||
 |r00027|1|Feige66        |30| |||
 |b0018-0019|2|2023fyq        |1200| |||
