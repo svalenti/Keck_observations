@@ -22,10 +22,12 @@
 |b0010-0011|2|Arc        |1| |||
 |r00015-00016|2|Arc        |1| |||
 |b0012-0016|5|dome flat long_1.0        |150| |||
-|r00017-00027|10|dome flat long_1.0        |35| |||
+|r00017-00026|10|dome flat long_1.0        |35| |||
 |b0017|1|Feige66        |30| |||
-|r00028|1|Feige66        |30| |||
+|r00027|1|Feige66        |30| |||
 |b0018-0019|2|2023fyq        |1200| |||
 |b0020|1|2023fyq        |1| ||Blue side crate crashed during 3rd exposure, this one's a test|
 |b0021|1|2023fyq        |1200| ||Ending with 3 blue exposures to stay on schedule|
-|r00029-00032|4|2023fyq        |1200| |||
+|r00028-00031|4|2023fyq        |1200| |||
+|b0022|1|2023ijd        |900| |||
+|r00032|1|2023ijd        |900| |||
