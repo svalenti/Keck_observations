@@ -3,7 +3,7 @@
 * Conditions: okay
 * Seeing: 0.7 arcsec
 * SA: Josh
-* OA: Carolyn and Tony
+* OA: Carolyn
 * Data Directory: /s/sdata245/lris9/2024may01_B
 * Data Directory on Dark: /dark/hal/data/20240430_Keck
 * Starlist: 
@@ -41,6 +41,11 @@
 |r00038|1|2024cld        |200| |||
 |b0029|1|2024gqd        |300| |||
 |r00039|1|2024gqd        |300| |||
-|b0030|1|BD33d2642        |60| |||
-|r00040|1|BD33d2642        |60| |||
-
+|b0030|1|BD33d2642        |30| |||
+|r00040|1|BD33d2642        |30| |||
+|b0031-0032|2|Arcs        |3| ||Target name "NEW DOME FLATS" incorrect, check object name for b0031|
+|r00041-00042|2|Arcs        |3| ||Target name "NEW DOME FLATS" incorrect, check object name for r00031|
+|b0033-0034|2|Arc        |3| ||DON'T use, forgot to run from the command line|
+|r00043-00044|2|Arc        |3| ||DON'T use, forgot to run from the command line|
+|b0035-0044|5|dome flat long_1.0        |150| |||
+|r00045-00054|10|dome flat long_1.0        |35| |||
