@@ -30,3 +30,9 @@
 |r1030|1|2024bch      |1200| |||
 |b1031-1032|2|2024gy      |900| |||
 |r1031-1032|2|2024gy      |900| |||
+|b1033|1|2024gy      |600| ||Low SN from previous exposures, not sure if it's due to the seeing or wrong target|
+|r1033|1|2024gy      |600| |||
+|b1034-1035|2|2024iss      |300| |||
+|r1034-1035|2|2024iss      |300| |||
+|b1036|1|2024ahv      |893| ||Had to stop partway because of high humidity, don't use|
+|r1036|1|2024ahv      |893| ||Had to stop partway because of high humidity, don't use|
