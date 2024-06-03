@@ -2,8 +2,8 @@
 
 * Conditions: 
 * Seeing: 
-* SA: 
-* OA: 
+* SA: Paul Lynam
+* OA: Shawn and Paul (PACman)
 * Data Directory: 
 * Data Directory on Dark: /dark/hal/data/20240601_Lick
 * Starlist: 
