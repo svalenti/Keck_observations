@@ -4,7 +4,7 @@
 * Seeing: 
 * SA: Randy Campbell 
 * OA: 
-* Data Directory: /s/sdata245/lris4/????
+* Data Directory: /s/sdata245/lris4/2024jun04_B
 * Data Directory on Dark: /dark/hal/data/20240603_Keck
 * Starlist: 
 * Setup saved to: 
