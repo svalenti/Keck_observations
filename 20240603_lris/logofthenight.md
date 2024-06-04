@@ -3,7 +3,7 @@
 * Conditions: Possible Humidity Later at Night - longslit 1.5
 * Seeing: 
 * SA: Randy Campbell 
-* OA: 
+* OA: Tony Ridenour
 * Data Directory: /s/sdata245/lris4/2024jun04_B
 * Data Directory on Dark: /dark/hal/data/20240603_Keck
 * Starlist: 
