@@ -15,6 +15,7 @@
 ### Central wavelength= around 7770; Blue Focus = -3658.52; Red Focus = -0.21
 
 ### longslit 1.5 - Possible Humidity Later at Night
+
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
 |b008-009|2|Arc        |3| 02:13:04|1.09||
