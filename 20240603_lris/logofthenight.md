@@ -1,6 +1,6 @@
 # Observation Log:
 
-* Conditions: Possible Humidity Later at Night - longslit 1.5
+* Conditions: Foul weather >90% humidity all night - longslit 1.5
 * Seeing: 
 * SA: Randy Campbell 
 * OA: Tony Ridenour
