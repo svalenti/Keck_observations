@@ -7,7 +7,7 @@
 * Data Directory: /s/sdata245/lris4/2024jun04_B
 * Data Directory on Dark: /dark/hal/data/20240603_Keck
 * Starlist: 
-* Setup saved to: 
+* Setup saved to: LRIS_state_valenti_20240603 
 
 ## Setup: 
 
