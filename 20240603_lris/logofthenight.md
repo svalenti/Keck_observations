@@ -1,8 +1,8 @@
 # Observation Log:
 
-* Conditions: okay
+* Conditions: Possible Humidity Later at Night - longslit 1.5
 * Seeing: 
-* SA: 
+* SA: Randy Campbell 
 * OA: 
 * Data Directory: /s/sdata245/lris4/????
 * Data Directory on Dark: /dark/hal/data/20240603_Keck
@@ -13,8 +13,6 @@
 
     
 ### Central wavelength= around 7770; Blue Focus = -3658.52; Red Focus = -0.21
-
-### longslit 1.5 - Possible Humidity Later at Night
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
