@@ -38,10 +38,10 @@
 |r1038-1041|4|2024kgi      |1200| |||
 |b1042-1044|3|2024lhu      |1200| ||pessto marshall|
 |r1042-1044|3|2024lhu      |1200| ||19 expected g-band mag, surprisingly high S/N|
-|b1045|1|2024lhu      |1200| ||pessto marshall|
-|r1045|1|2024lhu      |1200| ||17.5 expected g-band mag, low S/N lots of galaxy|
-|b1046|1|2024lhu      |1000| ||Almost 12deg twilight|
-|r1046|1|2024lhu      |1000| |||
+|b1045|1|2024lby      |1200| ||pessto marshall|
+|r1045|1|2024lby      |1200| ||17.5 expected g-band mag, low S/N lots of galaxy|
+|b1046|1|2024lby      |1000| ||Almost 12deg twilight|
+|r1046|1|2024lby      |1000| |||
 |b1047|1|BD284211      |240| |||
 |r1047|1|BD284211      |180| |||
 |b1048|1|BD174708      |270| |||
