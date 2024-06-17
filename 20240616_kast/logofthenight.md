@@ -1,9 +1,9 @@
-# Observation Log 20240601
+# Observation Log 20240616
 
 * Conditions: 
-* Seeing: 
-* SA: 
-* OA: 
+* Seeing: 1.8
+* SA: Paul Lynam
+* OA: Paul (PACman) and Shawn
 * Data Directory: 
 * Data Directory on Dark: /dark/hal/data/20240616_Lick
 * Starlist: 
@@ -20,3 +20,11 @@
 |r1004-1013|11|flat      |8.5| ||Blue lamp|
 |b1014-1024|11|bias      |0| |||
 |r1014-1024|11|bias      |0| |||
+|b1025|1|BD332642      |180| ||~7,000 counts peak, ~2,000 counts bkg|
+|r1025|1|BD332642      |100| ||~5,000 counts peak, ~1,000 counts bkg|
+|b1026|1|BD332642      |240| ||~9,000 counts peak, ~1,400 counts bkg|
+|r1026|1|BD332642      |180| ||~10,000 counts peak, ~1,500 counts bkg|
+|b1027|1|BD262606      |270| |||
+|r1027|1|BD262606      |80| |||
+|b1028-1029|2|2024kce      |300| |||
+|r1028-1029|2|2024kce      |300| |||
