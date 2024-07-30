@@ -1,6 +1,6 @@
 # Observation Log 20240729
 
-* Conditions: 
+* Conditions: High particle counts and software issues throughou the night
 * Seeing: 
 * SA: Jon
 * OA: Shawn
