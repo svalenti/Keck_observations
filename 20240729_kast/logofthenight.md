@@ -26,3 +26,8 @@
 |r1027|1|BD332642      |100| |||
 |b1028-1030|3|2024pxl     |1000| |||
 |r1028-1030|3|2024pxl     |1000| |||
+|b1031-1032|2|2023ixf     |900| ||Nearing hour angle limit of 5:40, red side crashed from the igetred program|
+|b1033|1|2023ixf     |?| ||Aborted, don't use|
+|b1034-1035|2|2024mpq     |900| |||
+|b1031-1032|2|2024mpq     |900| |||
+
