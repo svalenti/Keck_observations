@@ -18,3 +18,5 @@
 |r1001-1003|3|HgCdArNe Arc     |4| |||
 |b1004-1014|11|flat      |14| ||Superblue lamp at 80|
 |r1004-1014|11|flat      |8.5| ||Blue lamp|
+|b1015-1025|11|bias      |0| |||
+|r1015-1025|11|bias      |0| |||
