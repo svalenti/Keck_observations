@@ -3,7 +3,7 @@
 * Conditions: 
 * Seeing: 
 * SA: Jon
-* OA: 
+* OA: Shawn
 * Data Directory: 
 * Data Directory on Dark: /dark/hal/data/20240729_Lick
 * Starlist: 
