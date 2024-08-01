@@ -2,8 +2,8 @@
 
 * Conditions:
 * Seeing: 
-* SA: Sherry
-* OA: Matt
+* SA: Sherry Yeh
+* OA: Matt Wahl
 * Data Directory: /s/sdata245/lris4/2024jul31
 * Data Directory on Dark: /dark/hal/data/20240731_Keck
 * Starlist: 
