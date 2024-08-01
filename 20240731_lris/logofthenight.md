@@ -16,18 +16,18 @@
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
-|b008-009|2|Arcs        |3| |||
-|r0008-0009|2|Arcs        |3| |||
-|b0010|1|Flat        |150| |||
-|r00010|1|Flat        |35| ||Low counts|
-|b0011-0012|2|Arcs        |1| |||
-|r00011-00012|2|Arcs        |1| |||
-|b0013-0022|10|Flats        |150| |||
-|r00013-00022|10|Flats        |45| |||
-|b0023-0024|2|Arcs        |3| |||
-|r00023-00024|2|Arcs        |3| |||
-|b0025-0030|6|Flats        |150| |||
-|r00025-00034|10|Flats        |45| |||
+|b008-009|2|Arcs        |3| ||1.0 longslit|
+|r0008-0009|2|Arcs        |3| ||1.0 longslit|
+|b0010|1|Flat        |150| ||1.0 longslit|
+|r00010|1|Flat        |35| ||1.0 longslit,low counts|
+|b0011-0012|2|Arcs        |1| ||1.0 longslit|
+|r00011-00012|2|Arcs        |1| ||1.0 longslit|
+|b0013-0022|10|Flats        |150| ||1.0 longslit|
+|r00013-00022|10|Flats        |45| ||1.0 longslit|
+|b0023-0024|2|Arcs        |3| ||1.5 longslit|
+|r00023-00024|2|Arcs        |3| ||1.5 longslit|
+|b0025-0030|6|Flats        |150| ||1.5 longslit|
+|r00025-00034|10|Flats        |45| ||1.5 longslit|
 |b0031|1|MIRA PMFM+350       |10| ||Mira exposure, don't use|
 |b0032|1|MIRA PMFM-350       |3| ||Mira exposure, don't use|
 |b0033|1|2024gqd        |900| ||Not actually 900s exposures, aborted to correct binning to 1x1, don't use|
