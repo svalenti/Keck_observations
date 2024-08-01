@@ -38,10 +38,10 @@
 |r00038|1|BD174708       |10| |||
 |b0037-0038|2|2024pxl        |100| |||
 |r00039-00040|2|2024pxl        |100| |||
-|b0039|1|2024pxl_S1        |30| ||Acquisition on standard star to test position in the slit|
-|r00041|1|2024pxl_S1        |30| ||Acquisition on standard star|
-|b0040-0043|4|2024pxl        |1200| |||
-|r00042-00045|4|2024pxl        |1200| |||
+|b0039|1|2017eaw_S1        |30| ||Acquisition on standard star to test position in the slit|
+|r00041|1|2017eaw_S1        |30| ||Acquisition on standard star|
+|b0040-0043|4|2017eaw        |1200| |||
+|r00042-00045|4|20217eaw        |1200| |||
 |b0044-0045|2|2024any        |600| |||
 |r00046-00047|2|2024any        |600| |||
 |b0046|1|2024dco        |900| |||
