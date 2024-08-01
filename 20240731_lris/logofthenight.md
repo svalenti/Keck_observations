@@ -4,10 +4,10 @@
 * Seeing: 
 * SA: Sherry
 * OA: Matt
-* Data Directory: /s/sdata245/lris4/2024jun04_B
+* Data Directory: /s/sdata245/lris4/2024jul31
 * Data Directory on Dark: /dark/hal/data/20240731_Keck
 * Starlist: 
-* Setup saved to: LRIS_state_valenti_20240603 
+* Setup saved to: LRIS_state_valenti_20240731
 
 ## Setup: 
 
