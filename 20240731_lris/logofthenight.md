@@ -12,7 +12,7 @@
 ## Setup: 
 
     
-### Central wavelength= around 7770; Blue Focus = ; Red Focus = 
+### Central wavelength= around 7770; Blue Focus = -3556.67; Red Focus = -0.32
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
