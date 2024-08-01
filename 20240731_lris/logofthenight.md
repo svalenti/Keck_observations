@@ -32,7 +32,7 @@
 |b0032|1|MIRA PMFM-350       |3| ||Mira exposure, don't use|
 |b0033|1|2024gqd        |900| ||Not actually 900s exposures, aborted to correct binning to 1x1, don't use|
 |r00035|1|2024gqd        |1| ||Test exposure to fix blue side hangup, don't use|
-|b0034-0035|2|2024gqd        |900| |||
+|b0034-0035|2|2024gqd        |900| ||| Trace of SN seems to be a bit faint
 |r00036-00037|2|2024gqd        |900| |||
 |b0036|1|BD174708       |10| |||
 |r00038|1|BD174708       |10| |||
