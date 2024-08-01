@@ -38,5 +38,7 @@
 |r00038|1|BD174708       |10| |||
 |b0037-0038|2|2024pxl        |100| |||
 |r00039-00040|2|2024pxl        |100| |||
-|b0039-0042|4|2024pxl        |1200| |||
-|r00041-00044|4|2024pxl        |1200| |||
+|b0039|1|2024pxl_S1        |30| ||Acquisition on standard star to test position in the slit|
+|r00041|1|2024pxl_S1        |30| ||Acquisition on standard star|
+|b0040-0043|4|2024pxl        |1200| |||
+|r00042-00045|4|2024pxl        |1200| |||
