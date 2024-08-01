@@ -1,7 +1,7 @@
 # Observation Log:
 
 * Conditions:
-* Seeing: 
+* Seeing: 0.7
 * SA: Sherry Yeh
 * OA: Matt Wahl
 * Data Directory: /s/sdata245/lris4/2024jul31
@@ -26,5 +26,10 @@
 |r00013-00022|10|Flats        |45| |||
 |b0023-0024|2|Arcs        |3| |||
 |r00023-00024|2|Arcs        |3| |||
-|b0025-0029|5|Flats        |150| |||
+|b0025-0030|6|Flats        |150| |||
 |r00025-00034|10|Flats        |45| |||
+|b0031|1|MIRA PMFM+350       |10| ||Mira exposure, don't use|
+|b0032|1|MIRA PMFM-350       |3| ||Mira exposure, don't use|
+|b0033|1|2024gqd        |900| ||Not actually 900s exposures, aborted to correct binning to 1x1, don't use|
+|b0033|1|2024gqd        |900| ||Not actually 900s exposures, aborted to correct binning to 1x1, don't use|
+|r00035|1|2024gqd        |1| ||Test exposure to fix blue side hangup, don't use|
