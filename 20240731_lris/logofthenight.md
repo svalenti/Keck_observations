@@ -1,6 +1,6 @@
 # Observation Log:
 
-* Conditions:
+* Conditions: Good seeing+weather!
 * Seeing: 0.7
 * SA: Sherry Yeh
 * OA: Matt Wahl
@@ -42,3 +42,5 @@
 |r00041|1|2024pxl_S1        |30| ||Acquisition on standard star|
 |b0040-0043|4|2024pxl        |1200| |||
 |r00042-00045|4|2024pxl        |1200| |||
+|b0044-0045|2|2024any        |600| |||
+|r00046-00047|4|2024any        |600| |||
