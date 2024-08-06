@@ -1,4 +1,4 @@
-# Observation Log 20240807
+# Observation Log
 
 * Conditions: 
 * Seeing: 
