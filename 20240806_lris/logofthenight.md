@@ -46,6 +46,10 @@ Couldn't take dome flats in the afternoon because of the OSIRIS group so took in
 |b0049-0050|2|2023nlk        |900| || Don't use second exposure
 |b0051-0052|2|2024pxl        |100| || Seeing ~1.0. Good spectra
 |r00057-00058|2|2024pxl        |100| ||
-|r00059-00060|2|2023ucy        |900| ||
-|b00053-00054|2|2023ucy        |900| ||
+|r00059-00060|2|2023ucy        |900| || Good trace
+|b0053-0054|2|2023ucy        |900| ||
+|r00061-00066|6|2022wsp        |1200| || Seeing ~1.0. No clear trace visible. High background.
+|b0055-0060|6|2022wsp        |1200| || Last exposure was canceled.
+|b0061-0063|3|2023vyl        |900| || 
+|r00067-00069|3|2023vyl        |900| || 
 
