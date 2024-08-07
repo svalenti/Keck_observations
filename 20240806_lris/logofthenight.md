@@ -52,4 +52,7 @@ Couldn't take dome flats in the afternoon because of the OSIRIS group so took in
 |b0055-0060|6|2022wsp        |1200| || Last exposure (60) was canceled.
 |b0061-0063|3|2023vyl        |900| || 
 |r00067-00069|3|2023vyl        |900| || 
+|r00070-00072|3|2023rbk     |900| || 
+|b0064-0066|3|2023rbk     |900| || 
+
 
