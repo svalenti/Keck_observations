@@ -60,4 +60,5 @@ Couldn't take dome flats in the afternoon because of the OSIRIS group so took in
 |r00075|1| 2024qrp    |100| || 
 |r00076|1| HD19445    |30| || 
 |b0070|1| HD19445    |30| || 
-
+|r00077-00086|10| Dome flats    |45| || Good
+|b0070-0079|10| Dome flats   |150| || Good
