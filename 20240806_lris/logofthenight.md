@@ -38,7 +38,7 @@ Couldn't take dome flats in the afternoon because of the OSIRIS group so took in
 |r00042-00051|10|Internal flats1.5        |1| ||1.5 longslit|
 |b0044|1|MIRA PMFM +350        |10| |||
 |b0045|1|MIRA PMFM -350        |10| |||
-|b0046|1|BD33d2642        |30| |1.43|1.0 longslit,Std star|
+|b0046|1|BD33d2642        |30| |1.43|Seeing ~0.7. 1.0 longslit,Std star|
 |r00052|1|BD33d2642        |30| |1.43|1.0 longslit,Std star|
 |b0047-0048|2|2024ifo        |600| |||
 |r00053-00054|2|2024ifo        |600| |||
