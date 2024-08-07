@@ -36,3 +36,4 @@ Couldn't take dome flats in the afternoon because of the OSIRIS group so took in
 |r00040-00041|2|Arcs1.5        |1| ||1.5 longslit|
 |b0034-0043|10|Internal flats1.5        |1| ||1.5 longslit|
 |r00042-00051|10|Internal flats1.5        |1| ||1.5 longslit|
+|b0046|1|BD33d2642|30||1.43|Std star|
