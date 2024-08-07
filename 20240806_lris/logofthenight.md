@@ -54,5 +54,6 @@ Couldn't take dome flats in the afternoon because of the OSIRIS group so took in
 |r00067-00069|3|2023vyl        |900| || 
 |r00070-00072|3|2023rbk     |900| || 
 |b0064-0066|3|2023rbk     |900| || 
-
+|r00073-00074|2|2024fa    |900| || 
+|b0067-0068|2|2024fa    |900| || 
 
