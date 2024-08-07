@@ -42,6 +42,8 @@ Couldn't take dome flats in the afternoon because of the OSIRIS group so took in
 |r00052|1|BD33d2642        |30| |1.43|1.0 longslit,Std star|
 |b0047-0048|2|2024ifo        |600| |||
 |r00053-00054|2|2024ifo        |600| |||
-|r00055-00055|2|2023nlk        |900| |||
-|b0049-0049|2|2023nlk        |900| |||
+|r00055|1|2023nlk        |900| ||| Faint trace. Moving on
+|b0049|1|2023nlk        |900| |||
+|b0050-0051|2|2024pxl        |100| ||| Seeing ~1.0. Good spectra
+|r00056-00057|2|2024pxl        |100| |||
 
