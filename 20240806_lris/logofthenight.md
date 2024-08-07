@@ -46,4 +46,6 @@ Couldn't take dome flats in the afternoon because of the OSIRIS group so took in
 |b0049-0050|2|2023nlk        |900| || Don't use second exposure
 |b0051-0052|2|2024pxl        |100| || Seeing ~1.0. Good spectra
 |r00057-00058|2|2024pxl        |100| ||
+|r00059-00060|2|2023ucy        |900| ||
+|b00053-00054|2|2023ucy        |900| ||
 
