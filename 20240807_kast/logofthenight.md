@@ -1,13 +1,13 @@
 # Observation Log
 
-* Conditions: 
-* Seeing: 
+* Conditions: Good weather, fluctuating particle counts
+* Seeing: 0.92 arcsec
 * SA: Jon
-* OA: 
+* OA: Norm
 * Data Directory: 
 * Data Directory on Dark: /dark/hal/data/20240807_Lick
 * Starlist: 
-* Setup saved to: 
+* Setup saved to: 20240807_lowres
 
 ## Setup: 
 
