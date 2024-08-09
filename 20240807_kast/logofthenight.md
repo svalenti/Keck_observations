@@ -4,7 +4,7 @@
 * Seeing: 0.92 arcsec
 * SA: Jon
 * OA: Norm
-* Data Directory: 
+* Data Directory: Download data from https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20240807_Lick
 * Starlist: 
 * Setup saved to: 20240807_lowres
