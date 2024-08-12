@@ -9,7 +9,8 @@
 
 
 
-|Bigdog spectrograph Image #|	Object Name |	Mode |	Filter |	Estimated Magnitude (K) |	Exposure Time (s) |	Cycles (AB) |	#Images |	Co-adds |
+|Bigdog spectrograph Image #|Object Name|Mode|	Filter |	Estimated Magnitude (K) |	Exposure Time (s) |	Cycles (AB) |	#Images |	Co-adds |
+
 |1-10|	SN 2024jlf|	SXD|		15|	200|	5|	10|	1|
 |11-16|	Cals|	SXD|					6|	
 |17-24|	|HIP 72220|	SXD|		3.7|	3|	4|	8|	1|
