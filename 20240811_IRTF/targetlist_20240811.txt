@@ -1,0 +1,37 @@
+#
+#  IRTF Star Catalog User List version 3
+#     This file contain a user's object list for the star catalog.
+#     Observers can add their object in this file and input the list 
+#     into the star catalog. 
+#     All columns are delimited by spaces.
+#
+#     Format version 3 is supported from 2023B to present.
+#
+#     Ref: http://irtfweb.ifa.hawaii.edu/~tcs3/related/starcat/
+#
+#  Col  Name       Description
+#  ---- --------   -----------------------------------------------------
+#   1    Index     Numeric index of user list. 
+#   2    Name      Name as a string (30 chars max). No spaces allowed. 
+#   3    RA        RA  position in ICRS coordinates,  hh:mm:ss.ss. 
+#   4    Dec       Dec position in ICRS coordinates, +dd:mm:ss.s.  
+#   5    RA_PM     Proper motion of RA  in mas/yr. Use 0.0 if proper motion not known.
+#   6    Dec_PM    Proper motion of Dec in mas/yr. Use 0.0 if proper motion not known.
+#   7    ST        Spectra Type string (7 chars max). Use "n/a" if not known.
+#   8&9  Magn_0    Magn_0 is Magnitude value and character description. Use '0.0 -' if not known.
+#  10&11 Magn_1    Magn_1 is optional.  Will use '0.0 -' if not provided. 
+#  12&13 Magn_2    Magn_2 is optional.  Will use '0.0 -' if not provided.
+#  14&15 Magn_3    Magn_3 is optional.  Will use '0.0 -' if not provided.
+#
+#Index _________Name________   __ICRS_RA__  _ICRS_DEC__   RA_PM  Dec_PM   __ST___  Magn_0  Magn_1  Magn_2  Magn_3
+#     30 chars max,no spaces   hh:mm:ss.ss  +dd:mm:ss.s   mas/y   mas/y  (7chars)  xx.x V  xx.x C  xx.x C  xx.x C 
+1      SN2024jlf               14:37:42.32   02:17:04.2   n/a     n/a       n/a     15.3 V  0.0 J   15.0 K 
+2      HIP_73087               14:56:13.23   14:26:46.5   -13.43  -1.24     A0      5.9 V   5.9 J   5.9 K
+3      HIP_66198               13:34:07.31   55:20:54.4   -19.07  -6.0      A0      5.6 V   5.6 J   5.6 K
+4      SN2023ixf               14:03:38.56   54:18:42.0   n/a     n/a       n/a     18.0 V  0.0 J   17.5 K 
+5      SN2024cld               15:50:21.61   18:56:21.1   n/a     n/a       n/a     17.3 V  0.0 J   17.0 K
+6      HIP_79332               16:11:28.74   16:39:56.5   3.56    4.9       A0      6.1 V   6.0 J   6.0 K
+7      SN2024pxl               17:32:27.35   07:03:44.8   n/a     n/a       n/a     15.7 V  0.0 J   15.5 K
+8      HIP_87108               17:47:53.56   02:42:26.2   -23.94  -74.46    A0      3.8 V   3.7 J   3.7 K
+9      HIP_109452              22:10:27.72   16:42:29.3   16.24   -11.59    A0      7.7 V   7.6 J   7.6 K
+10     SN2024kgi               22:44:43.99   16:05:07.0   n/a     n/a       n/a     16.4 V  0.0 J   16.4 K
