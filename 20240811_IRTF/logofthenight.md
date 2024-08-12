@@ -9,6 +9,7 @@
 
 ## Setup
 
+| Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |Bigdog spectrograph Image #|Object Name|Mode|	Filter |	Estimated Magnitude (K) |	Exposure Time (s) |	Cycles (AB) |	#Images |	Co-adds |
 
 |1-10|	SN 2024jlf|	SXD|		15|	200|	5|	10|	1|
