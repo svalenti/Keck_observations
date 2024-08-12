@@ -7,7 +7,7 @@
 * Data Directory: /dark/hal/data/20240811_IRTF/
 * Starlist: 
 
-
+## Setup
 
 |Bigdog spectrograph Image #|Object Name|Mode|	Filter |	Estimated Magnitude (K) |	Exposure Time (s) |	Cycles (AB) |	#Images |	Co-adds |
 
