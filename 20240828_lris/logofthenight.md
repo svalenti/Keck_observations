@@ -2,12 +2,12 @@
 
 * Conditions: 
 * Seeing: 
-* SA: 
+* SA: Percy Gomez
 * OA: 
 * Data Directory: /s/sdata245/lris1/2024aug29_B
 * Data Directory on Dark: /dark/hal/data/20240828_Keck
-* Starlist: 
-* Setup saved to: 08282024_state
+* Starlist: web/aravi/starlist_20240828.txt
+* Setup saved to: 
 * Observers: Andrews (Other), Dong (Other), Hoang (Other), Mehta (Other), Meza Retamal (UCD), Pazhayath Ravi (Other)
 
 ## Setup: 
