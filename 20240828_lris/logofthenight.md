@@ -20,5 +20,5 @@
 |r0008-0009|2|Arcs1.0        |3| ||1.0 longslit|
 |b0010-11|2|Arcs      |1.0| ||1.0 longslit|
 |r00010-11|2|Arcs|1.0| ||1.0 longslit|
-|b0012-0013|2|DomeFlats       |150 ||1.0 longslit|
+|b0012-0013|2|DomeFlats       |150 |||1.0 longslit|
 |r00012-00015|4|DomeFlats        |45| ||1.0 longslit|
