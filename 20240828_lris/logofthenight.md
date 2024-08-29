@@ -26,7 +26,7 @@
 |r00016|1| Feige110|60||||
 |b0017|1| 2023gft|900|||
 |r00017|1| 2023gft|900|||
-|r00018|1| 2023gft|900||object not visible, do not use|
+|r00018|1| 2023gft|900|||object not visible, do not use|
 |b0018-20|3|2023ref|900||||
 |r00019-21|3|2023ref|900||||
 |b0021-24|4|2023vyl|900||||
