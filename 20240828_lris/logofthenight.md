@@ -1,6 +1,6 @@
 # Observation Log:
 
-* Conditions: Extremely high humidity
+* Conditions: High humidity early in te night -> Good weather by handoff
 * Seeing: ~1 arcsec
 * SA: Percy Gomez
 * OA: Tony Ridenour
