@@ -37,7 +37,7 @@
 |r00028-30|3|2023mut|900||||
 |b0030|1|HD19445|10||||
 |r0031|1|HD19445|10||||
-|b0031-36|6|DomeFlats       |150 |||1.0 longslit|
+|b0031-38|6|DomeFlats       |150 |||1.0 longslit|
 |r00032-37|6|DomeFlats        |45| ||1.0 longslit|
 
 
