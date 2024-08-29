@@ -1,6 +1,6 @@
 # Observation Log:
 
-* Conditions: 
+* Conditions: Extremely high humidity
 * Seeing: 
 * SA: Percy Gomez
 * OA: 
