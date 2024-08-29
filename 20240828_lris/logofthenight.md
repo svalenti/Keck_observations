@@ -16,8 +16,8 @@
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
-|b0008-0009|2|Arcs1.0        |3| ||1.0 longslit|
-|r0008-0009|2|Arcs1.0        |3| ||1.0 longslit|
+|b0008-09|2|Arcs1.0        |3| ||1.0 longslit|
+|r0008-09|2|Arcs1.0        |3| ||1.0 longslit|
 |b0010-11|2|Arcs      |1.0| ||1.0 longslit|
 |r00010-11|2|Arcs|1.0| ||1.0 longslit|
 |b0012-0013|2|DomeFlats       |150 |||1.0 longslit|
@@ -39,6 +39,10 @@
 |r0031|1|HD19445|10||||
 |b0031-38|6|DomeFlats       |150 |||1.0 longslit|
 |r00032-37|6|DomeFlats        |45| ||1.0 longslit|
+|b0038-39|2|Arcs1.0        |3| ||1.0 longslit|
+|r0039-40|2|Arcs1.0        |3| ||1.0 longslit|
+|b0041-42|2|Arcs      |1.0| ||1.0 longslit|
+|r00040-41|2|Arcs|1.0| ||1.0 longslit|
 
 
 
