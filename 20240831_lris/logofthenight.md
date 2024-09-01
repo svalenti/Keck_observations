@@ -1,7 +1,7 @@
 # Observation Log:
 
-* Conditions: Foggy 
-* Seeing: 
+* Conditions: Foggy during calibrations. Opened through 1st half. 
+* Seeing: ~1.4 (variable) 
 * SA: Michael Lundquist
 * OA: TonyR/MaxO
 * Data Directory: /s/sdata245/lris3/2024aug31_B
@@ -26,7 +26,10 @@
 |b0013-0014|2|Arcs        |1| ||1.0 longslit|
 |r00015-00023|9|Internal Flats        |2| ||1.0 longslit|
 |b0015-0023|9|Internal Flats        |30| ||1.0 longslit|
-
+|r00024|1|Feige 110         |60| ||1.0 longslit|
+|b0024|1|Feige 110        |60| ||1.0 longslit|
+|r00025|1|Feige 110         |60| ||1.5 longslit| Changed to 1.5 as seeing > 1''
+|b0025|1|Feige 110        |60| ||1.5 longslit|
 
 
 
