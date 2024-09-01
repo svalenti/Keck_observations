@@ -28,19 +28,19 @@
 |b0015-0023|9|Internal Flats        |30| ||1.0 longslit|
 |r00024|1|Feige 110         |60| ||1.0 longslit|
 |b0024|1|Feige 110        |60| ||1.0 longslit|
-|r00025|1|Feige 110         |60| ||1.5 longslit| Changed to 1.5 as seeing > 1''|
+|r00025|1|Feige 110         |60| ||1.5 longslit Changed to 1.5 as seeing > 1''|
 |b0025|1|Feige 110        |60| ||1.5 longslit|
-|r00026-r00028|3|2023ngy        |900| ||1.5 longslit| faint trace but we may have some SN signal|
+|r00026-r00028|3|2023ngy        |900| ||1.5 longslit faint trace but we may have some SN signal|
 |b0026-0028|3|2023ngy        |900| ||1.5 longslit|
-|r00029-r00031|3|2024rvy        |100| ||1.5 longslit| good|
+|r00029-r00031|3|2024rvy        |100| ||1.5 longslit good|
 |b0029-0031|3|2024rvy        |100| ||1.5 longslit|
-|r00032-r00034|3|2023rbk        |1200| ||1.5 longslit| unclear if trace has SN|
+|r00032-r00034|3|2023rbk        |1200| ||1.5 longslit. Unclear if trace has SN|
 |b0032-0034|3|2023rbk     |1200| ||1.5 longslit|
-|r00035|1|2023pfz       |1200| ||1.5 longslit| Seeing reduced to 1''. Unclear if trace has SN|
+|r00035|1|2023pfz       |1200| ||1.5 longslit. Seeing reduced to 1''. Unclear if trace has SN|
 |b0035|1|2023pfz     |1200| ||1.5 longslit|
-|r00036-00037|2|2024dco       |600| ||1.5 longslit| good|
+|r00036-00037|2|2024dco       |600| ||1.5 longslit. good|
 |b0036-0037|2|2024dco     |600| ||1.5 longslit|
-|r00038-00040|3|2023rve       |900| ||1.5 longslit| good|
+|r00038-00040|3|2023rve       |900| ||1.5 longslit. good|
 |b0038-0040|3|2023rve     |900| ||1.5 longslit|
 |r00041|1|Feige11       |60| ||1.5 longslit|
 |b0041|1|Feige11     |60| ||1.5 longslit|
