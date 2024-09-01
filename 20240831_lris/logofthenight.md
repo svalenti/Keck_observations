@@ -30,7 +30,8 @@
 |b0024|1|Feige 110        |60| ||1.0 longslit|
 |r00025|1|Feige 110         |60| ||1.5 longslit| Changed to 1.5 as seeing > 1''
 |b0025|1|Feige 110        |60| ||1.5 longslit|
-
+|r00026-r00028|3|2023ngy        |900| ||1.5 longslit| faint trace but we may have some SN signal
+|b0026-0028|3|2023ngy        |900| ||1.5 longslit|
 
 
 
