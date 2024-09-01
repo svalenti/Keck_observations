@@ -36,7 +36,19 @@
 |b0029-0031|3|2024rvy        |100| ||1.5 longslit|
 |r00032-r00034|3|2023rbk        |1200| ||1.5 longslit| unclear if trace has SN
 |b0032-0034|3|2023rbk     |1200| ||1.5 longslit|
-
-
-
-
+|r00035|1|2023pfz       |1200| ||1.5 longslit| Seeing reduced to 1''. Unclear if trace has SN
+|b0035|1|2023pfz     |1200| ||1.5 longslit|
+|r00036-00037|2|2024dco       |600| ||1.5 longslit| good
+|b0036-0037|2|2024dco     |600| ||1.5 longslit|
+|r00038-00040|3|2023rve       |900| ||1.5 longslit| good
+|b0038-0040|3|2023rve     |900| ||1.5 longslit|
+|r00041|1|Feige11       |60| ||1.5 longslit|
+|b0041|1|Feige11     |60| ||1.5 longslit|
+|r00042-00043|2|Arcs        |3| ||1.5 longslit|
+|b0042-0043|2|Arcs        |3| ||1.5 longslit|
+|r00044|1| Dome Flats        |45| ||1.5 longslit|
+|b0044|1| Dome Flats        |150| ||1.5 longslit|
+|r00045-00046|2|Arcs        |1| ||1.5 longslit|
+|b0045-0046|2|Arcs        |1| ||1.5 longslit|
+|r00047-00055|9|Dome Flats        |45| ||1.5 longslit|
+|b0047-0055|9|Dome Flats        |150| ||1.5 longslit|
