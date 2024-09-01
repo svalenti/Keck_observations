@@ -1,14 +1,14 @@
 # Observation Log:
 
-* Conditions: High humidity early in te night -> Good weather by handoff
-* Seeing: ~1 arcsec
-* SA: Percy Gomez
-* OA: Tony Ridenour
-* Data Directory: /s/sdata245/lris1/2024aug29_B
-* Data Directory on Dark: /dark/hal/data/20240828_Keck
-* Starlist: web/aravi/starlist_20240828.txt
+* Conditions: Foggy 
+* Seeing: 
+* SA: Michael Lundquist
+* OA: TonyR/MaxO
+* Data Directory: /s/sdata245/lris3/2024aug31_B
+* Data Directory on Dark: /dark/hal/data/20240831_Keck
+* Starlist: web/mehta/starlist_20240831.txt
 * Setup saved to: 
-* Observers: Andrews (Other), Dong (Other), Hoang (Other), Mehta (Other), Meza Retamal (UCD), Pazhayath Ravi (Other)
+* Observers: Mehta (Other), Meza Retamal (Other), Pazhayath Ravi (Other)
 
 ## Setup: 
     
