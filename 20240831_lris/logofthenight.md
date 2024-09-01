@@ -32,6 +32,10 @@
 |b0025|1|Feige 110        |60| ||1.5 longslit|
 |r00026-r00028|3|2023ngy        |900| ||1.5 longslit| faint trace but we may have some SN signal
 |b0026-0028|3|2023ngy        |900| ||1.5 longslit|
+|r00029-r00031|3|2024rvy        |100| ||1.5 longslit| good
+|b0029-0031|3|2024rvy        |100| ||1.5 longslit|
+|r00032-r00034|3|2023rbk        |1200| ||1.5 longslit| unclear if trace has SN
+|b0032-0034|3|2023rbk     |1200| ||1.5 longslit|
 
 
 
