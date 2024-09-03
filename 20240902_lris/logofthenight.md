@@ -24,5 +24,25 @@
 |b0012|1|Dome Flats        |150| ||1.0 longslit (less counts maybe don't use)
 |r00013-00014|2|Arcs        |1| ||1.0 longslit|
 |b0013-0014|2|Arcs        |1| ||1.0 longslit|
-|r00015-00025|11|Dome Flats        |50| ||1.0 longslit|
-|b0015-0025|11|Dome Flats        |160| ||1.0 longslit|
+|r00015|1|Dome Flats        |50| ||1.0 longslit|
+|b0015|1|Dome Flats        |160| ||1.0 longslit|
+|r00016-17| 2| Arcs|0| ||1.0 longslit (don't use)|
+|b0016-17| 2| Arcs|0| ||1.0 longslit (don't use)|
+|r00018-00025|8|Dome Flats        |50| ||1.0 longslit|
+|b0018-0025|8|Dome Flats        |160| ||1.0 longslit|
+|r00026|1|BD174708        |60| ||1.0 longslit (overexposed, do not use)|
+|b0026|1|BD174708         |60| ||1.0 longslit (overexposed, do not use)|
+|r00027|1|BD174708       |45| ||1.0 longslit (overexposed, do not use)|
+|b0027|1|BD174708        |45| ||1.0 longslit (overexposed, do not use)||
+|r00028|1|BD174708        |30| ||1.0 longslit |
+|b0028|1|BD174708         |30| ||1.0 longslit |
+|r00029|1|BD174708       |10| ||1.5 longslit |
+|b0029|1|BD174708        |10| ||1.5 longslit |
+|r00030|1|2024tzi       |600| ||1.5 longslit (wrong slit size don't use)|
+|b0030|1|2024tzi        |600| ||1.5 longslit (wrong slit size don't use)|
+|r00031|1|2024tzi       |600| ||1.0 longslit |
+|b0031|1|2024tzi        |600| ||1.0 longslit |
+|r00032-r00034|3|2023ucy        |1200| ||1.0 longslit|
+|b0032-0034|3|2023ucy        |1200| ||1.0 longslit|
+|r00035-r00037|3|2023yoo        |1200| ||1.0 longslit|
+|b0035-0037|3|2023yoo        |1200| ||1.0 longslit|
