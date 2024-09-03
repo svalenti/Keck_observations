@@ -60,5 +60,7 @@
 |b0047-48|2|2023mut   |900| ||1.0 longslit |
 |r00049-r00051|3|2022acko        |1200| ||1.0 longslit|
 |b0049-0051|3|2022acko       |1200| ||1.0 longslit|
-|r00052|1|Feige11       |60| ||1.0 longslit|
-|b0052|1|Feige11     |60| ||1.0 longslit|
+|r00052|1|2023tpl     |600| ||1.0 longslit|
+|b0052|1|2023tpl    |600| ||1.0 longslit|
+|r00053|1|Feige11       |60| ||1.0 longslit|
+|b0053|1|Feige11     |60| ||1.0 longslit|
