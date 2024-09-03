@@ -58,3 +58,7 @@
 |b0046|1|2023rbk       |1200| ||1.0 longslit |
 |r00047-48|2|2023mut   |900| ||1.0 longslit |
 |b0047-48|2|2023mut   |900| ||1.0 longslit |
+|r00049-r00051|3|2022acko        |1200| ||1.0 longslit|
+|b0049-0051|3|2022acko       |1200| ||1.0 longslit|
+|r00052|1|Feige11       |60| ||1.0 longslit|
+|b0052|1|Feige11     |60| ||1.0 longslit|
