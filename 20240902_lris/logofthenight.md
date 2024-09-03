@@ -1,7 +1,7 @@
 # Observation Log:
 
 * Conditions: 
-* Seeing: ~1.4 (variable) 
+* Seeing: ~0.8
 * SA: Sherry Yeh
 * OA: Max/RitaO
 * Data Directory: /s/sdata245/lris5/2024sep03
