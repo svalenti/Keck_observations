@@ -17,18 +17,18 @@ start_time_24pxl = Time('2024-09-09 03:50:00', scale='utc')
 end_time_24pxl = Time('2024-09-09 05:20:00', scale='utc')
 
 
-# Calculate for 1.5 hours after the start time (with one-minute intervals)
-times = start_time_24pxl + np.linspace(0, 1.5, 300)*u.hour  # 300 points, every minute over 1.5 hours
+# Calculate for 1.5 hours after the start time (with one-minute intervals) -> Change 1.5 to whatever is the length of exposure
+times_24pxl = start_time_24pxl + np.linspace(0, 1.5, 300)*u.hour  # 300 points, every minute over 1.5 hours
 
 # Calculate Local Sidereal Time (LST)
-lst = times.sidereal_time('apparent', longitude=location.lon)
+lst_24pxl = times_24pxl.sidereal_time('apparent', longitude=location.lon)
 
 # Calculate Hour Angle (HA = LST - RA)
-ha = (lst - SN2024pxl.ra).wrap_at(360*u.deg)
+ha_24pxl = (lst_24pxl - SN2024pxl.ra).wrap_at(360*u.deg)
 
-# Plotting the Hour Angle for 5 hours
+# Plotting the Hour Angle for 1.5 hours
 plt.figure(figsize=(10,6))
-plt.plot(times.datetime, ha.hour, label='SN 2024pxl HA')
+plt.plot(times_24pxl.datetime, ha_24pxl.hour, label='SN 2024pxl HA')
 plt.axhline(3.75, color='k', linestyle='--', label='New HA Limit')
 plt.xlabel('Time (UTC)')
 plt.ylabel('Hour Angle [hours]')
