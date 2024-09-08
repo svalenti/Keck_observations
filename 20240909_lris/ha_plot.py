@@ -33,7 +33,7 @@ plt.axhline(3.75, color='k', linestyle='--', label='New HA Limit')
 plt.xlabel('Time (UTC)')
 plt.ylabel('Hour Angle [hours]')
 plt.title('Hour Angle of SN 2024pxl 09-09-24 (Lick Observatory)')
-#plt.hlines(3.75, )
+
 plt.ylim(1,5)
 plt.xticks(rotation=45)
 plt.grid(True)
