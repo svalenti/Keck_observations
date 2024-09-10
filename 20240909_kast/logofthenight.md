@@ -16,9 +16,9 @@
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
 |b1001-1003|3|HgCdArNe Arc      |20| |||
 |r1001-1003|3|HgCdArNe Arc     |3| |||
-|b1004-1014|11| Blue Flats |30| ||~45,000 cts peak (Blue super dimmer and Blue lamps were both on)|
+|b1004-1014|11| Blue Flats |30| ||~45,000 cts peak (Blue super dimmer at 80% and Blue lamps were both on)|
 |r1004-1014|11| Red Flats  |8.5| |||
-|b1015-1025|11| Blue Flats |32| ||~40,000 cts peak (Only Blue super dimmer on)|
+|b1015-1025|11| Blue Flats |32| ||~40,000 cts peak (Only Blue super dimmer at 80% on)|
 |r1015-1025|11|bias      |0| |||
 |b1026-1036|11|bias      |0| |||
 
