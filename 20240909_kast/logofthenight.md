@@ -1,7 +1,7 @@
 # Observation Log
 
 * Conditions: High particle counts -> Delay
-* Seeing: 
+* Seeing: 1.6 
 * SA: Jon
 * OA: 
 * Data Directory: Download data from https://mthamilton.ucolick.org/data/
@@ -21,5 +21,10 @@
 |b1015-1025|11| Blue Flats |32| ||~40,000 cts at peak (Only Blue super dimmer at 80% on)|
 |r1015-1025|11|bias      |0| |||
 |b1026-1036|11|bias      |0| |||
+|b1037|1|BD174708      |1x135| |||
+|r1026|1|BD174708      |1x135| |||
+|b1038|1|BD284211      |1x180| |||
+|r1027|1|BD284211      |1x180| |||
+
 
 
