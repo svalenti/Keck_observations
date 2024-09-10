@@ -28,9 +28,14 @@
 |b1039|1|2024seh      |~1x120| ||Do not use - Exposure interrupted by increasing particle counts|
 |r1028|1|2024seh      |~1x120| ||Do not use - Exposure interrupted by increasing particle counts|
 |b1040-1043|4|2024seh      |1200| |||
-|r1028-1031|4|2024seh      |1200| |||
-|b1044-1046|3|2024kgi      |1200| |||
-|r1032-1034|3|2024kgi      |1200| |||
+|r1029-1032|4|2024seh      |1200| |||
+|b1044-1047|4|2024kgi      |1200| |||
+|r1033-1036|4|2024kgi      |1200| |||
+|b1048-1049|2|2024mpq      |900| |||
+|r1037-1038|2|2024mpq      |900| |||
+|b1050-1055|6|2024any      |1200| |||
+|b1039-1044|6|2024any      |1200| |||
+
 
 
 
