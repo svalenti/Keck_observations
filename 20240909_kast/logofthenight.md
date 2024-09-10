@@ -1,6 +1,6 @@
 # Observation Log
 
-* Conditions: High particle counts -> Delay
+* Conditions: High particle counts -> Delayed start
 * Seeing: 1.6 
 * SA: Jon
 * OA: 
