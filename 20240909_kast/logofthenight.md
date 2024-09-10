@@ -25,8 +25,8 @@
 |r1026|1|BD174708      |1x135| |||
 |b1038|1|BD284211      |1x180| |||
 |r1027|1|BD284211      |1x180| |||
-|b1039|1|2024seh      |1x1200| ||Do not use - Exposure interrupted|
-|r1028|1|2024seh      |1x1200| ||Do not use - Exposure interrupted|
+|b1039|1|2024seh      |1x120| ||Do not use - Exposure interrupted|
+|r1028|1|2024seh      |1x120| ||Do not use - Exposure interrupted|
 |b1040-1043|1|2024seh      |4x1200| |||
 |r1028-1031|1|2024seh      |4x1200| |||
 
