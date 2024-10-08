@@ -1,7 +1,7 @@
 # Observation Log:
 
 * Conditions: 
-* Seeing: 
+* Seeing: 0.89 at start of night 
 * SA: Josh W
 * OA: Matt
 * Data Directory: /s/sdata245/lris6/2024oct08
@@ -33,3 +33,9 @@
 |b0031-0032|2|Arcs        |3| ||1.0 longslit
 |r00028-r00036|9|Dome Flats        |55| ||1.0 longslit  counts ~40000.
 |b0033-b0041|9|Dome Flats        |150| ||1.0 longslit  
+|r00028-r00036|9|Dome Flats        |55| ||1.0 longslit 
+|b0033-b0041|9|Dome Flats        |150| ||1.0 longslit  
+|b0042-b0043|2| MIRA    |10| ||1.0 longslit  
+|r00037|1| BD332642       |30| ||1.0 longslit 
+|b0044|1| BD332642    |30| ||1.0 longslit  
+
