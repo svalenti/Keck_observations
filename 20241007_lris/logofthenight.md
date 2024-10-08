@@ -42,6 +42,15 @@
 |b0045-0046|2| 2024hls    |900| ||Second exposure aborted OFFSET NOT APPLIED DONT USE
 |r00040-00041|2| 2024hls       |900| || 1.0 longslit  
 |b0047-0048|2| 2024hls    |900| || 1.0 longslit  
-
+|r00042-00043|2| 2024pxl       |200| || 1.0 longslit  
+|b0049-0050|2| 2024pxl    |200| || 1.0 longslit  
+|r00044-00045|4| 2023ehl      |1000| || 1.0 longslit  
+|b0051-0052|4| 2023ehl    |1000| || 1.0 longslit  
+|r00044-00045|2|       |600| || 1.0 longslit  
+|b0051-0052|2|     |600| || 1.0 longslit 
+|r00044-00045|3|       |1200| || 1.0 longslit  
+|b0051-0052|3|     |1200| || 1.0 longslit 
+|r00044-00045|2|       |900| || 1.0 longslit  
+|b0051-0052|2|     |900| || 1.0 longslit 
 
 
