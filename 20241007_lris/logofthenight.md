@@ -44,13 +44,19 @@
 |b0047-0048|2| 2024hls    |900| || 1.0 longslit  
 |r00042-00043|2| 2024pxl       |200| || 1.0 longslit  
 |b0049-0050|2| 2024pxl    |200| || 1.0 longslit  
-|r00044-00043|2| 2023ehl      |1000| || No trace. Moved on after 1st exposure. Don't use 2nd.  
-|b0051-0052|2| 2023ehl    |1000| || Don't use  
-|r00044-00045|2| 2023xbg   |1000| || 1.0 longslit  
-|b0053-0054|2|  2023xbg |1000| || 1.0 longslit 
-|r00046-00047|3|     |1200| || 1.0 longslit  
-|b0055-0056|3|     |1200| || 1.0 longslit 
-|r00044-00045|2|       |900| || 1.0 longslit  
-|b0051-0052|2|     |900| || 1.0 longslit 
-
+|r00044-00045|2| 2023ehl      |1000| || No trace. Moved on after 1st exposure. Don't use 2nd.  
+|b0051-0052|2| 2023ehl    |1000| || Don't use. TARGET NAMES SEEM WRONG 
+|r00046-00048|3| 2023xbg   |1000| || 1.0 longslit. In second exposure object moved a bit out of the slit. 
+|b0053-0055|3|  2023xbg |1000| || 1.0 longslit 
+|b0056|1|  2023vyl |1000| || 1.0 longslit. DONT USE. EXPOSURE TAKEN WHILE SLEWING.
+|r00049-00053|4| 2023vyl   |1200| || 1.0 longslit  
+|b0057-0060|4|  2023vyl |1200| || 1.0 longslit 
+|r00054-00055|2|  2024any     |900| || 1.0 longslit  
+|b0061-0062|2|   2024any  |900| || 1.0 longslit 
+|r00056-00057|2|  2024wpp     |150| || 1.0 longslit  
+|b0063-0064|2|   2024wpp  |150| || 1.0 longslit 
+|r00058-00059|2|  2024xal  |80| || 1.0 longslit  
+|b0058-0059|2|   2024xal  |80| || 1.0 longslit 
+|r0060-0061|1|   Feige11  |30| || 1.0 longslit 
+|b0051-0052|1|   Feige11  |30| || 1.0 longslit 
 
