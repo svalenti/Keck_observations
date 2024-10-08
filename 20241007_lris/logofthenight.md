@@ -49,14 +49,15 @@
 |r00046-00048|3| 2023xbg   |1000| || 1.0 longslit. In second exposure object moved a bit out of the slit. 
 |b0053-0055|3|  2023xbg |1000| || 1.0 longslit 
 |b0056|1|  2023vyl |1000| || 1.0 longslit. DONT USE. EXPOSURE TAKEN WHILE SLEWING.
-|r00049-00054|5| 2023vyl   |1200| || 1.0 longslit. ROTATOR NEEDED TO BE MOVED. FAILURE TO PAUSE SECOND RED EXPOSURE. DONT USE r00050. 
-|b0057-0060|4|  2023vyl |1200| || 1.0 longslit 
-|r00055-00056|2|  2024any     |900| || 1.0 longslit  
-|b0061-0062|2|   2024any  |900| || 1.0 longslit 
-|r00057-00058|2|  2024wpp     |150| || 1.0 longslit  
+|r00049-00053|5| 2023vyl   |1200| || 1.0 longslit. ROTATOR NEEDED TO BE MOVED. FAILURE TO PAUSE SECOND RED EXPOSURE.DONT USE r00050. 
+|b0057-0060|4|  2023vyl |1200| || 1.0 longslit. Difuse trace on red/blue. Unsure how much signal there is. 
+|b0061|1|  2024any |1| || Blue GUI crashed. Test exposure after restarting.
+|r00054-00055|2|  2024any     |900| || 1.0 longslit.   
+|b0062|2|   2024any  |900| || 1.0 longslit. Blue GUI crashed. Restarted at time of 2nd red exposure.
+|r00056-00057|2|  2024wpp     |150| || 1.0 longslit  
 |b0063-0064|2|   2024wpp  |150| || 1.0 longslit 
-|r00059-00060|2|  2024xal  |80| || 1.0 longslit  
-|b0058-0059|2|   2024xal  |80| || 1.0 longslit 
-|r00061-00062|1|   Feige11  |30| || 1.0 longslit 
-|b0051-0052|1|   Feige11  |30| || 1.0 longslit 
+|r00058-00059|2|  2024xal  |80| || 1.0 longslit  
+|b0065-0066|2|   2024xal  |80| || 1.0 longslit 
+|r00060-00061|1|   Feige11  |30| || 1.0 longslit 
+|b0067-0068|1|   Feige11  |30| || 1.0 longslit 
 
