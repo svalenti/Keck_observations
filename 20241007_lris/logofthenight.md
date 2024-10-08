@@ -1,7 +1,7 @@
 # Observation Log:
 
 * Conditions: 
-* Seeing: 0.89 at start of night 
+* Seeing: 0.89 at start of night. ~0.8 at end of 1st half.
 * SA: Josh W
 * OA: Matt
 * Data Directory: /s/sdata245/lris6/2024oct08
@@ -53,11 +53,13 @@
 |b0057-0060|4|  2023vyl |1200| || 1.0 longslit. Difuse trace on red/blue. Unsure how much signal there is. 
 |b0061|1|  2024any |1| || Blue GUI crashed. Test exposure after restarting.
 |r00054-00055|2|  2024any     |900| || 1.0 longslit.   
-|b0062|2|   2024any  |900| || 1.0 longslit. Blue GUI crashed. Restarted at time of 2nd red exposure.
-|r00056-00057|2|  2024wpp     |150| || 1.0 longslit  
-|b0063-0064|2|   2024wpp  |150| || 1.0 longslit 
-|r00058-00059|2|  2024xal  |80| || 1.0 longslit  
-|b0065-0066|2|   2024xal  |80| || 1.0 longslit 
-|r00060-00061|1|   Feige11  |30| || 1.0 longslit 
-|b0067-0068|1|   Feige11  |30| || 1.0 longslit 
+|b0062|2|   2024any  |900| || 1.0 longslit. 
+|r00056-00058|3|  2024wpp     |150| || 1.0 longslit  
+|b0063-0065|3|   2024wpp  |150| || 1.0 longslit 
+|r00059-00060|2|  2024xal  |80| || 1.0 longslit  
+|b0066-0067|2|   2024xal  |80| || 1.0 longslit 
+|r00061|1|   Feige11  |30| || 1.0 longslit 
+|b0068|1|   Feige11  |30| || 1.0 longslit 
+|r00062|1| 2024wut |200| || 1.0 longslit. Ended at ~180s at half night.  
+|b0069|1| 2024wut |200| || 1.0 longslit.  Ended at ~180s at half night.  
 
