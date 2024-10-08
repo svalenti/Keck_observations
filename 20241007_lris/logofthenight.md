@@ -25,3 +25,11 @@
 |b0017-0018|2|Arcs        |3| ||1.5 longslit|
 |r00014-r00022|9|Dome Flats        |50| ||1.5 longslit | 
 |b0019-b0027|9|Dome Flats        |150| ||1.5 longslit |  
+|r00023-00024|2|Arcs        |1| ||1.0 longslit|
+|b0028-0029|2|Arcs        |1| ||1.0 longslit|
+|r00025|1|Dome Flats        |50| ||1.0 longslit | counts ~35000. A bit low. 
+|b0030|1|Dome Flats        |150| ||1.0 longslit |  counts ~5000?
+|r00026-00027|2|Arcs        |3| ||1.0 longslit|
+|b0031-0032|2|Arcs        |3| ||1.0 longslit|
+|r00028-r00036|9|Dome Flats        |55| ||1.0 longslit |  counts ~40000.
+|b0033-b0041|9|Dome Flats        |150| ||1.0 longslit |  
