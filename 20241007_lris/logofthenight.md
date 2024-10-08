@@ -44,12 +44,12 @@
 |b0047-0048|2| 2024hls    |900| || 1.0 longslit  
 |r00042-00043|2| 2024pxl       |200| || 1.0 longslit  
 |b0049-0050|2| 2024pxl    |200| || 1.0 longslit  
-|r00044-00045|4| 2023ehl      |1000| || 1.0 longslit  
-|b0051-0052|4| 2023ehl    |1000| || 1.0 longslit  
-|r00044-00045|2|       |600| || 1.0 longslit  
-|b0051-0052|2|     |600| || 1.0 longslit 
-|r00044-00045|3|       |1200| || 1.0 longslit  
-|b0051-0052|3|     |1200| || 1.0 longslit 
+|r00044-00043|2| 2023ehl      |1000| || No trace. Moved on after 1st exposure. Don't use 2nd.  
+|b0051-0052|2| 2023ehl    |1000| || Don't use  
+|r00044-00045|2| 2023xbg   |1000| || 1.0 longslit  
+|b0053-0054|2|  2023xbg |1000| || 1.0 longslit 
+|r00046-00047|3|     |1200| || 1.0 longslit  
+|b0055-0056|3|     |1200| || 1.0 longslit 
 |r00044-00045|2|       |900| || 1.0 longslit  
 |b0051-0052|2|     |900| || 1.0 longslit 
 
