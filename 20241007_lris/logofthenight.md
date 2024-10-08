@@ -4,7 +4,7 @@
 * Seeing: 
 * SA: Josh W
 * OA: Matt
-* Data Directory: /s/sdata245/lris6/2024oct07
+* Data Directory: /s/sdata245/lris6/2024oct08
 * Data Directory on Dark: /dark/hal/data/20241007_lris
 * Starlist: 
 * Setup saved to: state_20240710
