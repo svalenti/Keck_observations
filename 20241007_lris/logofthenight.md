@@ -7,7 +7,7 @@
 * Data Directory: /s/sdata245/lris6/2024oct07
 * Data Directory on Dark: /dark/hal/data/20241007_lris
 * Starlist: 
-* Setup saved to: state_20240710.txt
+* Setup saved to: state_20240710
 * Observers: Emily Hoang, Nicolas Meza-Retamal
 
 ## Setup: Dichroic 560 - Grism 600/4000 - Grating 400/8500 - longslit 1.5 & 1.0 
