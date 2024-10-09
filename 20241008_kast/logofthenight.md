@@ -1,4 +1,4 @@
-# Observation Log 20240729
+# Observation Log 20241008
 
 * Conditions: 
 * Seeing: 1.2
