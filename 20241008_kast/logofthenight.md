@@ -19,7 +19,7 @@
 |b1004-1014|11|flat      |27| ||Superblue lamp at 90 peak ~37,000 cts|
 |r1004-1014|11|flat      |10| ||Blue lamp ~28,000 cts|
 |b1015-1025|11|bias      |0| |||
-|r1015-1025|11|bias      |0| ||| LABELED AS FLATS
+|r1015-1025|11|bias      |0| || LABELED AS FLATS
 |b1026|1|BD174708      |135| |||
 |r1026|1|BD174708      |35| |||
 |b1027|1|BD284211      |180| |||
