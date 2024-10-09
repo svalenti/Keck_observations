@@ -9,6 +9,9 @@
 * Starlist: 
 * Setup saved to: 
 
+* Red window: 2725 450 675 350
+* Blue window: 400 2048 800 0
+
 ## Setup: 
 
 
