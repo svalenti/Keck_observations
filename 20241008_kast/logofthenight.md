@@ -2,9 +2,9 @@
 
 * Conditions: 
 * Seeing: 1.2
-* SA: Jon
-* OA: Shawn
-* Data Directory: 
+* SA: Jon/Ellie
+* OA: Shawn/Paul
+* Data Archive: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20241008_Lick
 * Starlist: 
 * Setup saved to: 
