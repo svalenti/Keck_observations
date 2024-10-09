@@ -38,10 +38,10 @@
 |b0042-b0043|2| MIRA    |10| ||1.0 longslit  
 |r00037|1| BD332642       |30| ||1.0 longslit 
 |b0044|1| BD332642    |30| ||1.0 longslit  
-|r00038-00039|2| 2024hls       |900| ||Second exposure aborted OFFSET NOT APPLIED DONT USE
-|b0045-0046|2| 2024hls    |900| ||Second exposure aborted OFFSET NOT APPLIED DONT USE
-|r00040-00041|2| 2024hls       |900| || 1.0 longslit  
-|b0047-0048|2| 2024hls    |900| || 1.0 longslit  
+|r00038-00039|2| 2024lhs       |900| ||Second exposure aborted OFFSET NOT APPLIED DONT USE
+|b0045-0046|2| 2024lhs    |900| ||Second exposure aborted OFFSET NOT APPLIED DONT USE
+|r00040-00041|2| 2024lhs       |900| || 1.0 longslit  
+|b0047-0048|2| 2024lhs    |900| || 1.0 longslit  
 |r00042-00043|2| 2024pxl       |200| || 1.0 longslit  
 |b0049-0050|2| 2024pxl    |200| || 1.0 longslit  
 |r00044-00045|2| 2023ehl      |1000| || No trace. Moved on after 1st exposure. Don't use 2nd.  
