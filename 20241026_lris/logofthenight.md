@@ -19,19 +19,19 @@
 ||1|Bias test        |0| ||1.5 longslit
 ||2|Arcs        |1| ||1.5 longslit
 ||2|Arcs        |1| ||1.5 longslit
-||1|Dome Flats        |45| ||1.5 longslit. Counts ~46000
-||1|Dome Flats        |150| ||1.5 longslit. Counts ~5500
+||1|Dome Flats        |45| ||1.5 longslit 
+||1|Dome Flats        |150| ||1.5 longslit
 ||2|Arcs        |3| ||1.5 longslit|
 ||2|Arcs        |3| ||1.5 longslit|
 ||9|Dome Flats        |50| ||1.5 longslit | 
 ||9|Dome Flats        |150| ||1.5 longslit |  
 ||2|Arcs        |1| ||1.0 longslit|
 ||2|Arcs        |1| ||1.0 longslit|
-||1|Dome Flats        |50| ||1.0 longslit counts ~35000. A bit low. 
-||1|Dome Flats        |150| ||1.0 longslit  counts ~5000?
+||1|Dome Flats        |50| ||1.0 longslit 
+||1|Dome Flats        |150| ||1.0 longslit  
 ||2|Arcs        |3| ||1.0 longslit
 ||2|Arcs        |3| ||1.0 longslit
-||9|Dome Flats        |55| ||1.0 longslit  counts ~40000.
+||9|Dome Flats        |55| ||1.0 longslit  
 ||9|Dome Flats        |150| ||1.0 longslit  
 ||9|Dome Flats        |55| ||1.0 longslit 
 ||9|Dome Flats        |150| ||1.0 longslit  
