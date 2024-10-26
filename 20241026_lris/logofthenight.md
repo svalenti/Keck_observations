@@ -1,6 +1,6 @@
 # Observation Log:
 
-* Conditions: 
+* Conditions: Forecast of fog / precipitation
 * Seeing: 
 * SA: Michael
 * OA: 
