@@ -1,9 +1,9 @@
 # Observation Log:
 
-* Conditions: Forecast of fog / precipitation
+* Conditions: Forecast of fog / precipitation, ended up being rained out
 * Seeing: 
 * SA: Michael
-* OA: 
+* OA: Matt
 * Data Directory: 
 * Data Directory on Dark: 
 * Starlist: 
@@ -34,3 +34,6 @@
 |r00041|1|Dome Flats        |60| ||1.0 longslit, too low, don't use|
 |r00042|1|Dome Flats        |75| ||1.0 longslit, near saturation limit|
 |r00043-00052|10|Dome Flats        |70| ||1.0 longslit|
+|b0050-0059|10|Dome Flats        |150| ||1.5 longslit | 
+|r00053|1|Dome Flats        |60| ||1.5 longslit, too high, don't use|
+|r00054-00063|10|Dome Flats        |45| ||1.5 longslit|
