@@ -24,5 +24,9 @@
 |r00017-00018|2|Arcs        |3| ||1.0 longslit|
 |b0014-0015|2|Test flat        |150| ||1.0 longslit DON'T USE|
 |r00019-00020|2|Test flat        |70| ||1.0 longslit DON'T USE|
-|b0016-00125|10|Dome flats        |150| ||1.0 longslit|
+|b0016-0025|10|Dome flats        |150| ||1.0 longslit|
 |r00021-00030|10|Dome flats        |70| ||1.0 longslit|
+|b0026|1|Feige110        |60| ||1.0 longslit, NOT SETUP PROPERLY, DON'T USE|
+|r00031|1|Feige110        |60| ||1.0 longslit, NOT SETUP PROPERLY, DON'T USE|
+|b0027|1|Feige110        |60| ||1.0 longslit|
+|r00032|1|Feige110        |60| ||1.0 longslit|
