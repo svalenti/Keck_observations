@@ -30,3 +30,7 @@
 |r00031|1|Feige110        |60| ||1.0 longslit, NOT SETUP PROPERLY, DON'T USE|
 |b0027|1|Feige110        |60| ||1.0 longslit|
 |r00032|1|Feige110        |60| ||1.0 longslit|
+|b0028-0029|2|2024ixo        |600| ||1.0 longslit|
+|r00033-00034|2|2024ixo        |600| ||1.0 longslit|
+|b0030-0031|2|2024ixo        |600| ||1.0 longslit|
+|r00035-00036|2|2024ixo        |600| ||1.0 longslit|
