@@ -16,5 +16,13 @@
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
 |b0001|1|Bias test        |0| ||1.0 longslit|
 |r00001|1|Bias test        |0| ||1.0 longslit|
-|b0009-0010|2|Arcs        |3| ||1.5 longslit|
-|r00009-00010|2|Arcs        |3| ||1.5 longslit|
+|b0009|1|Test flat        |150| ||1.0 longslit DON'T USE|
+|r00014|1|Test flat        |70| ||1.0 longslit DON'T USE|
+|b0010-0011|2|Arcs        |1| ||1.0 longslit|
+|r00015-00016|2|Arcs        |1| ||1.0 longslit|
+|b0012-0013|2|Arcs        |3| ||1.0 longslit|
+|r00017-00018|2|Arcs        |3| ||1.0 longslit|
+|b0014-0015|2|Test flat        |150| ||1.0 longslit DON'T USE|
+|r00019-00020|2|Test flat        |70| ||1.0 longslit DON'T USE|
+|b0016-00125|10|Dome flats        |150| ||1.0 longslit|
+|r00021-00030|10|Dome flats        |70| ||1.0 longslit|
