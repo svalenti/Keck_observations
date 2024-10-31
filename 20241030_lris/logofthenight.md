@@ -47,5 +47,8 @@
 |b0044|1|2024wpp        |926| ||1.0 longslit, Extra exposure time from previous|
 |r00046-00048|2|2024wpp        |1000| ||1.0 longslit|
 |r00049|1|2024wpp        |600| ||1.0 longslit|
-
+|b0045-0047|3|2023rve        |1000| ||1.0 longslit|
+|b0048|1|2023rve        |1200| ||1.0 longslit|
+|r00050-00053|4|2023rve        |1000| ||1.0 longslit|
+|r00054|1|2023rve        |200| ||1.0 longslit|
 
