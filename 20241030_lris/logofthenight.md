@@ -3,7 +3,7 @@
 * Conditions: 
 * Seeing: 
 * SA: Sherry
-* OA: Tony
+* OA: Max
 * Data Directory: 
 * Data Directory on Dark: 
 * Starlist: 
