@@ -1,7 +1,7 @@
 # Observation Log:
 
 * Conditions: 
-* Seeing: 
+* Seeing: 0.88 
 * SA: Sherry
 * OA: Max
 * Data Directory: 
