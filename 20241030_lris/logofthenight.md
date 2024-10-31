@@ -42,4 +42,10 @@
 |r00042-00044|3|2024ryv        |100| ||1.0 longslit|
 |b0040|1|2024udy        |600| ||1.0 longslit|
 |r00045|1|2024udy        |600| ||1.0 longslit|
+|b0041-0042|2|2024wpp        |1000| ||1.0 longslit|
+|b0043|2|2024wpp        |674| ||1.0 longslit, Exposure terminated prematurely|
+|b0044|1|2024wpp        |926| ||1.0 longslit, Extra exposure time from previous|
+|r00046-00048|2|2024wpp        |1000| ||1.0 longslit|
+|r00049|1|2024wpp        |600| ||1.0 longslit|
+
 
