@@ -10,8 +10,8 @@
 * Setup saved to: 
 * Observers: 
 
-## Setup: Dichroic 560 - Grism 600/4000 - Grating 400/8500 - longslit 1.5 & 1.0 
-### Central wavelength= around 7770; Blue Focus = -3626.83 ; Red Focus = -0.23
+## Setup: Dichroic 560 - Grism 600/4000 - Grating 400/8500 - longslit 1.0 
+### Central wavelength= around 7770; Blue Focus = -3626.83 ; Red Focus = -0.23; Initial Seeing 0.88
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
 |b0001|1|Bias test        |0| ||1.0 longslit|
