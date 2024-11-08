@@ -16,8 +16,6 @@
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
 |b0001-0002|2|G191B2B        |40| ||1.0 longslit|
 |r00001-00002|2|G191B2B        |40| ||1.0 longslit|
-|b0007|1|Dome flats        |150| ||1.0 longslit, test DON'T USE|
-|r00008|1|Dome flats        |70| ||1.0 longslit, test DON'T USE|
 |b0008-0017|10|Dome flats        |240| ||1.0 longslit|
 |r00009-00018|10|Dome flats        |60| ||1.0 longslit|
 |b0018-0019|2|Arcs        |1| ||1.0 longslit|
@@ -27,3 +25,5 @@
 |b0003-0005|3|2024wpp        |1200| ||1.0 longslit|
 |b0006|1|2024wpp        |900| ||1.0 longslit|
 |r00003-00007|5|2024wpp        |900| ||1.0 longslit|
+|b0007|1|Dome flats        |150| ||1.0 longslit, test DON'T USE|
+|r00008|1|Dome flats        |70| ||1.0 longslit, test DON'T USE|
