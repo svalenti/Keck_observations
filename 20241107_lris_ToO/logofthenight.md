@@ -14,8 +14,8 @@
 ### Central wavelength= around 7830; Blue Focus = -3708.10 ; Red Focus = -0.11; Initial Seeing 1.1
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
-|b0002|1|G191B2B        |??| ||1.0 longslit|
-|r00002|1|G191B2B        |??| ||1.0 longslit|
+|b0001-0002|2|G191B2B        |40| ||1.0 longslit|
+|r00001-00002|2|G191B2B        |40| ||1.0 longslit|
 |b0003-0005|3|2024wpp        |1200| ||1.0 longslit|
 |b0006|1|2024wpp        |900| ||1.0 longslit|
 |r00003-00007|5|2024wpp        |900| ||1.0 longslit|
