@@ -17,7 +17,8 @@
 |b0002|1|G191B2B        |??| ||1.0 longslit|
 |r00002|1|G191B2B        |??| ||1.0 longslit|
 |b0003-0005|3|2024wpp        |1200| ||1.0 longslit|
-|r00003-00006|4|2024wpp        |900| ||1.0 longslit|
+|b0006|1|2024wpp        |900| ||1.0 longslit|
+|r00003-00007|5|2024wpp        |900| ||1.0 longslit|
 |b00??|1|Bias test        |0| ||1.0 longslit|
 |r000??|1|Bias test        |0| ||1.0 longslit|
 |b00??-00??|2|Arcs        |1| ||1.0 longslit|
