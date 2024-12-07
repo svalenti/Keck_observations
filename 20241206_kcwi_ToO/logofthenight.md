@@ -4,7 +4,7 @@
 * Seeing: 
 * SA: Rosalie
 * OA: Max
-* Data Directory: /sdata245/
+* Data Directory: /s/sdata1400/kcwi1/2024dec07_B/
 * Data Directory on Dark: 
 * Starlist: 
 * Setup saved to: 
