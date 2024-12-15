@@ -22,7 +22,7 @@
 |b1003-1004|2|HgCdArNe Arc 2.0"     |20| |||
 |r1003-1004|2|HgCdArNe Arc 2.0"    |3| |||
 |b1005-1015|10|flat      |24| ||Superblue lamp at 90 peak ~37,000 cts|
-|r1005|||||test exposure, don't use|
+|r1005||||||test exposure, don't use|
 -1015|10|flat      |10| ||Blue lamp ~28,000 cts|
 |b1015-1025|11|bias      |0| |||
 |r1015-1025|11|bias      |0| || LABELED AS FLATS
