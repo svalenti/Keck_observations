@@ -48,3 +48,9 @@
 |r1045|1|Feige34     |180| |||
 |b1046|1|HZ44     |240| |||
 |r1046|1|HZ44     |240| |||
+|b1047|1|24inv     |1200| |||
+|r1047|1|24inv     |1200| |||
+|b1048|1|24inv     |434.36| ||had to stop midway. very very faint trace, would suggest don't use|
+|r1048|1|24inv     |434.36| ||had to stop midway. faint trace|
+|b1049|1|24iss     |1200| |||
+|r1049|1|24iss     |1200| |||
