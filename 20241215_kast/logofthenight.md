@@ -36,8 +36,8 @@
 |r1031|1|24abup     |1200| ||Just noise, don't use|
 |b1032-34|3|24abup     |900| ||faint trace on red side|
 |r1032-34|3|24abup     |900| ||faint trace on red side|
-|b1035||24admm     |900| ||No trace|
-|r1035||24admm     |900| ||No trace|
+|b1035|1|24admm     |900| ||No trace|
+|r1035|1|24admm     |900| ||No trace|
 |b1036-39|4|24acyl     |900| |||
 |r1036-39|4|24acyl     |900| |||
 |b1040-42|3|24abqv     |900| |||
