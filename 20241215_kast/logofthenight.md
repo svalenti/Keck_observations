@@ -1,17 +1,17 @@
 # Observation Log 20241215
 
-* Conditions: 
+* Conditions: Cloudy, started 1.5hrs late
 * Seeing: 1.2
 * SA: Jon Rees
 * OA: Paul C.
 * Data Archive: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20241215_kast
-* Starlist: 
+* Starlist: /mnt/shaneobs/observers/hoang/starlist_20241215.txt
 * Setup saved to: 
 
 * Red window: 2725 525 675 540
 * Blue window: 325 2048 875 0
-* Dome Light were off throughout the calibrations, including arcs, due to a light leak
+* Dome Lights were off throughout the calibrations, including arcs, due to a light leak
 
 ## Setup: 
 
@@ -34,3 +34,13 @@
 |r1030|1|BD284211     |135| |||
 |b1031|1|24abup     |1200| ||Just noise, don't use|
 |r1031|1|24abup     |1200| ||Just noise, don't use|
+|b1032-34|3|24abup     |900| ||faint trace on red side|
+|r1032-34|3|24abup     |900| ||faint trace on red side|
+|b1035||24admm     |900| ||No trace|
+|r1035||24admm     |900| ||No trace|
+|b1036-39|4|24acyl     |900| |||
+|r1036-39|4|24acyl     |900| |||
+|b1040-42|3|24abqv     |900| |||
+|r1040-42|3|24abqv     |900| |||
+|b1043-44|2|24inv     |1200| |||
+|r1043-44|2|24inv     |1200| |||
