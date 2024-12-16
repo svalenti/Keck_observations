@@ -1,7 +1,7 @@
 # Observation Log 20241215
 
 * Conditions: Cloudy, started 1.5hrs late
-* Seeing: 1.2
+* Seeing: 1.14
 * SA: Jon Rees
 * OA: Paul C.
 * Data Archive: https://mthamilton.ucolick.org/data/
@@ -44,3 +44,7 @@
 |r1040-42|3|24abqv     |900| |||
 |b1043-44|2|24inv     |1200| |||
 |r1043-44|2|24inv     |1200| |||
+|b1045|1|Feige34     |180| |||
+|r1045|1|Feige34     |180| |||
+|b1046|1|HZ44     |240| |||
+|r1046|1|HZ44     |240| |||
