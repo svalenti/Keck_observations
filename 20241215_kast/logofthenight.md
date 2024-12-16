@@ -52,5 +52,5 @@
 |r1047|1|24inv     |1200| |||
 |b1048|1|24inv     |434.36| ||had to stop midway. very very faint trace, would suggest don't use|
 |r1048|1|24inv     |434.36| ||had to stop midway. faint trace|
-|b1049|1|24iss     |1200| |||
-|r1049|1|24iss     |1200| |||
+|b1049|1|24iss     |885.45| ||No trace, don't use|
+|r1049|1|24iss     |885.45| ||No trace, don't use|
