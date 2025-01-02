@@ -8,18 +8,16 @@
 * Data Directory on Dark: 
 * Starlist: 
 * Setup saved to: 
-* Observers: 
+* Observers: Hoang, Meza-Retamal, Mehta, Pazhayath Ravi
 
 ## Setup 1: Dichroic 560 - Grism 600/4000 - Grating 400/8500 - longslit 1.0 
-## Setup 2:
-### Setup 1 Central wavelength= around 7770; Blue Focus =  ; Red Focus = ; Initial Seeing 
+## Setup 2: Dichroic 560 - Grism 600/4000 - Grating 900/55000 - longslit 1.0
+### Setup 1 Central wavelength= around 7770; Blue Focus = -3869.51; Red Focus = -0.27; Initial Seeing 
 ### Setup 2 Central wavelength= around ; Blue Focus =  ; Red Focus =; Initial Seeing 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
 |b0001|1|Bias test        |0| ||1.0 longslit|
 |r00001|1|Bias test        |0| ||1.0 longslit|
-|b0009|1|Test flat        |150| ||1.0 longslit DON'T USE|
-|r00014|1|Test flat        |70| ||1.0 longslit DON'T USE|
 |b0010-0011|2|Arcs        |1| ||1.0 longslit|
 |r00015-00016|2|Arcs        |1| ||1.0 longslit|
 |b0012-0013|2|Arcs        |3| ||1.0 longslit|
