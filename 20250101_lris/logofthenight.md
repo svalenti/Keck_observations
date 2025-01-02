@@ -11,8 +11,8 @@
 * Observers: Hoang, Meza-Retamal, Mehta, Pazhayath Ravi
 
 ## Setup 1: Dichroic 560 - Grism 600/4000 - Grating 400/8500 - longslit 1.0 
-## Setup 2: Dichroic 560 - Grism 600/4000 - Grating 900/55000 - longslit 1.0
 ### Setup 1 Central wavelength= around 7770; Blue Focus = -3851 ; Red Focus = -0.27; Initial Seeing 
+## Setup 2: Dichroic 560 - Grism 600/4000 - Grating 900/55000 - longslit 1.0
 ### Setup 2 Central wavelength= around 6589; Blue Focus =  -3851; Red Focus = -0.26; Initial Seeing 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
