@@ -13,17 +13,14 @@
 ## Setup 1: Dichroic 560 - Grism 600/4000 - Grating 400/8500 - longslit 1.0 
 ## Setup 2: Dichroic 560 - Grism 600/4000 - Grating 900/55000 - longslit 1.0
 ### Setup 1 Central wavelength= around 7770; Blue Focus = -3869.51; Red Focus = -0.27; Initial Seeing 
-### Setup 2 Central wavelength= around ; Blue Focus =  ; Red Focus =; Initial Seeing 
+### Setup 2 Central wavelength= around ; Blue Focus =  ; Red Focus = -0.26; Initial Seeing 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
+|b0008|1|Arcs test        |1| ||1.0 longslit DON'T USE| 
+|r0008|1|Arcs test        |1| ||1.0 longslit DONT USE|
+|b0016|1|Arcs test        |1| ||1.0 longslit DON'T USE| 
+|r0017|1|Arcs test        |1| ||1.0 longslit DONT USE|
 |b0001|1|Bias test        |0| ||1.0 longslit|
 |r00001|1|Bias test        |0| ||1.0 longslit|
-|b0010-0011|2|Arcs        |1| ||1.0 longslit|
-|r00015-00016|2|Arcs        |1| ||1.0 longslit|
-|b0012-0013|2|Arcs        |3| ||1.0 longslit|
-|r00017-00018|2|Arcs        |3| ||1.0 longslit|
-|b0014-0015|2|Test flat        |150| ||1.0 longslit DON'T USE|
-|r00019-00020|2|Test flat        |70| ||1.0 longslit DON'T USE|
-|b0016-0025|10|Dome flats        |150| ||1.0 longslit|
-|r00021-00030|10|Dome flats        |70| ||1.0 longslit|
+
 
