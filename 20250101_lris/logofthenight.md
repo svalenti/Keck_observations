@@ -42,3 +42,7 @@
 |r00027|1|Hiltner600        |30| ||1.0 longslit, Setup#2|
 |b0047-48|2|2024bch      |600| ||1.0 longslit, Setup#1|
 |r00028-29|2|2024bch        |600| ||1.0 longslit, Setup#1|
+|b0047-48|2|2024bch      |600| ||1.0 longslit, Setup#1|
+
+|r00030-00031|2|Arcs        |3| ||1.0 longslit, Setup#1|
+|b0049-00031|2|Arcs        |3| ||1.0 longslit, Setup#1|
