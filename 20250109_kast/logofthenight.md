@@ -10,12 +10,14 @@
 * Setup saved to: /hoang/20240109_lowres.kast
 
 ## Setup: 
-*Dichroic d57
-*Blue grism 452/3306
-*Red grating 300/7500
-*Xstage setup: 15.65mm shift
-*Blue Focus: 24.355 mm 
-*Red Focus: 0.926 mm 
+
+* Dichroic d57
+* Blue grism 452/3306
+* Red grating 300/7500
+* Xstage setup: 15.65mm shift
+* Blue Focus: 24.355 mm 
+* Red Focus: 0.926 mm 
+
 ### Central wavelength= around 7770
 
 
