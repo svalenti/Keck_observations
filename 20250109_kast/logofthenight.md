@@ -35,5 +35,6 @@
 |r0029|1|Feige11        |150| ||Slit width 2 arcsec||
 |b1030-b1035|1|2024xal        |6x1200| ||Slit width 2 arcsec||
 |r0030-r0035|1|2024xal        |6x1200| ||Slit width 2 arcsec||
-
+|b1035-b1040|1|2024gvz        |6x1200| ||Slit width 2 arcsec||
+|r0035-r0040|1|2024gvz        |6x1200| ||Slit width 2 arcsec||
 
