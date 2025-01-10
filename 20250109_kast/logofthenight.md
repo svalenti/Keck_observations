@@ -1,9 +1,9 @@
 # Observation Log 20250109
 
 * Conditions: Start of the night with above limits wind. Opened telescope around 19:15.
-* Seeing: ~2.6'' 
+* Seeing: ~2.6'' at the start, ~1.5'' near the end
 * SA: Jon Rees
-* OA: Shawn
+* OA: Shawn and Paul
 * Data Directory: 
 * Data Directory on Dark: 
 * Starlist: 
@@ -37,7 +37,9 @@
 |r0030-r0035|6|2024xal        |1200| ||Slit width 2 arcsec||
 |b1035-b1040|6|2024gvz        |1200| ||Slit width 2 arcsec||
 |r0035-r0040|6|2024gvz        |1200| ||Slit width 2 arcsec||
-|b1041-b1044|4|2024gvz        |900| ||Slit width 2 arcsec||
-|r0041-r0044|4|2024gvz        |900| ||Slit width 2 arcsec||
+|b1041-b1044|4|2024abqv        |900| ||Slit width 2 arcsec||
+|r0041-r0044|4|2024abqv        |900| ||Slit width 2 arcsec||
 |b1045-b1048|4|2024aeee        |900| ||Slit width 2 arcsec||
 |r0045-r0048|4|2024aeee        |900| ||Slit width 2 arcsec||
+|b1049-b1052|4|2025gj        |1200| ||Slit width 2 arcsec||
+|r0049-r0052|4|2025gj        |1200| ||Slit width 2 arcsec||
