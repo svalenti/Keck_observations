@@ -31,8 +31,8 @@
 |r0007-r1017|11|Flat        |8.5| ||Regular Blue Lamp|
 |b0018-b1028|11|Bias        |0| ||Slit width 0.5 arcsec|
 |r0018-r1028|11|Bias        |0| ||Slit width 0.5 arcsec|
-|b1029|1|Feige11        |240| |||
-|r0029|1|Feige11        |150| |||
+|b1029|1|Feige11        |240| ||Slit width 2 arcsec||
+|r0029|1|Feige11        |150| ||Slit width 2 arcsec||
 
 
 
