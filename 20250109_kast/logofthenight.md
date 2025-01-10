@@ -33,8 +33,11 @@
 |r0018-r1028|11|Bias        |0| ||Slit width 0.5 arcsec|
 |b1029|1|Feige11        |240| ||Slit width 2 arcsec||
 |r0029|1|Feige11        |150| ||Slit width 2 arcsec||
-|b1030-b1035|1|2024xal        |6x1200| ||Slit width 2 arcsec||
-|r0030-r0035|1|2024xal        |6x1200| ||Slit width 2 arcsec||
-|b1035-b1040|1|2024gvz        |6x1200| ||Slit width 2 arcsec||
-|r0035-r0040|1|2024gvz        |6x1200| ||Slit width 2 arcsec||
-
+|b1030-b1035|6|2024xal        |1200| ||Slit width 2 arcsec||
+|r0030-r0035|6|2024xal        |1200| ||Slit width 2 arcsec||
+|b1035-b1040|6|2024gvz        |1200| ||Slit width 2 arcsec||
+|r0035-r0040|6|2024gvz        |1200| ||Slit width 2 arcsec||
+|b1041-b1044|4|2024gvz        |900| ||Slit width 2 arcsec||
+|r0041-r0044|4|2024gvz        |900| ||Slit width 2 arcsec||
+|b1045-b1048|4|2024aeee        |900| ||Slit width 2 arcsec||
+|r0045-r0048|4|2024aeee        |900| ||Slit width 2 arcsec||
