@@ -4,8 +4,8 @@
 * Seeing: ~2.6'' at the start, ~1.5'' near the end
 * SA: Jon Rees
 * OA: Shawn and Paul
-* Data Directory: 
-* Data Directory on Dark: 
+* Data Directory: https://mthamilton.ucolick.org/data/
+* Data Directory on Dark: /dark/hal/data/20250109_Lick/
 * Starlist: 
 * Setup saved to: /hoang/20240109_lowres.kast
 
