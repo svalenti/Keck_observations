@@ -33,6 +33,7 @@
 |r0018-r1028|11|Bias        |0| ||Slit width 0.5 arcsec|
 |b1029|1|Feige11        |240| ||Slit width 2 arcsec||
 |r0029|1|Feige11        |150| ||Slit width 2 arcsec||
-
+|b1030-b1035|1|2024xal        |6x1200| ||Slit width 2 arcsec||
+|r0030-r0035|1|2024xal        |6x1200| ||Slit width 2 arcsec||
 
 
