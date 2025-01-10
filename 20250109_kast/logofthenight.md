@@ -47,3 +47,5 @@
 |r1053|1|BD33d2642        |150| ||Slit width 2 arcsec||
 |b1054-b1058|5|2024iss        |1200| ||Slit width 2 arcsec||
 |r1054-r1058|5|2024iss        |1200| ||Slit width 2 arcsec||
+|b1059|1|HZ44        |240| ||Slit width 2 arcsec||
+|r1059|1|HZ44        |150| ||Slit width 2 arcsec||
