@@ -45,5 +45,5 @@
 |r1049-r1052|4|2025gj        |1200| ||Slit width 2 arcsec||
 |b1053|1|BD33d2642        |240| ||Slit width 2 arcsec||
 |r1053|1|BD33d2642        |150| ||Slit width 2 arcsec||
-|b1054-b1057|4|2024iss        |1200| ||Slit width 2 arcsec||
-|r1054-r1057|4|2024iss        |1200| ||Slit width 2 arcsec||
+|b1054-b1058|5|2024iss        |1200| ||Slit width 2 arcsec||
+|r1054-r1058|5|2024iss        |1200| ||Slit width 2 arcsec||
