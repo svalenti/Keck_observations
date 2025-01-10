@@ -1,9 +1,9 @@
 # Observation Log 20250109
 
-* Conditions: 
-* Seeing: 
+* Conditions: Start of the night with above limits wind. Opened telescope around 19:15.
+* Seeing: ~2.6'' 
 * SA: Jon Rees
-* OA: 
+* OA: Shawn
 * Data Directory: 
 * Data Directory on Dark: 
 * Starlist: 
@@ -28,8 +28,11 @@
 |b0004-b1006|3|Arc        |15| ||Slit width 2 arcsec|
 |r0004-b1006|3|Arc        |2| ||Slit width 2 arcsec|
 |b0007-b1017|11|Flat        |30| ||Super Blue Dimmer at 80%|
-|r0007-b1017|11|Flat        |8.5| ||Regular Blue Lamp|
+|r0007-r1017|11|Flat        |8.5| ||Regular Blue Lamp|
 |b0018-b1028|11|Bias        |0| ||Slit width 0.5 arcsec|
-|r0018-b1028|11|Bias        |0| ||Slit width 0.5 arcsec|
+|r0018-r1028|11|Bias        |0| ||Slit width 0.5 arcsec|
+|b1029|1|Feige11        |240| |||
+|r0029|1|Feige11        |150| |||
+
 
 
