@@ -19,6 +19,29 @@ from astropy.coordinates import SkyCoord
 from astropy import units as u
 iraf.set(stdimage='imt4096')
 #############################
+def ingest_to_database(ra0,dec0,nn,xr,yr,AB,CD,r,d):
+    import alicesql
+    hostname, username, passwd, database = alicesql.getconnection()
+    conn = alicesql.dbConnect(hostname, username, passwd, database)
+    print(ra0,dec0,nn, xr,yr, AB,CD,r,d)
+    _targetid = alicesql.gettargetid('',ra0,dec0,conn,_radius= 4)#,add=False, verbose=False, interactive=False)
+    _SNname = alicesql.getobjectinfo('',ra0,dec0,_targetid)
+    print (_SNname)
+    dictionary2 ={'targetid':_targetid,
+                  'name':_SNname['names'][0] +'_S'+str(nn),
+                  'offset_EW': str(AB),
+                  'offset_NS':str(CD),
+                  'ra0':  xr,
+                  'dec0': yr,
+                  'SNname':_SNname['names'][0],
+                  'SN_RA':r,
+                  'SN_Dec':d,
+    }
+    alicesql.insert_values(conn, 'offsetstars' ,dictionary2)
+    print('found it ',int(_targetid))
+    
+    
+#############################
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(usage=usage, description=description, version="%prog 1.0")
     parser.add_argument('filename', help='file name of a .fits image to use as the finding chart')
@@ -28,10 +51,13 @@ if __name__ == "__main__":
     parser.add_argument('--z1-inset', type=float, help='z-scale in inset (default same as main image)')
     parser.add_argument('--z2-inset', type=float, help='z-scale in inset (default same as main image)')
     parser.add_argument('--fov', default=5., type=float, help='size of main image in arcmin')
+    parser.add_argument("-i", "--ingest", action="store_true",
+                      dest='ingest', default=False, help='ingest offsetstar in dtabase  \t\t\t [%default]')
     parser.add_argument('--fov-inset', default=1., type=float, help='size of inset in arcmin')
     args = parser.parse_args()
     img = args.filename
     name = args.name
+    _ingest = args.ingest
     _z1 = args.z1
     _z2 = args.z2
     _z1inset = args.z1_inset
@@ -90,7 +116,7 @@ if __name__ == "__main__":
     yd = row2dec(float(y))
 
     raw_input('stop')
-    plt.ion()
+    #plt.ion()
     plt.rcParams['figure.figsize'] =12, 7
     plt.rcParams['figure.facecolor']='white'
     ax = plt.axes([.09,.103,.5,.85])
@@ -127,7 +153,7 @@ if __name__ == "__main__":
     y1=string.split(d,':')[1]
     y2=string.split(d,':')[2]
 
-    xx=int(x0)+((int(x1)+(float(x2)/60.))/60.)*15
+    xx=(int(x0)+((int(x1)+(float(x2)/60.))/60.))*15
     if '-' in str(y0):            yy=abs(int(y0))+((int(y1)+(float(y2)/60.))/60.)*(-1.)
     else:        yy=int(y0)+((int(y1)+(float(y2)/60.))/60.)
     simbolo=['d','*','p','s']
@@ -168,13 +194,18 @@ if __name__ == "__main__":
         #AB=(xx-xx0)*3600*math.cos(yy0*math.pi/180)
         #CD=(yy-yy0)*3600
         
-        print 'offset:', AB,CD
+        print('offset:', AB,CD)
         if float(AB)<0:  AB1='W'
         else:            AB1='E'
         if float(CD)<0:  CD1='S'
         else:            CD1='N'
-        plt.figtext(0.7, 0.7-nn*.06, 'From #'+str(nn+1)+' to SN', color=colore[nn], backgroundcolor='white', size='large')
-        plt.figtext(0.7, 0.67-nn*.06, '{:4.2f}"{} {:4.2f}"{}'.format(abs(AB), str(AB1), abs(CD), str(CD1)), color=colore[nn], backgroundcolor='white', size='large')
+        line1 = 'From #'+str(nn+1)+' to SN'
+        line2 = '{:4.2f}"{} {:4.2f}"{}'.format(abs(AB), str(AB1), abs(CD), str(CD1))
+        plt.figtext(0.7, 0.7-nn*.06, line1, color=colore[nn], backgroundcolor='white', size='large')
+        plt.figtext(0.7, 0.67-nn*.06, line2, color=colore[nn], backgroundcolor='white', size='large')
+        if _ingest is True:
+            ingest_to_database(xx,yy,nn+1,xr,yr,AB,CD,r,d)
+        
     plt.legend(numpoints=1, markerscale=.6, loc=(1.1,.8), fancybox=True)
 
     # draw the inset
@@ -191,5 +222,7 @@ if __name__ == "__main__":
     plt.xlim(xd + fovinset/2, xd - fovinset/2)
     plt.ylim(yd - fovinset/2, yd + fovinset/2)
     ax.get_xaxis().set_major_locator(ticker.MultipleLocator(round(fovinset/3,3)))
-    raw_input('\n Save the FC and then press <enter> ')
+    plt.show()
+    #plt.savefig(name+'.png')
+    #raw_input('\n Save the FC and then press <enter> ')
 
