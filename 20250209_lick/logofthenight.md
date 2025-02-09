@@ -1,9 +1,9 @@
-# Observation Log 20250109
+# Observation Log 20250209
 
 * Conditions: 
 * Seeing: ~'' at the start, ~'' near the end
 * SA: Jon Rees
-* OA: 
+* OA: Jeff
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20250209_Lick/
 * Starlist: 
@@ -15,8 +15,10 @@
 * Blue grism 452/3306
 * Red grating 300/7500
 * Xstage setup: 15.65mm shift
-* Blue Focus:  mm 
-* Red Focus:  mm 
+* Blue window: 400 2048 800 0
+* Red window: 2725 400 650 420
+* Blue Focus: 22.280 mm 
+* Red Focus: 1.594 mm 
 
 ### Central wavelength= around 7770
 
