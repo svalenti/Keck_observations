@@ -33,5 +33,5 @@
 |r1007-r1017|11|Flat        |8.5| ||Regular Blue Lamp|
 |b1018-b1028|11|Bias        |0| ||Slit width 0.5 arcsec|
 |r1018-r1028|11|Bias        |0| ||Slit width 0.5 arcsec|
-
-
+|b1029|1|HD19445        |40| ||Slit width 2 arcsec||
+|r1029|1|HD19445        |10| ||Slit width 2 arcsec||
