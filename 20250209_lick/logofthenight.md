@@ -41,4 +41,8 @@
 |r1036-40|4|2024aeee        |1200| ||Slit width 2 arcsec, 1037 no trace||
 |b1041-44|4|2025qe        |1200| ||Slit width 2 arcsec||
 |r1041-44|4|2025qe        |1200| ||Slit width 2 arcsec||
+|b1045-49|5|2025ane        |1200| ||Slit width 2 arcsec||
+|r1045-49|5|2025ane        |1200| ||Slit width 2 arcsec||
+|b1050-53|4|2024aecx        |1200| ||Slit width 2 arcsec||
+|r1050-53|4|2024aecx        |1200| ||Slit width 2 arcsec||
 
