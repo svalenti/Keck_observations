@@ -46,5 +46,5 @@
 |r1045-49|5|2025ane        |1200| ||Slit width 2 arcsec||
 |b1050-53|4|2024aecx        |1200| ||Slit width 2 arcsec||
 |r1050-53|4|2024aecx        |1200| ||Slit width 2 arcsec||
-|b1054-64|11|Flat        |60 ||Super Blue Dimmer at 100% 0.5 arcsec||
-|r1054-64|11|Flat        |30 ||Regular Blue Lamp 0.5 arcsec||
+|b1054-64|11|Flat        |60 |||Super Blue Dimmer at 100% 0.5 arcsec||
+|r1054-64|11|Flat        |30 |||Regular Blue Lamp 0.5 arcsec||
