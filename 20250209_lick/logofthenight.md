@@ -1,7 +1,7 @@
 # Observation Log 20250209
 
 * Conditions: 
-* Seeing: ~'' at the start, ~'' near the end
+* Seeing: ~2.0'' at the start, ~'' near the end
 * SA: Jon Rees
 * OA: Jeff
 * Data Directory: https://mthamilton.ucolick.org/data/
@@ -35,3 +35,11 @@
 |r1018-r1028|11|Bias        |0| ||Slit width 0.5 arcsec|
 |b1029|1|HD19445        |40| ||Slit width 2 arcsec||
 |r1029|1|HD19445        |10| ||Slit width 2 arcsec||
+|b1030-35|6|2024xal        |1200| ||Slit width 0.5 arcsec oops||
+|r1030-35|6|2024xal        |1200| ||Slit width 0.5 arcsec oops||
+|b1036-39|4|2024aeee        |1200| ||Slit width 2 arcsec||
+|r1036-39|4|2024aeee        |1200| ||Slit width 2 arcsec||
+|b1040-43|4|2025qe        |1200| ||Slit width 2 arcsec||
+|r1040-43|4|2025qe        |1200| ||Slit width 2 arcsec||
+|b1044-45|2|2025gj        |600| ||Slit width 2 arcsec||
+|r1044-45|2|2025gj        |600| ||Slit width 2 arcsec||
