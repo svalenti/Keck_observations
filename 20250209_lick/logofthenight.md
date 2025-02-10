@@ -37,9 +37,8 @@
 |r1029|1|HD19445        |10| ||Slit width 2 arcsec||
 |b1030-35|6|2024xal        |1200| ||Slit width 0.5 arcsec oops||
 |r1030-35|6|2024xal        |1200| ||Slit width 0.5 arcsec oops||
-|b1036-39|4|2024aeee        |1200| ||Slit width 2 arcsec, 1037 no trace||
-|r1036-39|4|2024aeee        |1200| ||Slit width 2 arcsec, 1037 no trace||
-|b1040-43|4|2025qe        |1200| ||Slit width 2 arcsec||
-|r1040-43|4|2025qe        |1200| ||Slit width 2 arcsec||
-|b1044-45|2|2025gj        |600| ||Slit width 2 arcsec||
-|r1044-45|2|2025gj        |600| ||Slit width 2 arcsec||
+|b1036-40|4|2024aeee        |1200| ||Slit width 2 arcsec, 1037 no trace||
+|r1036-40|4|2024aeee        |1200| ||Slit width 2 arcsec, 1037 no trace||
+|b1041-44|4|2025qe        |1200| ||Slit width 2 arcsec||
+|r1041-44|4|2025qe        |1200| ||Slit width 2 arcsec||
+
