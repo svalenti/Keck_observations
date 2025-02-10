@@ -8,6 +8,7 @@
 * Data Directory on Dark: /dark/hal/data/20250209_Lick/
 * Starlist: 
 * Setup saved to: /hoang/20250209_lowres.kast
+* Observers: Emily Hoang, Darshana Mehta, Nico Meza Retamal, Martin Schikarski
 
 ## Setup: 
 
@@ -45,4 +46,5 @@
 |r1045-49|5|2025ane        |1200| ||Slit width 2 arcsec||
 |b1050-53|4|2024aecx        |1200| ||Slit width 2 arcsec||
 |r1050-53|4|2024aecx        |1200| ||Slit width 2 arcsec||
-
+|b1054-64|11|Flat        |60 ||Super Blue Dimmer at 100% 0.5 arcsec||
+|r1054-64|11|Flat        |30 ||Regular Blue Lamp 0.5 arcsec||
