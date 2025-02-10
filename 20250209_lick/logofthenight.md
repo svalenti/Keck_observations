@@ -29,8 +29,8 @@
 |r1001-b1003|3|Arc        |3| ||Slit width 0.5 arcsec|
 |b1004-b1006|3|Arc        |15| ||Slit width 2 arcsec|
 |r1004-b1006|3|Arc        |2| ||Slit width 2 arcsec|
-|b1007-b1017|11|Flat        |30| ||Super Blue Dimmer at 80%|
-|r1007-r1017|11|Flat        |8.5| ||Regular Blue Lamp|
+|b1007-b1017|11|Flat        |30| ||Super Blue Dimmer at 80% 2 arcsec|
+|r1007-r1017|11|Flat        |8.5| ||Regular Blue Lamp 2 arcsec|
 |b1018-b1028|11|Bias        |0| ||Slit width 0.5 arcsec|
 |r1018-r1028|11|Bias        |0| ||Slit width 0.5 arcsec|
 |b1029|1|HD19445        |40| ||Slit width 2 arcsec||
