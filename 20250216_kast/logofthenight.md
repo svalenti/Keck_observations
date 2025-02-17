@@ -1,9 +1,9 @@
 # Observation Log 20250216
 
-* Conditions: 
+* Conditions: Rain at the start, started to get foggy, high humidity
 * Seeing: ~'' at the start
 * SA: Paul
-* OA: Matt
+* OA: Matt and norm
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20250216_Lick/
 * Starlist: 
