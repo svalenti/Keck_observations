@@ -31,8 +31,8 @@
 |b1029|1|Feige34       |180| ||shutter closed, don't use|
 |b1030|1|Feige34       |180| ||Slit width 2.0 arcsec|
 |b1031-b1034|4|2025gj       |1200| ||Slit width 2.0 arcsec|
-|b1030|6|2025cfc       |1200| ||Slit width 2.0 arcsec|
-|b1030|1|2025fvw       |900| ||Slit width 2.0 arcsec|
-|b1030|1|202       |180| ||Slit width 2.0 arcsec|
+|b1035-b0138|4|2025cfc       |1200| ||Slit width 2.0 arcsec|
+|b1039-b041|3|2025fvw       |900| ||Slit width 2.0 arcsec|
+|b1042-45|4|2024jlf       |1200| ||Slit width 2.0 arcsec|
 
 
