@@ -33,6 +33,8 @@
 |b1031-b1034|4|2025gj       |1200| ||Slit width 2.0 arcsec|
 |b1035-b0138|4|2025cfc       |1200| ||Slit width 2.0 arcsec|
 |b1039-b041|3|2025fvw       |900| ||Slit width 2.0 arcsec|
-|b1042-45|4|2024jlf       |1200| ||Slit width 2.0 arcsec|
+|b1042-45|4|2025gjc      |1200| ||Slit width 2.0 arcsec|
+|b1046-49|4|2024jlf     |1200| ||Slit width 2.0 arcsec|
+
 
 
