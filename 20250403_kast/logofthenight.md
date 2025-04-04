@@ -35,6 +35,7 @@
 |b1039-b041|3|2025fvw       |900| ||Slit width 2.0 arcsec|
 |b1042-45|4|2025gjc      |1200| ||Slit width 2.0 arcsec|
 |b1046-49|4|2024jlf     |1200| ||Slit width 2.0 arcsec|
+|b1050|1|HZ44     |240| ||Slit width 2.0 arcsec|
 
 
 
