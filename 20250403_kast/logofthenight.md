@@ -1,7 +1,7 @@
 # Observation Log 20250403
 
-* Conditions: No red-side spectrograph
-* Seeing: ~'' at the start
+* Conditions: High humidity ~80-85%. No red-side spectrograph
+* Seeing: ~1.6' at the start
 * SA: Paul
 * OA: 
 * Data Directory: https://mthamilton.ucolick.org/data/
@@ -18,7 +18,6 @@
 ----------------------------
 * Blue window: 400 2048 800 0
 * Blue Focus: 20.856 mm 
-* Seeing ~1.6
 * 
 ### Central wavelength= around 7770
 
