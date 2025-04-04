@@ -17,8 +17,9 @@
 * Xstage setup: 15.65mm shift
 ----------------------------
 * Blue window: 400 2048 800 0
-* Blue Focus: 23.112 mm 
-
+* Blue Focus: 20.856 mm 
+* Seeing ~1.6
+* 
 ### Central wavelength= around 7770
 
 
@@ -29,5 +30,10 @@
 |b1007-b1017|11|Flat        |20| ||Super Blue Dimmer at 80% 2 arcsec|
 |b1018-b1028|11|Bias        |0| ||Slit width 0.5 arcsec|
 |b1029|1|Feige34       |180| ||shutter closed, don't use|
-|b1029|1|Feige34       |180| ||Slit width 2.0 arcsec|
+|b1030|1|Feige34       |180| ||Slit width 2.0 arcsec|
+|b1031-b1034|4|2025gj       |1200| ||Slit width 2.0 arcsec|
+|b1030|6|2025cfc       |1200| ||Slit width 2.0 arcsec|
+|b1030|1|2025fvw       |900| ||Slit width 2.0 arcsec|
+|b1030|1|202       |180| ||Slit width 2.0 arcsec|
+
 
