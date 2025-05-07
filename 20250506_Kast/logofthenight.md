@@ -1,14 +1,14 @@
 # Observation Log 20250506
 
-* Conditions: 
+* Conditions: Initial particle counts were high; dome stuck for 30 min; good weather overall
 * Seeing: 1.5"
 * SA: Elinor
 * OA: Shawn / Matt
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20250403_Lick/
-* Starlist: /mnt/shaenobs/observers/hoang/starlist_20250403(1).txt
-* Setup saved to: /hoang/20250403_lowres.kast
-* Observers: Hoang, Mehta, Meza Retamal
+* Starlist: /mnt/shaenobs/observers/hoang/starlist_20250506.txt
+* Setup saved to: /hoang/20250506_lowres.kast
+* Observers: Meza-Retamal, Ravi
 
 ## Setup: 
 
