@@ -28,13 +28,14 @@
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
-||3|HgCdArNe Arc Blue       |3| ||Slit width 0.5 arcsec|
-||3|HgCdArNe Arc Red        |30| ||Slit width 0.5 arcsec|
-||3|HgCdArNe Arc Blue       |3| ||Slit width 2 arcsec|
-||3|HgCdArNe Arc Red        |30| ||Slit width 2 arcsec|
-||11|Flats Blue             |30| ||Super Blue Dimmer at 90% 2 arcsec|
-||11|Flats Red              |8.5| ||Blue Lamp 2 arcsec|
-||11|Bias                   |0| ||Slit width 0.5 arcsec|
+|b1001-1003|3|HgCdArNe Arc       |3| ||Slit width 0.5 arcsec|
+|r1001-1003|3|HgCdArNe Arc        |30| ||Slit width 0.5 arcsec|
+|b1004-1006|3|HgCdArNe Arc        |3| ||Slit width 2 arcsec|
+|r1004-1006|3|HgCdArNe Arc        |30| ||Slit width 2 arcsec|
+|b1007-1017|11|Flats              |30| ||Super Blue Dimmer at 90% 2 arcsec|
+|r1007-1017|11|Flats Red              |8.5| ||Blue Lamp 2 arcsec|
+|b1019-1028|11|Bias                   |0| ||Slit width 0.5 arcsec|
+|r1019-1028|11|Bias                   |0| ||Slit width 0.5 arcsec|
 |b1029|1|Feige34  Blue          |180| ||Slit width 2 arcsec|
 |r1029|1|Feige34  Red          |100| ||Slit width 2 arcsec|
 |b1030|1|BD262606  Blue          |180| ||Slit width 2 arcsec|
