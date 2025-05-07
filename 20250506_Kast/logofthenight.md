@@ -12,24 +12,31 @@
 
 ## Setup: 
 
-* Dichroic [mirror]
+* Dichroic d57
 * Blue grism 452/3306
+* Red grating 300/7500
+* Grating tilt 4714
 * Xstage setup: 15.65mm shift
 ----------------------------
 * Blue window: 400 2048 800 0
-* Blue Focus: 20.856 mm 
-* 
+* Red window: 2725 400 650 420
+* Blue Focus: 24.0103 mm
+* Red Focus: 5.2846
+
 ### Central wavelength= around 7770
 
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
-||3|Arc        |15| ||Slit width 2 arcsec|
-||3|Arc        |30| ||Slit width 0.5 arcsec|
-||11|Flat        |20| ||Super Blue Dimmer at 80% 2 arcsec|
-||11|Bias        |0| ||Slit width 0.5 arcsec|
-|b1029|1|Feige34       |180| |||
-|b1030|1|Feige34       |180| |||
+||3|HgCdArNe Arc Blue       |3| ||Slit width 0.5 arcsec|
+||3|HgCdArNe Arc Red        |30| ||Slit width 0.5 arcsec|
+||3|HgCdArNe Arc Blue       |3| ||Slit width 2 arcsec|
+||3|HgCdArNe Arc Red        |30| ||Slit width 2 arcsec|
+||11|Flats Blue             |30| ||Super Blue Dimmer at 90% 2 arcsec|
+||11|Flats Red              |8.5| ||Blue Lamp 2 arcsec|
+||11|Bias                   |0| ||Slit width 0.5 arcsec|
+|b1029|1|Feige34            |180| |||
+|b1030|1|Feige34            |180| |||
 
 
 
