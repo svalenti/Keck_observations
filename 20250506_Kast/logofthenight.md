@@ -40,8 +40,8 @@
 |r1029|1|Feige34           |100| ||Slit width 2 arcsec|
 |b1030|1|BD262606           |180| ||Slit width 2 arcsec|
 |r1030|1|BD262606         |100| ||Slit width 2 arcsec|
-|b1031-1033|3|2025cfc          |1200| ||Close to moon ~11 deg separation|
-|r1031-1033|3|2025cfc          |1200| ||Close to moon ~11 deg separation|
+|b1031-1033|3|2025cfc          |3x1200| ||Close to moon ~11 deg separation|
+|r1031-1033|3|2025cfc          |3x1200| ||Close to moon ~11 deg separation|
 
 
 
