@@ -21,7 +21,7 @@
 * Blue window: 400 2048 800 0
 * Red window: 2725 400 650 420
 * Blue Focus: 24.0103 mm
-* Red Focus: 5.2846
+* Red Focus: 5.2846 mm
 
 ### Central wavelength= around 7770
 
