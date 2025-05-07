@@ -1,9 +1,9 @@
 # Observation Log 20250506
 
 * Conditions: 
-* Seeing: 
-* SA: Paul
-* OA: 
+* Seeing: 1.5"
+* SA: Elinor
+* OA: Shawn / Matt
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20250403_Lick/
 * Starlist: /mnt/shaenobs/observers/hoang/starlist_20250403(1).txt
@@ -35,8 +35,11 @@
 ||11|Flats Blue             |30| ||Super Blue Dimmer at 90% 2 arcsec|
 ||11|Flats Red              |8.5| ||Blue Lamp 2 arcsec|
 ||11|Bias                   |0| ||Slit width 0.5 arcsec|
-|b1029|1|Feige34            |180| |||
-|b1030|1|Feige34            |180| |||
+|b1029|1|Feige34  Blue          |180| ||Slit width 2 arcsec|
+|r1029|1|Feige34  Red          |100| ||Slit width 2 arcsec|
+|b1030|1|BD262606  Blue          |180| ||Slit width 2 arcsec|
+|r1030|1|BD262606  Red          |100| ||Slit width 2 arcsec|
+
 
 
 
