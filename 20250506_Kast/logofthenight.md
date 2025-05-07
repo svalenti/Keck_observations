@@ -28,20 +28,31 @@
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
-|b1001-1003|3|HgCdArNe Arc       |30| ||Slit width 0.5 arcsec|
-|r1001-1003|3|HgCdArNe Arc        |3| ||Slit width 0.5 arcsec|
-|b1004-1006|3|HgCdArNe Arc        |30| ||Slit width 2 arcsec|
-|r1004-1006|3|HgCdArNe Arc        |3| ||Slit width 2 arcsec|
-|b1007-1017|11|Flats              |30| ||Super Blue Dimmer at 90% 2 arcsec|
-|r1007-1017|11|Flats               |8.5| ||Blue Lamp 2 arcsec|
-|b1019-1028|11|Bias                   |0| |||
-|r1019-1028|11|Bias                   |0| |||
-|b1029|1|Feige34           |180| ||Slit width 2 arcsec|
-|r1029|1|Feige34           |100| ||Slit width 2 arcsec|
-|b1030|1|BD262606           |180| ||Slit width 2 arcsec|
-|r1030|1|BD262606         |100| ||Slit width 2 arcsec|
+|b1001-1003|3|HgCdArNe Arc     |30| ||Slit width 0.5 arcsec|
+|r1001-1003|3|HgCdArNe Arc     |3| ||Slit width 0.5 arcsec|
+|b1004-1006|3|HgCdArNe Arc     |30| ||Slit width 2 arcsec|
+|r1004-1006|3|HgCdArNe Arc     |3| ||Slit width 2 arcsec|
+|b1007-1017|11|Flats           |30| ||Super Blue Dimmer at 90% 2 arcsec|
+|r1007-1017|11|Flats           |8.5| ||Blue Lamp 2 arcsec|
+|b1019-1028|11|Bias            |0| |||
+|r1019-1028|11|Bias            |0| |||
+|b1029|1|Feige34               |180| ||Slit width 2 arcsec|
+|r1029|1|Feige34               |100| ||Slit width 2 arcsec|
+|b1030|1|BD262606              |180| ||Slit width 2 arcsec|
+|r1030|1|BD262606              |100| ||Slit width 2 arcsec|
 |b1031-1033|3|2025cfc          |1200| ||Close to moon ~11 deg separation|
 |r1031-1033|3|2025cfc          |1200| ||Close to moon ~11 deg separation|
+|b1034-1038|5|2025adj          |1200| |||
+|r1034-1038|5|2025adj          |1200| |||
+|b1039-1041|3|2025fvw          |900| |||
+|r1039-1041|3|2025fvw          |900| |||
+|b1042-1043|2|2025gvs          |1200| |||
+|r1042-1043|2|2025gvs          |1200| |||
+|b1044|1|BD262606              |180| ||Slit width 2 arcsec|
+|r1044|1|BD262606              |100| ||Slit width 2 arcsec|
+|b1045|1|BD33d2642             |180| ||Slit width 2 arcsec|
+|r1045|1|BD33d2642             |100| ||Slit width 2 arcsec|
+
 
 
 
