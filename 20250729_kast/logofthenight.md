@@ -1,9 +1,9 @@
 # Observation Log 20250729
 
-* Conditions: 
-* Seeing: "
+* Conditions: Big particles from fires, started a bit late
+* Seeing: 1.2" at the start
 * SA: 
-* OA: 
+* OA: Shawn
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20250729_Lick/
 * Starlist: /mnt/shaenobs/observers/hoang/starlist_20250729.txt
@@ -30,7 +30,7 @@
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
 |b1001-1003|3|arc     |14| ||Slit width 2 arcsec|
 |r1001-1003|3|arc     |2| ||Slit width 2 arcsec|
-|b1004-1006|3|arc_0p5 |30| ||Slit width 0.5 arcsec; Nothing wrong but don't use. 
+|b1004-1006|3|arc_0p5 |30| ||Slit width 0.5 arcsec; Nothing wrong but don't use. |
 |b1007-1009|3|arc_0p5 |30| ||Slit width 0.5 arcsec|
 |r1007-1009|3|arc_0p5     |3| ||Slit width 0.5 arcsec|
 |b1010-1020|11|Flats           |30| ||Super Blue Dimmer at 90% 2 arcsec|
