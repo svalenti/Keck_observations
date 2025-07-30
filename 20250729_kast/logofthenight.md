@@ -16,9 +16,10 @@
 * Blue grism 452/3306
 * Red grating 300/7500
 * Grating tilt 4718
-* Xstage setup: 15.65mm shift
+* Xstage blue shift: 15.65mm
+* Ystage blue shift: 0.5mm
 ----------------------------
-* Blue window: 400 2048 800 0
+* Blue window: 400 2048 900 0
 * Red window: 2725 400 650 420
 * Blue Focus: 25.473 mm
 * Red Focus: -0.393 mm
