@@ -32,6 +32,7 @@
 |b1001-1003|3|arc     |14| ||Slit width 2 arcsec|
 |r1001-1003|3|arc     |2| ||Slit width 2 arcsec|
 |b1004-1006|3|arc_0p5 |30| ||Slit width 0.5 arcsec; Nothing wrong but don't use. |
+|r1004-1006|3|arc_0p5     |3| ||Wrong sdiagmir setting, DON'T USE|
 |b1007-1009|3|arc_0p5 |30| ||Slit width 0.5 arcsec|
 |r1007-1009|3|arc_0p5     |3| ||Slit width 0.5 arcsec|
 |b1010-1020|11|Flats           |30| ||Super Blue Dimmer at 90% 2 arcsec|
