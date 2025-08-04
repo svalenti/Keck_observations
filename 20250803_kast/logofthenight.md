@@ -8,7 +8,7 @@
 * Data Directory on Dark: /dark/hal/data/20250803_Lick/
 * Starlist: /mnt/shaenobs/observers/hoang/starlist_20250803.txt
 * Setup saved to: /hoang/20250803_lowres.kast
-* Observers: Emily, Darshana, Aravind, Luke, Aidan, Melissa
+* Observers: Emily, Darshana, Aravind, Luke, Aidan, Melissa, Robert
 
 ## Setup: 
 
@@ -37,22 +37,22 @@
 |r1007-1017|11|Flats           |2| ||Blue Lamp 2 arcsec|
 |b1018-1028|11|Bias            |0| |||
 |r1018-1028|11|Bias            |0| |||
-|b1032|1|BD262606              |180| ||Slit width 2 arcsec|
-|r1032|1|BD262606              |100| ||Slit width 2 arcsec|
-|b1033-1037|5|2025fvw         |1200| |||
-|r1033-1037|5|2025fvw          |1200| |||
-|b1038-1039|2|2025rbs         |200| |||
-|r1038-1039|2|2025rbs          |200| |||
-|b1040-1043|4|2024afyu         |1200| |||
-|r1040-1043|4|2024afyu          |1200| |||
-|b1044-1046|3|2025qtt         |1200| |||
-|r1044-1046|3|2025qtt          |1200| |||
-|b1047-1049|3|2025qpk         |600| |||
-|r1047-1049|3|2025qpk          |600| |||
-|b1050-1053|4|2025pjx         |1200| |||
-|r1050-1053|4|2025pjx          |1200| |||
-|b1054|1|G191B2B          |240| |||
-|r1054|1|G191B2B           |150| |||
+|b1029|1|BD33d2642              |180| ||Slit width 2 arcsec|
+|r1029|1|BD33d2642              |100| ||Slit width 2 arcsec|
+|b1030-1033|4|2025ngs         |1200| ||Slit width 2.5 arcsec|
+|r1030-1033|4|2025ngs          |1200| ||Slit width 2.5 arcsec|
+|b1034-1038|5|2025qtt         |200| |||
+|r1034-1038|5|2025qtt          |200| |||
+|b10-10|2|2025rvv         |900| |||
+|r10-10|2|2025rvv          |900| |||
+|b10-10|3|2025qpk         |600| |||
+|r10-10|3|2025qpk          |600| |||
+|b10-10|3|2025rbs         |200| |||
+|r10-10|3|2025rbs          |200| |||
+|b10-10|5|2025pjx         |1200| |||
+|r10-10|5|2025pjx          |1200| |||
+|b10|1|HD19445          |40| |||
+|r10|1|HD19445           |40| |||
 
 
 
