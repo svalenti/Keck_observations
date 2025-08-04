@@ -57,7 +57,11 @@
 |r1053-1054|2|2025shf          |1200| ||Slit width 2 arcsec|
 |b1055|1|2025shf         |600| ||Slit width 2 arcsec|
 |r1055|1|2025shf          |600| ||Slit width 2 arcsec|
-|b1056|1|HD19445          |40| ||Slit width 2 arcsec|
-|r1056|1|HD19445           |10| ||Slit width 2 arcsec|
-|b1057|1|HD194452p5          |40| ||Slit width 2.5 arcsec|
-|r1057|1|HD194452p5           |10| ||Slit width 2.5 arcsec|
+|b1056|1|HD19445          |40| ||Slit width 2 arcsec, be careful of double peak|
+|r1056|1|HD19445           |10| ||Slit width 2 arcsec, be careful of double peak|
+|b1057|1|HD19445_2p5          |40| ||Slit width 2.5 arcsec|
+|r1057|1|HD19445_2p5           |10| ||Slit width 2.5 arcsec|
+|b1058-1060|3|arc_2p5 |13| ||Slit width 0.5 arcsec |
+|r1058-1060|3|arc_2p5     |2| ||Slit width 0.5 arcsec |
+|b1061-1071|11|Flats_2p5           |29| ||Super Blue Dimmer at 90% 2 arcsec|
+|r1061-1071|11|Flats_2p5           |1.8| ||Blue Lamp 2 arcsec|
