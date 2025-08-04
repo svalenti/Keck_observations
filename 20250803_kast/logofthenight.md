@@ -1,9 +1,9 @@
 # Observation Log 202507803
 
-* Conditions: 
-* Seeing: 2.2"
+* Conditions: High winds
+* Seeing: 2.2" at the start, 1.5" in the middle
 * SA: 
-* OA: 
+* OA: Matt/Norm
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20250803_Lick/
 * Starlist: /mnt/shaenobs/observers/hoang/starlist_20250803.txt
@@ -19,7 +19,7 @@
 * Xstage blue shift: 15.65mm
 * Ystage blue shift: 0.5mm
 ----------------------------
-* Blue window: 400 2048 900 0
+* Blue window: 400 2048 950 0
 * Red window: 2725 525 675 409
 * Blue Focus: 23.271 mm
 * Red Focus: -0.231 mm
