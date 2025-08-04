@@ -1,7 +1,7 @@
 # Observation Log 202507803
 
 * Conditions: 
-* Seeing: 
+* Seeing: 2.2"
 * SA: 
 * OA: 
 * Data Directory: https://mthamilton.ucolick.org/data/
