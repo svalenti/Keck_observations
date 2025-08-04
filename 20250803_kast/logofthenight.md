@@ -43,12 +43,12 @@
 |r1030-1033|4|2025ngs          |1200| ||Slit width 2.5 arcsec|
 |b1034|1|BD33d2642              |180| ||Slit width 2.5 arcsec|
 |r1034|1|BD33d2642              |100| ||Slit width 2.5 arcsec|
-|b1034-1038|5|2025qtt         |200| |||
-|r1034-1038|5|2025qtt          |200| |||
-|b10-10|2|2025rvv         |900| |||
-|r10-10|2|2025rvv          |900| |||
-|b10-10|3|2025qpk         |600| |||
-|r10-10|3|2025qpk          |600| |||
+|b1035-1039|5|2025qtt         |1200| ||Slit width 2 arcsec|
+|r1035-1039|5|2025qtt          |1200| ||Slit width 2 arcsec|
+|b1040-1041|2|2025rvv         |900| ||No blue trace visible, slit width 2 arcsec|
+|r1040-1041|2|2025rvv          |900| ||Very faint red trace, slit width 2 arcsec|
+|b1042-1044|3|2025qpk         |600| |||
+|r1042-1044|3|2025qpk          |600| |||
 |b10-10|3|2025rbs         |200| |||
 |r10-10|3|2025rbs          |200| |||
 |b10-10|5|2025pjx         |1200| |||
