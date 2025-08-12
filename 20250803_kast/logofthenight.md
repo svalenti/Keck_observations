@@ -54,7 +54,7 @@
 |b1048-1052|5|2025pjx         |1200| ||Slit width 2 arcsec|
 |r1048-1052|5|2025pjx          |1200| ||Slit width 2 arcsec|
 |b1053-1054|2|2025shf         |1200| ||Slit width 2 arcsec|
-|r1053-1054|2|2025shf          |1200| ||Slit width 2 arcsec|
+|r1053-1054|2|2025shf          |1200| ||Slit width 2 arcsec, first exposure BAD|
 |b1055|1|2025shf         |600| ||Slit width 2 arcsec|
 |r1055|1|2025shf          |600| ||Slit width 2 arcsec|
 |b1056|1|HD19445          |40| ||Slit width 2 arcsec, be careful of double peak|
