@@ -51,10 +51,10 @@
 |r1045|3|2025rbs          |200| ||Slit width 2 arcsec, Decker Unknown ??|
 |b1046-1047|2|2025rbs         |200| ||Slit width 2.0 arcsec|
 |r1046-1047|2|2025rbs          |200| ||Slit width 2.0 arcsec|
-|b10-10|5|2025pjx         |1200| ||Slit width 2 arcsec|
-|r10-10|5|2025pjx          |1200| ||Slit width 2 arcsec|
-|b10-10|3|2025tis         |1200| ||Slit width 2 arcsec|
-|r10-10|3|2025tis          |1200| ||Slit width 2 arcsec|
+|b1048-1054|7|2025pjx         |1200| ||Slit width 2 arcsec|
+|r1048-1054|7|2025pjx          |1200| ||Slit width 2 arcsec|
+|b1055-10|6|2025tis         |600| ||Slit width 2 arcsec|
+|r1055-10|6|2025tis          |600| ||Slit width 2 arcsec|
 |b10|1|HD19445          |40| ||Slit width 2 arcsec|
 |r10|1|HD19445           |10| ||Slit width 2 arcsec|
 |r1055|1|2025shf          |600| ||Slit width 2 arcsec|
