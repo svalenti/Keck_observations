@@ -47,8 +47,8 @@
 |r1038-1042|5|2025qtt          |1200| ||Slit width 2 arcsec|
 |b1043-1044|2|2025rbs         |200| ||Slit width 0.5 arcsec|
 |r1043-1044|2|2025rbs          |200| ||Slit width 0.5 arcsec|
-|b1045|3|2025rbs         |200| ||Slit width 2 arcsec, Decker Unknown ??| 
-|r1045|3|2025rbs          |200| ||Slit width 2 arcsec, Decker Unknown ??|
+|b1045|1|2025rbs         |200| ||Slit width 2 arcsec, Decker Unknown ??| 
+|r1045|1|2025rbs          |200| ||Slit width 2 arcsec, Decker Unknown ??|
 |b1046-1047|2|2025rbs         |200| ||Slit width 2.0 arcsec|
 |r1046-1047|2|2025rbs          |200| ||Slit width 2.0 arcsec|
 |b1048-1054|7|2025pjx         |1200| ||Slit width 2 arcsec|
