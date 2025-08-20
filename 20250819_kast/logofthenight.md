@@ -1,7 +1,7 @@
 # Observation Log 20250819
 
 * Conditions: 
-* Seeing: 1.1"
+* Seeing: 1.1",1.3"
 * SA: 
 * OA: Norm/Matt
 * Data Directory: https://mthamilton.ucolick.org/data/
