@@ -1,14 +1,14 @@
-# Observation Log 202507803
+# Observation Log 20250819
 
-* Conditions: High winds
-* Seeing: 2.2" at the start, 1.5" in the middle
+* Conditions: 
+* Seeing:
 * SA: 
 * OA: Matt/Norm
 * Data Directory: https://mthamilton.ucolick.org/data/
-* Data Directory on Dark: /dark/hal/data/20250803_Lick/
-* Starlist: /mnt/shaenobs/observers/hoang/starlist_20250803.txt
-* Setup saved to: /hoang/20250803_lowres.kast
-* Observers: Emily, Darshana, Aravind, Luke, Aidan, Melissa, Robert
+* Data Directory on Dark: /dark/hal/data/20250819_Lick/
+* Starlist: /mnt/shaenobs/observers/hoang/starlist_20250819.txt
+* Setup saved to: /hoang/20250819_lowres.kast
+* Observers: Emily, Darshana, Nico, Luke, Melissa, Walter
 
 ## Setup: 
 
