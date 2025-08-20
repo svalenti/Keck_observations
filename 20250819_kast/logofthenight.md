@@ -3,7 +3,7 @@
 * Conditions: 
 * Seeing:
 * SA: 
-* OA: Matt/Norm
+* OA: Norm
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20250819_Lick/
 * Starlist: /mnt/shaenobs/observers/hoang/starlist_20250819.txt
