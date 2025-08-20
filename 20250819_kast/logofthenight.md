@@ -55,8 +55,5 @@
 |r1048-1054|7|2025pjx          |1200| ||Slit width 2 arcsec|
 |b1055-10|6|2025tis         |600| ||Slit width 2 arcsec|
 |r1055-10|6|2025tis          |600| ||Slit width 2 arcsec|
-|b10|1|HD19445          |40| ||Slit width 2 arcsec|
-|r10|1|HD19445           |10| ||Slit width 2 arcsec|
-|r1055|1|2025shf          |600| ||Slit width 2 arcsec|
-|b1056|1|HD19445          |40| ||Slit width 2 arcsec, be careful of double peak|
-|r1056|1|HD19445           |10| ||Slit width 2 arcsec, be careful of double peak|
+|b1056|1|HD19445          |40| ||Slit width 2 arcsec|
+|r1056|1|HD19445           |10| ||Slit width 2 arcsec|
