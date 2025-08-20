@@ -8,7 +8,7 @@
 * Data Directory on Dark: /dark/hal/data/20250819_Lick/
 * Starlist: /mnt/shaenobs/observers/hoang/starlist_20250819.txt
 * Setup saved to: /hoang/20250819_lowres.kast
-* Observers: Emily, Darshana, Nico, Luke, Melissa, Walter
+* Observers: Emily, Darshana, Nico, Luke, Walter
 
 ## Setup: 
 
@@ -37,3 +37,22 @@
 |r1007-1017|11|Flats           |2| ||Blue Lamp 2 arcsec|
 |b1018-1028|11|Bias            |0| |||
 |r1018-1028|11|Bias            |0| |||
+|b1029|1|BD33d2642              |180| ||Slit width 2 arcsec|
+|r1029|1|BD33d2642              |100| ||Slit width 2 arcsec|
+|b1030-1033|4|2025ngs         |1200| ||Slit width 2 arcsec|
+|r1030-1033|4|2025ngs          |1200| ||Slit width 2 arcsec|
+|b10-10|3|2025qpk         |600| ||Slit width 2 arcsec|
+|r10-10|3|2025qpk          |600| ||Slit width 2 arcsec|
+|b10-10|5|2025qtt         |1200| ||Slit width 2 arcsec|
+|r10-10|5|2025qtt          |1200| ||Slit width 2 arcsec|
+|b10-10|3|2025rbs         |200| ||Slit width 2 arcsec|
+|r10-10|3|2025rbs          |200| ||Slit width 2 arcsec|
+|b10-10|5|2025pjx         |1200| ||Slit width 2 arcsec|
+|r10-10|5|2025pjx          |1200| ||Slit width 2 arcsec|
+|b10-10|3|2025tis         |1200| ||Slit width 2 arcsec|
+|r10-10|3|2025tis          |1200| ||Slit width 2 arcsec|
+|b10|1|HD19445          |40| ||Slit width 2 arcsec|
+|r10|1|HD19445           |10| ||Slit width 2 arcsec|
+|r1055|1|2025shf          |600| ||Slit width 2 arcsec|
+|b1056|1|HD19445          |40| ||Slit width 2 arcsec, be careful of double peak|
+|r1056|1|HD19445           |10| ||Slit width 2 arcsec, be careful of double peak|
