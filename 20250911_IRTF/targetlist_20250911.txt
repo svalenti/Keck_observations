@@ -1,0 +1,35 @@
+#
+#  IRTF Star Catalog User List version 3
+#     This file contain a user's object list for the star catalog.
+#     Observers can add their object in this file and input the list 
+#     into the star catalog. 
+#     All columns are delimited by spaces.
+#
+#     Format version 3 is supported from 2023B to present.
+#
+#     Ref: http://irtfweb.ifa.hawaii.edu/~tcs3/related/starcat/
+#
+#  Col  Name       Description
+#  ---- --------   -----------------------------------------------------
+#   1    Index     Numeric index of user list. 
+#   2    Name      Name as a string (30 chars max). No spaces allowed. 
+#   3    RA        RA  position in ICRS coordinates,  hh:mm:ss.ss. 
+#   4    Dec       Dec position in ICRS coordinates, +dd:mm:ss.s.  
+#   5    RA_PM     Proper motion of RA  in mas/yr. Use 0.0 if proper motion not known.
+#   6    Dec_PM    Proper motion of Dec in mas/yr. Use 0.0 if proper motion not known.
+#   7    ST        Spectra Type string (7 chars max). Use "n/a" if not known.
+#   8&9  Magn_0    Magn_0 is Magnitude value and character description. Use '0.0 -' if not known.
+#  10&11 Magn_1    Magn_1 is optional.  Will use '0.0 -' if not provided. 
+#  12&13 Magn_2    Magn_2 is optional.  Will use '0.0 -' if not provided.
+#  14&15 Magn_3    Magn_3 is optional.  Will use '0.0 -' if not provided.
+#
+#Index _________Name________   __ICRS_RA__  _ICRS_DEC__   RA_PM  Dec_PM   __ST___  Magn_0  Magn_1  Magn_2  Magn_3
+#     30 chars max,no spaces   hh:mm:ss.ss  +dd:mm:ss.s   mas/y   mas/y  (7chars)  xx.x V  xx.x C  xx.x C  xx.x C  
+1     SN2025ngs                15:35:16.68	+30:51:55.5   n/a     n/a       n/a    18.0 V  0.0 J   16.0 K   
+2     HIP79332                 16:11:28.74	+16:39:56.5   3.552   4.875     A0V     6.1 V  6.0 J    6.0 K	
+3     HIP91315                 18:37:33.52	+62:31:35.7   -8.985  49.578    A0V     5.7 V  5.7 J    5.8 K
+4     SN2025qtt                19:31:06.01	+54:06:03.7   n/a     n/a       n/a    17.2 V  0.0 J   16.5 K
+5     HIP109079                22:05:50.45	+45:06:45.0   14.186  -4.599    A0V     6.5 V  6.5 J    6.6 K
+6     SN2025rbs                22:37:03.66	+34:25:08.0   n/a     n/a       n/a    12.8 V  0.0 J   13.0 K
+7     HIP116886                23:41:33.51  +10:12:57.1   -2.899  -10.54    A0V     9.9 V  9.4 J    9.2 K
+8     AT2025uue                00:20:05.08  +08:30:41.9   n/a     n/a       n/a    17.5 V  0.0 J   17.5 K
