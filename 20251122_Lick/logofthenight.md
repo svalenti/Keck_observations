@@ -1,7 +1,7 @@
 # Observation Log 20252211
 
 * Conditions: 
-* Seeing: 
+* Seeing: 1.5"
 * SA: Paul
 * OA: Matt
 * Data Directory: https://mthamilton.ucolick.org/data/
@@ -36,3 +36,27 @@
 |r1007-1017|11|Flat           |2| |||
 |b1018-1028|11|Bias            |0| |||
 |r1018-1028|11|Bias            |0| |||
+|b1029|1|BD284211            |180| ||Saturated, don't use, weird streaks on the bottom|
+|r1029|1|BD284211          |180| |||
+|b1030|1|BD284211            |135| ||weird streaks on the bottom|
+|b1031-35|5|2025qpk            |1200| |||
+|r1030-34|5|2025qpk            |1200| |||
+|b10|4|2025rbs            |1200| |||
+|r10|4|2025rbs            |1200| |||
+|b10|3|2025abov            |900| |||
+|r10|3|2025abov           |900| |||
+|b10|3|2025tis            |1200| |||
+|r10|3|2025tis            |1200| |||
+|b10|4|2025pht            |1200| |||
+|r10|4|2025pht            |1200| |||
+|b10|3|2024qiw            |900| |||
+|r10|3|2025qiw            |900| |||
+|b10|4|2025adtn           |1200| |||
+|r10|4|2025adtn            |1200| |||
+|b10|3|2025aecv            |1200| |||
+|r10|3|2025aecv            |1200| |||
+
+
+
+
+
