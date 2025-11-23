@@ -2,7 +2,7 @@
 
 * Conditions: 
 * Seeing: 
-* SA: 
+* SA: Paul
 * OA: Matt
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20251122_Lick/
@@ -32,7 +32,7 @@
 |r1001-1003|3|arc_0p5     |4| |||
 |b1004-1006|3|arc_2p0_NeHgCdAr |10| || |
 |r1004-1006|3|arc_2p0_NeHgCdAr     |2| |||
-|b1007-1017|11|Flats           |29| |||
-|r1007-1017|11|Flats           |2| |||
+|b1007-1017|11|Flat           |29| ||Sup Blue at 90|
+|r1007-1017|11|Flat           |2| |||
 |b1018-1028|11|Bias            |0| |||
 |r1018-1028|11|Bias            |0| |||
