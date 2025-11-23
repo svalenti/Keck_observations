@@ -36,15 +36,15 @@
 |r1007-1017|11|Flat           |2| |||
 |b1018-1028|11|Bias            |0| |||
 |r1018-1028|11|Bias            |0| |||
-|b1029|1|BD284211            |180| ||Saturated, don't use, weird streaks on the bottom|
+|b1029|1|BD284211            |180| ||Saturated, DON'T USE, weird streaks on the bottom|
 |r1029|1|BD284211          |180| |||
 |b1030|1|BD284211            |135| ||weird streaks on the bottom|
 |b1031-35|5|2025qpk            |1200| |||
 |r1030-34|5|2025qpk            |1200| |||
 |b1036-39|4|2025rbs            |1200| |||
 |r1035-38|4|2025rbs            |1200| |||
-|b1040|3|2025abov            |900| ||Don't use, no trace|
-|r1039|3|2025abov           |900| ||Don't use, no trace|
+|b1040|3|2025abov            |900| ||DON'T USE, no trace|
+|r1039|3|2025abov           |900| ||DON'T USE, no trace|
 |b1041-43|3|2025abov            |900| |||
 |r1040-42|3|2025abov           |900| |||
 |b10|3|2025tis            |1200| |||
