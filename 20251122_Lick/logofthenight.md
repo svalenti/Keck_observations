@@ -1,6 +1,6 @@
 # Observation Log 20252211
 
-* Conditions: 
+* Conditions: Good weather!
 * Seeing: 1.5"
 * SA: Paul
 * OA: Matt and Norm
@@ -47,8 +47,8 @@
 |r1039|3|2025abov           |900| ||DON'T USE, no trace|
 |b1041-43|3|2025abov            |900| |||
 |r1040-42|3|2025abov           |900| |||
-|b10|3|2025tis            |1200| |||
-|r10|3|2025tis            |1200| |||
+|b1044-|3|2025tis            |1200| |||
+|r1043-|3|2025tis            |1200| |||
 |b10|4|2025pht            |1200| |||
 |r10|4|2025pht            |1200| |||
 |b10|3|2024qiw            |900| |||
