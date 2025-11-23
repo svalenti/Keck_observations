@@ -3,7 +3,7 @@
 * Conditions: 
 * Seeing: 1.5"
 * SA: Paul
-* OA: Matt
+* OA: Matt and Norm
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20251122_Lick/
 * Starlist: /mnt/shaenobs/observers/hoang/starlist_20251122.txt
@@ -41,10 +41,12 @@
 |b1030|1|BD284211            |135| ||weird streaks on the bottom|
 |b1031-35|5|2025qpk            |1200| |||
 |r1030-34|5|2025qpk            |1200| |||
-|b10|4|2025rbs            |1200| |||
-|r10|4|2025rbs            |1200| |||
-|b10|3|2025abov            |900| |||
-|r10|3|2025abov           |900| |||
+|b1036-39|4|2025rbs            |1200| |||
+|r1035-38|4|2025rbs            |1200| |||
+|b1040|3|2025abov            |900| ||Don't use, no trace|
+|r1039|3|2025abov           |900| ||Don't use, no trace|
+|b1041-43|3|2025abov            |900| |||
+|r1040-42|3|2025abov           |900| |||
 |b10|3|2025tis            |1200| |||
 |r10|3|2025tis            |1200| |||
 |b10|4|2025pht            |1200| |||
