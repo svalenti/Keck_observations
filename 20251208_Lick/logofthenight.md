@@ -1,9 +1,9 @@
 # Observation Log 20251208
 
 * Conditions: 
-* Seeing: 
+* Seeing: 0.7 at the beginning, 1.4 a couple hours in
 * SA: Paul
-* OA: Matt and Norm
+* OA: Norm
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20251208_Lick/
 * Starlist: /mnt/shaenobs/observers/hoang/starlist_20251208.txt
@@ -37,11 +37,11 @@
 |b1018-1028|11|Bias            |0| |||
 |r1018-1028|11|Bias            |0| |||
 |b1029|1|BD284211            |180| |||
-|r1029|1|BD284211          |180| |||
-|b10|4|2025rbs            |1200| |||
-|r10|4|2025rbs            |1200| |||
-|b10|4|2025abov            |1200| |||
-|r10|4|2025abov           |1200| |||
+|r1029|1|BD284211          |100| |||
+|b1030-1033|4|2025rbs            |1200| |||
+|r1030-1033|4|2025rbs            |1200| |||
+|b1034-1037|4|2025abov           |1200| |||
+|r1034-1037|4|2025abov           |1200| |||
 |b10|5|2025tis            |1200| |||
 |r10|5|2025tis            |1200| |||
 |b10|6|2025pht            |1200| |||
