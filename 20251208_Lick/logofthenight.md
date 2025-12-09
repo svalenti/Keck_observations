@@ -56,10 +56,13 @@
 |r1059|1|2025afcy            |500| |||
 |b1060|1|ToO (Zheng)            |3000| |||
 |r1060-1062|3|ToO (Zheng)            |1000| |||
-|b10|1|HD84937             |60| |||
-|r10|1|HD84937             |20| |||
-|b10|3|2025aecv            |1200| |||
-|r10|3|2025aecv            |1200| |||
+|b1061|1|HD84937             |60| |||
+|r1063|1|HD84937             |20| ||Peak red ~17,000 cts|
+|r1064|1|HD84937             |30| ||Peak red ~20,000 cts|
+|b1062|1|2025aecv            |1200| ||18 deg morning twilight crossed|
+|r1065|1|2025aecv            |1200| ||18 deg morning twilight crossed|
+|b1063|1|2025aecv            |600| ||15 deg morning twilight crossed|
+|r1066|1|2025aecv            |600| ||15 deg morning twilight crossed|
 
 
 
