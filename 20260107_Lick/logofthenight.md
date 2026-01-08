@@ -1,9 +1,9 @@
 # Observation Log 20260107
 
-* Conditions: 
+* Conditions: High humidity at the start
 * Seeing: 
 * SA: Ellie
-* OA: 
+* OA: Paul and Shawn
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20260107_Lick/
 * Starlist: /mnt/shaenobs/observers/hoang/starlist_20260107.txt
@@ -21,10 +21,8 @@
 ----------------------------
 * Blue window: 400 2048 900 0
 * Red window: 2725 525 675 409
-* Blue Focus: 24.232 mm
-* Red Focus: -0.824 mm
-
-### Central wavelength= around 7770
+* Blue Focus: 23.078 mm
+* Red Focus: 0.111 mm
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
