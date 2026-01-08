@@ -1,9 +1,9 @@
 # Observation Log 20260107
 
-* Conditions: High humidity at the start
+* Conditions: High humidity all throughout with prediction of clouds and rain. 8:15pm called off the night
 * Seeing: 
 * SA: Ellie
-* OA: Paul and Shawn
+* OA: Paul, Shawn, and Norm
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20260107_Lick/
 * Starlist: /mnt/shaenobs/observers/hoang/starlist_20260107.txt
@@ -32,6 +32,3 @@
 |r1004-1006|3|arc_2p0_NeHgCdAr     |2| |||
 |b1007-1017|11|Bias           |0| |||
 |r1007-1017|11|Bias           |0| |||
-|b1018-1028|11|Flat            |25| ||Sup Blue at 90|
-|r1018-1028|11|Flat            |2| |||
-
