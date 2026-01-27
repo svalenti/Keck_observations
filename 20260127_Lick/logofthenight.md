@@ -22,7 +22,7 @@
 * Blue window: 400 2048 900 0
 * Red window: 2725 525 675 409
 * Blue Focus: 23.996 mm
-* Red Focus: 0.111 mm
+* Red Focus: 0.454 mm
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
