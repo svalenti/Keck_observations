@@ -28,9 +28,9 @@
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
 |b1001-1003|3|Arc_0p5_NeHgCdAr |25| || |
 |r1001-1003|3|Arc_0p5_NeHgCdAr |4| |||
-|b1004-1006|3|arc_2p0_NeHgCdAr |10| || |
+|b1004-1006|3|arc_2p0_NeHgCdAr |12| || |
 |r1004-1006|3|arc_2p0_NeHgCdAr     |2| |||
-|b1007-1017|11|flats || || |
-|r1007-1017|11|flats     || |||
+|b1007-1017|11|Flats |25| || Super blue dimmer not working, we used the blue lamp (the same one we generally use for red side)|
+|r1007-1017|11|Flats     |2.5| |||
 |b1018-1028|11|Bias           |0| |||
 |r1018-1028|11|Bias           |0| |||
