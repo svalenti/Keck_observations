@@ -1,6 +1,6 @@
 # Observation Log 20260127
 
-* Conditions: 
+* Conditions: Weathered out (high humidity)
 * Seeing: 
 * SA: Paul
 * OA: 
