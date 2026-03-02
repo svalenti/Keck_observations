@@ -21,16 +21,17 @@
 ----------------------------
 * Blue window: 400 2048 900 0
 * Red window: 2725 525 675 409
-* Blue Focus: 23.996 mm
-* Red Focus: 0.454 mm
+* Blue Focus: 24.065 mm
+* Red Focus: -0.113 mm
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
-|b1001-1003|3|Arc_0p5_NeHgCdAr |25| || |
-|r1001-1003|3|Arc_0p5_NeHgCdAr |4| |||
+|b1001-1003|3|Arc_0p5_NeHgCdAr |28| || |
+|r1001-1003|3|Arc_0p5_NeHgCdAr |5| |||
 |b1004-1006|3|arc_2p0_NeHgCdAr |12| || |
-|r1004-1006|3|arc_2p0_NeHgCdAr     |2| |||
-|b1007-1017|11|Flats |25| || Super blue dimmer not working, we used the blue lamp (the same one we generally use for red side)|
+|r1004-1006|3|arc_2p0_NeHgCdAr     |2.5| |||
+|b1007-1017|11|Flats |15| || Super blue dimmer recently replaced, lowered exposure time from previous attempts|
+
 |r1007-1017|11|Flats     |2.5| |||
 |b1018-1028|11|Bias           |0| |||
 |r1018-1028|11|Bias           |0| |||
