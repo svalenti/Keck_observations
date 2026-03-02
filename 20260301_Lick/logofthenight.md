@@ -31,7 +31,6 @@
 |b1004-1006|3|arc_2p0_NeHgCdAr |12| || |
 |r1004-1006|3|arc_2p0_NeHgCdAr     |2.5| |||
 |b1007-1017|11|Flats |15| || Super blue dimmer recently replaced, lowered exposure time from previous attempts|
-
-|r1007-1017|11|Flats     |2.5| |||
+|r1007-1017|11|Flats     |2| |||
 |b1018-1028|11|Bias           |0| |||
 |r1018-1028|11|Bias           |0| |||
