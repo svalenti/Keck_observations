@@ -1,9 +1,9 @@
 # Observation Log 20260301
 
-* Conditions: 
+* Conditions: Rain/sprinkles near the start of the night, fog/high humidity around the middle
 * Seeing: 
 * SA: Ellie
-* OA: Norm
+* OA: Norm and Matt
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20260127_Lick/
 * Starlist: /mnt/shaenobs/observers/hoang/starlist_20260301.txt
