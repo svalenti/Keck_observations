@@ -44,8 +44,8 @@
 |r1037-1040|4|2026acd        |900| |||
 |b1041-1047|7|2026fvx       |900| ||| 
 |r1041-1047|7|2026fvx        |900| |||
-|b1048-1050|3|2026fjc       |900| || Don't use first exposure, not good SNR |
-|r1048-1050|3|2026fjc        |900| ||Don't use first exposure, not good SNR |
+|b1048-1050|3|2026fjc       |900| || Don't use first exposure, bad SNR |
+|r1048-1050|3|2026fjc        |900| ||Don't use first exposure, bad SNR |
 |b1051-1058|8|2026ejy       |1100| ||| 
 |r1051-1058|8|2026ejy        |1100| |||
 |b1059|1|BD262606     |135| ||| 
