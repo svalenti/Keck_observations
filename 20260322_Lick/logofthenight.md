@@ -1,6 +1,6 @@
 # Observation Log 20260322
 
-* Conditions: 
+* Conditions: Slightly cloudy
 * Seeing: 1.4"
 * SA: Ellie
 * OA: John Jackson
@@ -44,11 +44,11 @@
 |r1037-1040|4|2026acd        |900| |||
 |b1041-1047|7|2026fvx       |900| ||| 
 |r1041-1047|7|2026fvx        |900| |||
-|b1048-1050|3|2026fjc       |900| ||| Don't use first exposure, not good SNR
-|r1048-1050|3|2026fjc        |900| ||| Don't use first exposure, not good SNR
-|b1051-1055|5|2026ejy       |1200| ||| 
-|r1051-1055|5|2026ejy        |1200| |||
-|b1057|1|BD262606     |135| ||| 
-|r1057|1|BD262606        |135| |||
+|b1048-1050|3|2026fjc       |900| || Don't use first exposure, not good SNR |
+|r1048-1050|3|2026fjc        |900| ||Don't use first exposure, not good SNR |
+|b1051-1057|7|2026ejy       |1100| ||| 
+|r1051-1057|7|2026ejy        |1100| |||
+|b1058|1|BD262606     |135| ||| 
+|r1058|1|BD262606        |135| |||
 
 
