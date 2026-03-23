@@ -38,5 +38,5 @@
 |r1029|1|G191B2B           |150| |||
 |b1030|5|2025advo           |1100| ||Some clouds. Used offset star. One observations not usable| 
 |r1030|5|2025advo        |1100| |||
-|b1031-1035|5|2025aico           |1100| |||
-|r1031-1035|5|2025aico        |1100| |||
+|b1031-1036|6|2025aico           |1100| |||
+|r1031-1036|6|2025aico        |1100| |||
