@@ -1,7 +1,7 @@
 # Observation Log 20260322
 
 * Conditions: 
-* Seeing: 
+* Seeing: 1.4"
 * SA: Ellie
 * OA: John Jackson
 * Data Directory: https://mthamilton.ucolick.org/data/
@@ -34,3 +34,6 @@
 |b1007-1017|11|Bias           |0| |||
 |b1018-1028|11|Flats     |15| || Superblue at 90|
 |b1018-1028|11|Flats     |2| |||
+|b1029|1|G191B2B           |240| |||
+|r1029|1|G191B2B           |150| |||
+
