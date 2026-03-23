@@ -36,7 +36,10 @@
 |b1018-1028|11|Flats     |2| |||
 |b1029|1|G191B2B           |240| |||
 |r1029|1|G191B2B           |150| |||
-|b1030|5|2025advo           |1100| ||Some clouds. Used offset star. One observations not usable| 
-|r1030|5|2025advo        |1100| |||
-|b1031-1036|6|2025aico           |1100| |||
+|b1030|1|2025advo           |1100| ||Some clouds. Used offset star. One observations not usable| 
+|r1030|1|2025advo        |1100| |||
+|b1031-1036|6|2025aico           |1100| ||| Some trace
 |r1031-1036|6|2025aico        |1100| |||
+|b1037-1040|4|2026acd       |900| ||| Good
+|r1037-1040|4|2026acd        |900| |||
+
