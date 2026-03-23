@@ -1,9 +1,9 @@
 # Observation Log 20260322
 
-* Conditions: Slightly cloudy
+* Conditions: Slightly cloudy, intermittent clouds
 * Seeing: 1.4"
 * SA: Ellie
-* OA: John Jackson
+* OA: John Jackson and Paul
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20260322_Lick/
 * Starlist: /mnt/shaenobs/observers/hoang/starlist_20260322.txt
@@ -21,8 +21,8 @@
 ----------------------------
 * Blue window: 400 2048 900 0
 * Red window: 2725 525 675 409
-* Blue Focus: 24.065 mm
-* Red Focus: -0.113 mm
+* Blue Focus: 23.754 mm
+* Red Focus: -0.146 mm
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
@@ -36,9 +36,9 @@
 |b1018-1028|11|Flats     |2| |||
 |b1029|1|G191B2B           |240| |||
 |r1029|1|G191B2B           |150| |||
-|b1030|1|2025advo           |1100| ||Some clouds. Used offset star. One observations not usable| 
+|b1030|1|2025advo           |1100| ||Some clouds. Used offset star. Lost guide star, DO NOT USE| 
 |r1030|1|2025advo        |1100| |||
-|b1031-1036|6|2025advo           |1100| ||| Some trace
+|b1031-1036|6|2025advo           |1100| || Some trace |
 |r1031-1036|6|2025advo        |1100| |||
 |b1037-1040|4|2026acd       |900| ||| Good
 |r1037-1040|4|2026acd        |900| |||
