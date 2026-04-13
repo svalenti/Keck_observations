@@ -31,4 +31,5 @@
 |b1004-1006|3|arc_2p0_HgCd_Ar_Ne|15| || |
 |r1004-1006|3|arc_2p0_HgCd_Ar_Ne     |2| |||
 |b1007-1017|11|Bias           |0| |||
-|b1007-1017|11|Bias           |0| |||
+|r1007-1017|11|Bias           |0| ||Shutter accidently left open, do not use.|
+|r1018-1028|11|Bias           |0| ||Good to use|
