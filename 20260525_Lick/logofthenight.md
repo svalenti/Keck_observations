@@ -3,7 +3,7 @@
 * Conditions: 
 * Seeing:
 * SA: 
-* OA: 
+* OA: John and Norm
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20260525_Lick/
 * Starlist: /mnt/shaenobs/observers/nretamal/starlist_20260525.txt
@@ -21,14 +21,16 @@
 ----------------------------
 * Blue window: 400 2048 900 0
 * Red window: 2725 525 675 409
-* Blue Focus: 23.108 mm
-* Red Focus: -0.2566 mm
+* Blue Focus: 25.23 mm
+* Red Focus: 0.499 mm
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
-|b1001-1003|3|Arc_0p5_HgCd_Ar_Ne |30| || |
-|r1001-1003|3|Arc_0p5_HgCd_Ar_Ne |3| |||
-|b1004-1006|3|arc_2p0_HgCd_Ar_Ne|15| || |
+|b1001-1003|3|Arc_0p5_HgCd_Ar_Ne |28| || |
+|r1001-1003|3|Arc_0p5_HgCd_Ar_Ne |5| |||
+|b1004-1006|3|arc_2p0_HgCd_Ar_Ne|14| || |
 |r1004-1006|3|arc_2p0_HgCd_Ar_Ne     |2| |||
-|b1007-1017|11|Bias           |0| |||
-|r1007-1017|11|Bias           |0| |||
+|b1007-1017|11|FLat           |15| ||Superblue at 90|
+|r1007-1017|11|Flat           |0| |||
+|b1018-1028|11|Bias           |0| |||
+|r1018-1028|11|Bias           |0| |||
