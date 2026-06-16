@@ -33,7 +33,8 @@
 |b1007-1017|11|Flat           |15| ||Superblue at 90|
 |r1007-1017|11|Flat           |2| |||
 |r1018-1029|11|Bias           |0| ||We should not use #18|
-|b1019-1021|3|           |0| |||
-|r1030-1032|3|           |0| |||
-|r1033-|3|Bias           |0| |||
-|b-|11|Bias           |0| ||We should not use #18|
+|b1019-1021|3| BD33d2642           |40| |||
+|r1030-1032|3| BD33d2642          |40| |||
+|r1022-|2|SN2026fvx           |1200| |||
+|r1033-|2|SN2026fvx           |1200| |||
+|b1*-|11|Bias           |0| ||Blue bias were missed at the beginning|
