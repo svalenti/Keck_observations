@@ -1,14 +1,14 @@
-# Observation Log 20260525
+# Observation Log 20260615
 
 * Conditions: 
 * Seeing:
 * SA: 
-* OA: John and Norm
+* OA: 
 * Data Directory: https://mthamilton.ucolick.org/data/
-* Data Directory on Dark: /dark/hal/data/20260525_Lick/
-* Starlist: /mnt/shaenobs/observers/nretamal/starlist_20260525.txt
+* Data Directory on Dark: /dark/hal/data/20260615_Lick/
+* Starlist: /mnt/shaenobs/observers/nretamal/starlist_20260615.txt
 * Setup saved to: /nretamal/20260416.kast
-* Observers: Darshana (planner), Darshana (calibrations), Nico, Emily, Aravind
+* Observers: Nico (planning observing) and Aravind (planning logging)
 
 ## Setup: 
 
