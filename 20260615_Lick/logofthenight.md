@@ -39,4 +39,10 @@
 |r1033-1034|2|SN2026fvx           |1200| |||
 |b1023-1026|4|SN2026kid           |1200| |||
 |r1035-1038|4|SN2026kid           |1200| |||
-|b1*-|11|Bias           |0| ||Blue bias were missed at the beginning|
+|b1027-1030|4|SN2026ejy           |1200| |||
+|r1039-1042|4|SN2026ejy           |1200| |||
+|b1031-1033|3|SN2026obc           |1200| |||
+|r1043-1045|3|SN2026obc           |1200| |||
+|b1034|1| BD33d2642           |140| |||
+|r1046|1| BD33d2642          |140| |||
+|b1035-1045|11|Bias           |0| ||Blue bias were missed at the beginning|
