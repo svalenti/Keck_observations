@@ -26,13 +26,13 @@
 
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
-|b1001-1003|3|Arc_0p5_HgCd_Ar_Ne |28| || |
-|r1001-1003|3|Arc_0p5_HgCd_Ar_Ne |5| |||
-|b1004-1006|3|arc_2p0_HgCd_Ar_Ne|14| || |
+|b1001-1003|3|Arc_0p5_HgCd_Ar_Ne |35| || |
+|r1001-1003|3|Arc_0p5_HgCd_Ar_Ne |3| |||
+|b1004-1006|3|arc_2p0_HgCd_Ar_Ne|15| || |
 |r1004-1006|3|arc_2p0_HgCd_Ar_Ne     |2| |||
-|b1007-1017|11|Flat           |15| ||Superblue at 90|
-|r1007-1017|11|Flat           |2| |||
-|r1018-1029|11|Bias           |0| ||We should not use #18|
+|b1007-1017|11|Flat           |12| ||Superblue at 90|
+|r1007-1017|11|Flat           |3| |||
+|r1018-1029|11|Bias           |0| ||We should not use #18. Changed windowing by accident|
 |b1018-1020|3| BD33d2642           |40| |||
 |r1030-1032|3| BD33d2642          |40| |||
 |b1021-1022|2|SN2026fvx           |1200| |||
