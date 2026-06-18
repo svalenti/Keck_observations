@@ -1,0 +1,29 @@
+#
+#  IRTF Star Catalog User List version 3
+#     This file contain a user's object list for the star catalog.
+#     Observers can add their object in this file and input the list 
+#     into the star catalog. 
+#     All columns are delimited by spaces.
+#
+#     Format version 3 is supported from 2023B to present.
+#
+#     Ref: http://irtfweb.ifa.hawaii.edu/~tcs3/related/starcat/
+#
+#  Col  Name       Description
+#  ---- --------   -----------------------------------------------------
+#   1    Index     Numeric index of user list. 
+#   2    Name      Name as a string (30 chars max). No spaces allowed. 
+#   3    RA        RA  position in ICRS coordinates,  hh:mm:ss.ss. 
+#   4    Dec       Dec position in ICRS coordinates, +dd:mm:ss.s.  
+#   5    RA_PM     Proper motion of RA  in mas/yr. Use 0.0 if proper motion not known.
+#   6    Dec_PM    Proper motion of Dec in mas/yr. Use 0.0 if proper motion not known.
+#   7    ST        Spectra Type string (7 chars max). Use "n/a" if not known.
+#   8&9  Magn_0    Magn_0 is Magnitude value and character description. Use '0.0 -' if not known.
+#  10&11 Magn_1    Magn_1 is optional.  Will use '0.0 -' if not provided. 
+#  12&13 Magn_2    Magn_2 is optional.  Will use '0.0 -' if not provided.
+#  14&15 Magn_3    Magn_3 is optional.  Will use '0.0 -' if not provided.
+#
+#Index _________Name________   __ICRS_RA__  _ICRS_DEC__   RA_PM  Dec_PM   __ST___  Magn_0  Magn_1  Magn_2  Magn_3
+#     30 chars max,no spaces   hh:mm:ss.ss  +dd:mm:ss.s   mas/y   mas/y  (7chars)  xx.x V  xx.x C  xx.x C  xx.x C    
+1     SN2026obc                01:07:49.43  +41:59:43.38  n/a     n/a       n/a    16.5 V  16.5 J   16.5 K
+2     HIP1603                  00:20:05.17  +48:51:55.62  -2.875 -14.36     A0V     6.5 V   6.3 J    6.3 K
