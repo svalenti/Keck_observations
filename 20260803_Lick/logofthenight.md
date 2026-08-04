@@ -1,6 +1,6 @@
 # Observation Log 20260803
 
-* Conditions: 
+* Conditions: Due to particle increase, night was called at 2:42 am. 
 * Seeing:0.92
 * SA: Elinor Gates
 * OA: Norm
