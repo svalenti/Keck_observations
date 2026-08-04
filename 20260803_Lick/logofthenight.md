@@ -1,1 +1,52 @@
+# Observation Log 20260803
+
+* Conditions: 
+* Seeing:
+* SA: Elinor Gates
+* OA: John Jackson
+* Data Directory: https://mthamilton.ucolick.org/data/
+* Data Directory on Dark: /dark/hal/data/20260803_Lick/
+* Starlist: /mnt/shaenobs/observers/nretamal/starlist_20260803.txt
+* Setup saved to: /nretamal/20260803.kast
+* Observers: Darshana (planning observing logging) and Nico (observing)
+
+## Setup: 
+
+* Dichroic d57
+* Blue grism 452/3306
+* Red grating 300/7500
+* Grating tilt 4718
+* Xstage blue shift: 15.65mm
+* Ystage blue shift: 0.5mm
+----------------------------
+* Blue window: 400 2048 940 0
+* Red window: 2725 525 675 409
+* Blue Focus: 26.857 mm
+* Red Focus: -0.467 mm
+
+| Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
+|------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
+|b1001-1003|3|0p5_HgCdArNe |30| || |
+|r1001-1003|3|0p5_HgCdArNe |4| |||
+|b1004-1006|3|2p0_HgCdArNe |15| || |
+|r1004-1006|3|2p0_HgCdArNe |2| |||
+|b1007-1017|11|Flats           |15| ||Superblue at 80|
+|r1007-1017|11|Flats          |2.5| |||
+|b1018-1029|11|Bias           |0| |||
+|r1018-1029|11|Bias           |0| |||
+|b1018-1020|3| BD33d2642           |40| |||
+|r1030-1032|3| BD33d2642          |40| |||
+|b1021-1022|2|SN2026fvx           |1200| |||
+|r1033-1034|2|SN2026fvx           |1200| |||
+|b1023-1026|4|SN2026kid           |1200| |||
+|r1035-1038|4|SN2026kid           |1200| |||
+|b1027-1032|6|SN2026ejy           |1200| |||
+|r1039-1044|6|SN2026ejy           |1200| |||
+|b1033-1035|3|SN2026ewd           |2x1200+600| |||
+|r1045-1047|3|SN2026ewd           |2x1200+600| |||
+|b1036-1039|4|SN2026obc           |1200| |||
+|r1048-1051|4|SN2026obc           |1200| |||
+|b1040-1042|3| BD33d2642           |140+120+100| ||| First one saturaded on the red
+|r1052-1054|3| BD33d2642          |140+120+100| |||First one saturaded on the red
+|b1043-1053|11|Bias           |0| ||Blue bias were missed at the beginning|
 
