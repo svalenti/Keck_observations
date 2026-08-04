@@ -36,7 +36,7 @@
 |r1018-1028|11|Bias           |0| |||
 |b1029-1031|3|1p0_HgCdArNe           || ||Setup with 600/7500 grating |
 |r1029-1031|3|1p0_HgCdArNe           || ||Setup with 600/7500 grating |
-|b1035-1037|11|Flats           |35,60,70| ||Superblue at 80|
+|b1035-1037|3|Flats           |35,60,70| ||Superblue at 80|
 |r1032-1042|11|Flats          |5| |||
 |b1038|1| BD33d2642           |180| |||
 |r1043|1| BD33d2642          |100| |||
@@ -44,10 +44,10 @@
 |r1044|1|SN2026ejy           |800| |||
 |b1040|1|SN2026ejy           |446.96| ||Reduced exp time so that we don't exceed HA limit|
 |r1045|1|SN2026ejy           |442.81| ||Reduced exp time so that we don't exceed HA limit|
-|b1041-46|6|SN2026mho           |800| |||
-|r1046-51|6|SN2026mho           |800| |||
-|b10-10|7|SN2026obc           |1200| |||
-|r10-10|7|SN2026obc           |1200| |||
-|b10-10|1| Feige110          |240| ||| 
-|r10-10|1| Feige110          |150| |||
+|b1041-1046|6|SN2026mho           |800| |||
+|r1046-1051|6|SN2026mho           |800| |||
+|b1047-1053|7|SN2026obc           |1200| |||
+|r1052-1058|7|SN2026obc           |1200| |||
+|b1054|1| Feige110          |240| ||| 
+|r1059|1| Feige110          |150| |||
 
