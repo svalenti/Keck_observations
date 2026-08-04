@@ -1,14 +1,14 @@
 # Observation Log 20260803
 
 * Conditions: 
-* Seeing:
+* Seeing:0.92
 * SA: Elinor Gates
-* OA: John Jackson
+* OA: Norm
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20260803_Lick/
 * Starlist: /mnt/shaenobs/observers/nretamal/starlist_20260803.txt
 * Setup saved to: /nretamal/20260803.kast
-* Observers: Darshana (planning observing logging) and Nico (observing)
+* Observers: Darshana (planning observing logging) and Nico (observing logging)
 
 ## Setup: 
 
