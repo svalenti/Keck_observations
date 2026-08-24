@@ -1,9 +1,9 @@
 # Observation Log 20260803
 
 * Conditions: Clouds and high particle count from nearby fire.
-* Seeing:
-* SA: Elinor Gates
-* OA: Shawn Stone
+* Seeing: 
+* SA: Tess Marlin
+* OA: Paul Canton
 * Data Directory: https://mthamilton.ucolick.org/data/
 * Data Directory on Dark: /dark/hal/data/20260823_Lick/
 * Starlist: /mnt/shaenobs/observers/nretamal/starlist_20260823.txt
