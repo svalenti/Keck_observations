@@ -27,6 +27,7 @@
 | Side | Obs #     | Target    | Exptime (s) | Start Time (UT) | Airmass | Comments                                                   |
 |------|-----------|-----------|-------------|-----------------|---------|------------------------------------------------------------|
 |b1001-1003|3|arc_0p5_HgCdArNe |35| || |
+|r1001-1002|3|arc_0p5_HgCdArNe |3| || Do not use, accidental recording of tests|
 |r1003-1005|3|arc_0p5_HgCdArNe |3| |||
 |b1004-1006|3|arc_2p0_HgCdArNe |15| || |
 |r1006-1008|3|arc_2p0_HgCdArNe |2| |||
