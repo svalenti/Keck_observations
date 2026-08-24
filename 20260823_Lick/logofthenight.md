@@ -1,6 +1,6 @@
 # Observation Log 20260803
 
-* Conditions: 
+* Conditions: Clouds and high particle count from nearby fire.
 * Seeing:
 * SA: Elinor Gates
 * OA: Shawn Stone
