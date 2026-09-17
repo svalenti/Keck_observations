@@ -6,7 +6,7 @@
 * OA: Heather Hershley
 * Data Directory: /sdata245/lris6/2026sep17/
 * Data Directory on Dark: 
-* Starlist: 
+* Starlist: /dmehta/starlist_20260916.txt
 * Setup saved to: 
 * Observers: Mehta, Koutras, Lundquist, Meza-Retamal, Valenti
 * Caution: frame number reset during morning calibrations, so certain files are named old and should still be used
