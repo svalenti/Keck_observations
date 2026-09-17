@@ -2,7 +2,7 @@
 
 * Conditions: 
 * Seeing:
-* SA: Randy
+* SA: Randy Campbell
 * OA: Heather Hershley
 * Data Directory: /sdata245/lris6/2026sep17/
 * Data Directory on Dark: 
